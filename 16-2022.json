@@ -1,0 +1,18 @@
+[
+  {
+    "periode_data": 202301,
+    "tahun": 2022,
+    "bulan": "Januari - Juni",
+    "kegiatan": "Digitalisasi Arsip",
+    "jumlah": 1548,
+    "satuan": "boks"
+  },
+  {
+    "periode_data": 202301,
+    "tahun": 2022,
+    "bulan": "Juli - desember",
+    "kegiatan": "Digitalisasi Arsip",
+    "jumlah": 86082,
+    "satuan": "boks"
+  }
+]
