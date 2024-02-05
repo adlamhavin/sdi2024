@@ -1,18 +1,23 @@
 [
   {
-    "periode_data": 202301,
-    "tahun": 2022,
-    "bulan": "Januari - Juni",
+    "periode_data": 2023,
+    "semester": 2,
     "kegiatan": "Digitalisasi Arsip",
-    "jumlah": 1548,
-    "satuan": "boks"
+    "jumlah": 222,
+    "satuan": "Boks"
   },
   {
-    "periode_data": 202301,
-    "tahun": 2022,
-    "bulan": "Juli - desember",
+    "periode_data": 2023,
+    "semester": 2,
     "kegiatan": "Digitalisasi Arsip",
-    "jumlah": 86082,
-    "satuan": "berkas"
+    "jumlah": 10162,
+    "satuan": "Berkas"
+  },
+  {
+    "periode_data": 2023,
+    "semester": 2,
+    "kegiatan": "Digitalisasi Arsip",
+    "jumlah": 32432,
+    "satuan": "Lembar"
   }
 ]
