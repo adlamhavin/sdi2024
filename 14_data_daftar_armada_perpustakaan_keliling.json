@@ -137,15 +137,6 @@
   {
     "periode_data": 2023,
     "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
-    "jenis_kendaraan": "MOTOR RODA 3 VIAR",
-    "tahun_kepemilikan": 2015,
-    "nomor_polisi": "B 3647 PCQ",
-    "status": "Baik",
-    "keterangan": ""
-  },
-  {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
     "jenis_kendaraan": "MOTOR RODA 2 YAMAHA X RIDE",
     "tahun_kepemilikan": 2014,
     "nomor_polisi": "B 6102 PYQ",
@@ -375,42 +366,6 @@
     "tahun_kepemilikan": 2004,
     "nomor_polisi": "B 9210 EQ",
     "status": "Rusak berat",
-    "keterangan": ""
-  },
-  {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
-    "jenis_kendaraan": "Motor Roda Tiga Viar",
-    "tahun_kepemilikan": 2015,
-    "nomor_polisi": "B 3648 PCQ",
-    "status": "Rusak Berat",
-    "keterangan": ""
-  },
-  {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
-    "jenis_kendaraan": "Motor Roda Tiga Viar",
-    "tahun_kepemilikan": 2015,
-    "nomor_polisi": "B 3649 PCQ",
-    "status": "Rusak Berat",
-    "keterangan": ""
-  },
-  {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
-    "jenis_kendaraan": "Mitsubishi",
-    "tahun_kepemilikan": 2002,
-    "nomor_polisi": "B 9394 EQ",
-    "status": "Rusak Berat",
-    "keterangan": ""
-  },
-  {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
-    "jenis_kendaraan": "Toyota Kijang",
-    "tahun_kepemilikan": 2004,
-    "nomor_polisi": "B 9210 EQ",
-    "status": "Rusak Berat",
     "keterangan": ""
   },
   {
