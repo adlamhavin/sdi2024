@@ -1,0 +1,23 @@
+[
+    {
+      "periode_data": 2023,
+      "triwulan": 2,
+      "jumlah_naskah_dimanfaatkan": 1,
+      "jumlah_naskah_dimiliki": 20,
+      "persentase": 5
+    },
+    {
+      "periode_data": 2023,
+      "triwulan": 3,
+      "jumlah_naskah_dimanfaatkan": 1,
+      "jumlah_naskah_dimiliki": 20,
+      "persentase": 5
+    },
+    {
+      "periode_data": 2023,
+      "triwulan": 4,
+      "jumlah_naskah_dimanfaatkan": 2,
+      "jumlah_naskah_dimiliki": 20,
+      "persentase": 10
+    }
+  ]

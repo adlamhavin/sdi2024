@@ -1,0 +1,22 @@
+[
+  {
+    "periode_data": 202401,
+    "jenis_layanan": "Layanan Arsip Statis",
+    "jumlah": 11
+  },
+  {
+    "periode_data": 202401,
+    "jenis_layanan": "Layanan Konsultasi Online",
+    "jumlah": 11
+  },
+  {
+    "periode_data": 202401,
+    "jenis_layanan": "Layanan Konsultasi Offline",
+    "jumlah": 26
+  },
+  {
+    "periode_data": 202401,
+    "jenis_layanan": "Layanan Kunjungan Sekolah",
+    "jumlah": 8
+  }
+]

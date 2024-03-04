@@ -1,0 +1,23 @@
+[
+    {
+      "periode_data": 2023,
+      "jenis_profesi": "Pustakawan",
+      "jumlah": 39,
+      "jumlah_bersertifikat": 0,
+      "persentase": 0
+    },
+    {
+      "periode_data": 2023,
+      "jenis_profesi": "Tenaga teknis",
+      "jumlah": 208,
+      "jumlah_bersertifikat": 6,
+      "persentase": 2.88
+    },
+    {
+      "periode_data": 2023,
+      "jenis_profesi": "Penilai",
+      "jumlah": 0,
+      "jumlah_bersertifikat": 0,
+      "persentase": 0
+    }
+  ]
