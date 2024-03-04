@@ -1,22 +1,22 @@
 [
   {
     "periode_data": 2023,
-    "jumlah_koleksi_buku": 1223558,
     "triwulan": 2,
+    "jumlah_koleksi": 1223558,
     "jumlah_penduduk": 11204714,
     "rasio": 0.0546
   },
   {
     "periode_data": 2023,
-    "jumlah_koleksi_buku": 1279317,
     "triwulan": 3,
+    "jumlah_koleksi": 1279317,
     "jumlah_penduduk": 11204714,
     "rasio": 0.0568
   },
   {
     "periode_data": 2023,
-    "jumlah_koleksi_buku": 1356552,
     "triwulan": 4,
+    "jumlah_koleksi": 1356552,
     "jumlah_penduduk": 11204714,
     "rasio": 0.0605
   }
