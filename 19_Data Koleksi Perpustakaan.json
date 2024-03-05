@@ -1,0 +1,44 @@
+[
+    {
+      "periode_data": 2023,
+      "lokasi": "Perpustakaan Jakarta - Perpustakaan Cikini",
+      "jumlah_judul": 59982,
+      "jumlah_eksemplar": 177261
+    },
+    {
+      "periode_data": 2023,
+      "lokasi": "Perpustakaan Jakarta - Pusat Dokumentasi Sastra HB Jassin",
+      "jumlah_judul": 4947,
+      "jumlah_eksemplar": 15909
+    },
+    {
+      "periode_data": 2023,
+      "lokasi": "Perpustakaan Jakarta Barat - Tanjung Duren",
+      "jumlah_judul": 16271,
+      "jumlah_eksemplar": 44927
+    },
+    {
+      "periode_data": 2023,
+      "lokasi": "Perpustakaan Jakarta Pusat - Petojo Enclek",
+      "jumlah_judul": 17444,
+      "jumlah_eksemplar": 44427
+    },
+    {
+      "periode_data": 2023,
+      "lokasi": "Perpustakaan Jakarta Selatan - Gandaria Tengah",
+      "jumlah_judul": 16398,
+      "jumlah_eksemplar": 60714
+    },
+    {
+      "periode_data": 2023,
+      "lokasi": "Perpustakaan Jakarta Timur - Jatinegara",
+      "jumlah_judul": 14395,
+      "jumlah_eksemplar": 49639
+    },
+    {
+      "periode_data": 2023,
+      "lokasi": "Perpustakaan Jakarta Utara - Koja",
+      "jumlah_judul": 19485,
+      "jumlah_eksemplar": 65955
+    }
+  ]

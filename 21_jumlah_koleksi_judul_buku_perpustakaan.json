@@ -1,0 +1,541 @@
+[
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta - Perpustakaan Cikini",
+      "jenis_buku": "Tidak Terkategori",
+      "jumlah_judul": 7958,
+      "jumlah_eksemplar": 14545
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta - Perpustakaan Cikini",
+      "jenis_buku": "000 - Karya Umum",
+      "jumlah_judul": 3073,
+      "jumlah_eksemplar": 8842
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta - Perpustakaan Cikini",
+      "jenis_buku": "100 - Filsafat dan Psikologi",
+      "jumlah_judul": 2860,
+      "jumlah_eksemplar": 10525
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta - Perpustakaan Cikini",
+      "jenis_buku": "200 - Agama",
+      "jumlah_judul": 6084,
+      "jumlah_eksemplar": 20678
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta - Perpustakaan Cikini",
+      "jenis_buku": "300 - Ilmu Sosial",
+      "jumlah_judul": 10636,
+      "jumlah_eksemplar": 29805
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta - Perpustakaan Cikini",
+      "jenis_buku": "400 - Bahasa",
+      "jumlah_judul": 1427,
+      "jumlah_eksemplar": 4014
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta - Perpustakaan Cikini",
+      "jenis_buku": "500 - Ilmu Murni",
+      "jumlah_judul": 2858,
+      "jumlah_eksemplar": 7781
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta - Perpustakaan Cikini",
+      "jenis_buku": "600 - Ilmu Terapan",
+      "jumlah_judul": 7735,
+      "jumlah_eksemplar": 23960
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta - Perpustakaan Cikini",
+      "jenis_buku": "700 - Kesenian dan Olahraga",
+      "jumlah_judul": 4476,
+      "jumlah_eksemplar": 12772
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta - Perpustakaan Cikini",
+      "jenis_buku": "800 - Kesusasteraan",
+      "jumlah_judul": 8894,
+      "jumlah_eksemplar": 32850
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta - Perpustakaan Cikini",
+      "jenis_buku": "900 - Sejarah dan Geografi",
+      "jumlah_judul": 3981,
+      "jumlah_eksemplar": 11489
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta - Pusat Dokumentasi Sastra HB Jassin",
+      "jenis_buku": "Tidak Terkategori",
+      "jumlah_judul": 3,
+      "jumlah_eksemplar": 11
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta - Pusat Dokumentasi Sastra HB Jassin",
+      "jenis_buku": "000 - Karya Umum",
+      "jumlah_judul": 26,
+      "jumlah_eksemplar": 81
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta - Pusat Dokumentasi Sastra HB Jassin",
+      "jenis_buku": "100 - Filsafat dan Psikologi",
+      "jumlah_judul": 35,
+      "jumlah_eksemplar": 133
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta - Pusat Dokumentasi Sastra HB Jassin",
+      "jenis_buku": "200 - Agama",
+      "jumlah_judul": 30,
+      "jumlah_eksemplar": 95
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta - Pusat Dokumentasi Sastra HB Jassin",
+      "jenis_buku": "300 - Ilmu Sosial",
+      "jumlah_judul": 96,
+      "jumlah_eksemplar": 276
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta - Pusat Dokumentasi Sastra HB Jassin",
+      "jenis_buku": "400 - Bahasa",
+      "jumlah_judul": 64,
+      "jumlah_eksemplar": 237
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta - Pusat Dokumentasi Sastra HB Jassin",
+      "jenis_buku": "500 - Ilmu Murni",
+      "jumlah_judul": 1,
+      "jumlah_eksemplar": 1
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta - Pusat Dokumentasi Sastra HB Jassin",
+      "jenis_buku": "600 - Ilmu Terapan",
+      "jumlah_judul": 8,
+      "jumlah_eksemplar": 25
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta - Pusat Dokumentasi Sastra HB Jassin",
+      "jenis_buku": "700 - Kesenian dan Olahraga",
+      "jumlah_judul": 67,
+      "jumlah_eksemplar": 168
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta - Pusat Dokumentasi Sastra HB Jassin",
+      "jenis_buku": "800 - Kesusasteraan",
+      "jumlah_judul": 4425,
+      "jumlah_eksemplar": 14286
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta - Pusat Dokumentasi Sastra HB Jassin",
+      "jenis_buku": "900 - Sejarah dan Geografi",
+      "jumlah_judul": 192,
+      "jumlah_eksemplar": 596
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Barat - Tanjung Duren",
+      "jenis_buku": "Tidak Terkategori",
+      "jumlah_judul": 2331,
+      "jumlah_eksemplar": 6160
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Barat - Tanjung Duren",
+      "jenis_buku": "000 - Karya Umum",
+      "jumlah_judul": 591,
+      "jumlah_eksemplar": 1333
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Barat - Tanjung Duren",
+      "jenis_buku": "100 - Filsafat dan Psikologi",
+      "jumlah_judul": 890,
+      "jumlah_eksemplar": 2445
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Barat - Tanjung Duren",
+      "jenis_buku": "200 - Agama",
+      "jumlah_judul": 2061,
+      "jumlah_eksemplar": 6869
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Barat - Tanjung Duren",
+      "jenis_buku": "300 - Ilmu Sosial",
+      "jumlah_judul": 2344,
+      "jumlah_eksemplar": 6366
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Barat - Tanjung Duren",
+      "jenis_buku": "400 - Bahasa",
+      "jumlah_judul": 509,
+      "jumlah_eksemplar": 1342
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Barat - Tanjung Duren",
+      "jenis_buku": "500 - Ilmu Murni",
+      "jumlah_judul": 956,
+      "jumlah_eksemplar": 2653
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Barat - Tanjung Duren",
+      "jenis_buku": "600 - Ilmu Terapan",
+      "jumlah_judul": 2268,
+      "jumlah_eksemplar": 6474
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Barat - Tanjung Duren",
+      "jenis_buku": "700 - Kesenian dan Olahraga",
+      "jumlah_judul": 1319,
+      "jumlah_eksemplar": 3315
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Barat - Tanjung Duren",
+      "jenis_buku": "800 - Kesusasteraan",
+      "jumlah_judul": 2121,
+      "jumlah_eksemplar": 5653
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Barat - Tanjung Duren",
+      "jenis_buku": "900 - Sejarah dan Geografi",
+      "jumlah_judul": 881,
+      "jumlah_eksemplar": 2317
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Pusat - Petojo Enclek",
+      "jenis_buku": "Tidak Terkategori",
+      "jumlah_judul": 2014,
+      "jumlah_eksemplar": 6599
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Pusat - Petojo Enclek",
+      "jenis_buku": "000 - Karya Umum",
+      "jumlah_judul": 1258,
+      "jumlah_eksemplar": 2496
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Pusat - Petojo Enclek",
+      "jenis_buku": "100 - Filsafat dan Psikologi",
+      "jumlah_judul": 1079,
+      "jumlah_eksemplar": 2523
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Pusat - Petojo Enclek",
+      "jenis_buku": "200 - Agama",
+      "jumlah_judul": 2531,
+      "jumlah_eksemplar": 6645
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Pusat - Petojo Enclek",
+      "jenis_buku": "300 - Ilmu Sosial",
+      "jumlah_judul": 2546,
+      "jumlah_eksemplar": 6765
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Pusat - Petojo Enclek",
+      "jenis_buku": "400 - Bahasa",
+      "jumlah_judul": 572,
+      "jumlah_eksemplar": 1314
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Pusat - Petojo Enclek",
+      "jenis_buku": "500 - Ilmu Murni",
+      "jumlah_judul": 449,
+      "jumlah_eksemplar": 1521
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Pusat - Petojo Enclek",
+      "jenis_buku": "600 - Ilmu Terapan",
+      "jumlah_judul": 2453,
+      "jumlah_eksemplar": 5939
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Pusat - Petojo Enclek",
+      "jenis_buku": "700 - Kesenian dan Olahraga",
+      "jumlah_judul": 1229,
+      "jumlah_eksemplar": 3188
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Pusat - Petojo Enclek",
+      "jenis_buku": "800 - Kesusasteraan",
+      "jumlah_judul": 2281,
+      "jumlah_eksemplar": 5217
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Pusat - Petojo Enclek",
+      "jenis_buku": "900 - Sejarah dan Geografi",
+      "jumlah_judul": 1032,
+      "jumlah_eksemplar": 2220
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Selatan - Gandaria Tengah",
+      "jenis_buku": "Tidak Terkategori",
+      "jumlah_judul": 1774,
+      "jumlah_eksemplar": 6349
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Selatan - Gandaria Tengah",
+      "jenis_buku": "000 - Karya Umum",
+      "jumlah_judul": 819,
+      "jumlah_eksemplar": 2697
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Selatan - Gandaria Tengah",
+      "jenis_buku": "100 - Filsafat dan Psikologi",
+      "jumlah_judul": 1082,
+      "jumlah_eksemplar": 3286
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Selatan - Gandaria Tengah",
+      "jenis_buku": "200 - Agama",
+      "jumlah_judul": 2377,
+      "jumlah_eksemplar": 8887
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Selatan - Gandaria Tengah",
+      "jenis_buku": "300 - Ilmu Sosial",
+      "jumlah_judul": 2199,
+      "jumlah_eksemplar": 8162
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Selatan - Gandaria Tengah",
+      "jenis_buku": "400 - Bahasa",
+      "jumlah_judul": 503,
+      "jumlah_eksemplar": 1779
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Selatan - Gandaria Tengah",
+      "jenis_buku": "500 - Ilmu Murni",
+      "jumlah_judul": 649,
+      "jumlah_eksemplar": 2810
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Selatan - Gandaria Tengah",
+      "jenis_buku": "600 - Ilmu Terapan",
+      "jumlah_judul": 2276,
+      "jumlah_eksemplar": 9329
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Selatan - Gandaria Tengah",
+      "jenis_buku": "700 - Kesenian dan Olahraga",
+      "jumlah_judul": 1066,
+      "jumlah_eksemplar": 3988
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Selatan - Gandaria Tengah",
+      "jenis_buku": "800 - Kesusasteraan",
+      "jumlah_judul": 2676,
+      "jumlah_eksemplar": 10468
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Selatan - Gandaria Tengah",
+      "jenis_buku": "900 - Sejarah dan Geografi",
+      "jumlah_judul": 977,
+      "jumlah_eksemplar": 2959
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Timur - Jatinegara",
+      "jenis_buku": "Tidak Terkategori",
+      "jumlah_judul": 988,
+      "jumlah_eksemplar": 2408
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Timur - Jatinegara",
+      "jenis_buku": "000 - Karya Umum",
+      "jumlah_judul": 839,
+      "jumlah_eksemplar": 2192
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Timur - Jatinegara",
+      "jenis_buku": "100 - Filsafat dan Psikologi",
+      "jumlah_judul": 892,
+      "jumlah_eksemplar": 3236
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Timur - Jatinegara",
+      "jenis_buku": "200 - Agama",
+      "jumlah_judul": 2236,
+      "jumlah_eksemplar": 7647
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Timur - Jatinegara",
+      "jenis_buku": "300 - Ilmu Sosial",
+      "jumlah_judul": 3227,
+      "jumlah_eksemplar": 10920
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Timur - Jatinegara",
+      "jenis_buku": "400 - Bahasa",
+      "jumlah_judul": 350,
+      "jumlah_eksemplar": 1220
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Timur - Jatinegara",
+      "jenis_buku": "500 - Ilmu Murni",
+      "jumlah_judul": 739,
+      "jumlah_eksemplar": 2455
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Timur - Jatinegara",
+      "jenis_buku": "600 - Ilmu Terapan",
+      "jumlah_judul": 1862,
+      "jumlah_eksemplar": 5958
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Timur - Jatinegara",
+      "jenis_buku": "700 - Kesenian dan Olahraga",
+      "jumlah_judul": 934,
+      "jumlah_eksemplar": 3786
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Timur - Jatinegara",
+      "jenis_buku": "800 - Kesusasteraan",
+      "jumlah_judul": 1633,
+      "jumlah_eksemplar": 7503
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Timur - Jatinegara",
+      "jenis_buku": "900 - Sejarah dan Geografi",
+      "jumlah_judul": 695,
+      "jumlah_eksemplar": 2314
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Utara - Koja",
+      "jenis_buku": "Tidak Terkategori",
+      "jumlah_judul": 2731,
+      "jumlah_eksemplar": 8579
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Utara - Koja",
+      "jenis_buku": "000 - Karya Umum",
+      "jumlah_judul": 1104,
+      "jumlah_eksemplar": 3018
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Utara - Koja",
+      "jenis_buku": "100 - Filsafat dan Psikologi",
+      "jumlah_judul": 1112,
+      "jumlah_eksemplar": 3559
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Utara - Koja",
+      "jenis_buku": "200 - Agama",
+      "jumlah_judul": 2352,
+      "jumlah_eksemplar": 8056
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Utara - Koja",
+      "jenis_buku": "300 - Ilmu Sosial",
+      "jumlah_judul": 3221,
+      "jumlah_eksemplar": 11207
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Utara - Koja",
+      "jenis_buku": "400 - Bahasa",
+      "jumlah_judul": 523,
+      "jumlah_eksemplar": 1625
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Utara - Koja",
+      "jenis_buku": "500 - Ilmu Murni",
+      "jumlah_judul": 609,
+      "jumlah_eksemplar": 2352
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Utara - Koja",
+      "jenis_buku": "600 - Ilmu Terapan",
+      "jumlah_judul": 3243,
+      "jumlah_eksemplar": 10031
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Utara - Koja",
+      "jenis_buku": "700 - Kesenian dan Olahraga",
+      "jumlah_judul": 1321,
+      "jumlah_eksemplar": 5369
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Utara - Koja",
+      "jenis_buku": "800 - Kesusasteraan",
+      "jumlah_judul": 2301,
+      "jumlah_eksemplar": 8773
+    },
+    {
+      "periode_data": 2023,
+      "wilayah": "Perpustakaan Jakarta Utara - Koja",
+      "jenis_buku": "900 - Sejarah dan Geografi",
+      "jumlah_judul": 968,
+      "jumlah_eksemplar": 3386
+    }
+  ]
