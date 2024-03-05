@@ -1,594 +1,594 @@
 [
-    {
-      "periode_data": 2023,
-      "wilayah": "JAKARTA PUSAT",
-      "nama_taman_bacaan": "TBM PLANET PINTAR",
-      "kecamatan": "SENEN",
-      "kelurahan": "SENEN",
-      "alamat": "JL. KALILIO NO 51 RT 010/RW 04 SENEN, SENEN"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "JAKARTA PUSAT",
-      "nama_taman_bacaan": "TBM Pelita Hati",
-      "kecamatan": "MENTENG",
-      "kelurahan": "MENTENG",
-      "alamat": "JL. Talang Ujung Nomor 34 A, RT 001/RW 003 MENTENG, MENTENG"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "JAKARTA PUSAT",
-      "nama_taman_bacaan": "TBM ASTER 09",
-      "kecamatan": "GAMBIR",
-      "kelurahan": "CIDENG",
-      "alamat": "Jl. Cideng Barat 93 RT 002/RW 09 CIDENG, GAMBIR"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "JAKARTA PUSAT",
-      "nama_taman_bacaan": "TBM Hidayatush Shibyan",
-      "kecamatan": "GAMBIR",
-      "kelurahan": "DURI PULO",
-      "alamat": "Jl. Sinyar 9 RT.012/RW.09 DURI PULO, GAMBIR"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "JAKARTA PUSAT",
-      "nama_taman_bacaan": "TBM BAITUL ILMI",
-      "kecamatan": "KEMAYORAN",
-      "kelurahan": "SUMUR BATU",
-      "alamat": "Jl. Sumur Batu No. 8 RT.001/RW.02 SUMUR BATU, KEMAYORAN"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "JAKARTA PUSAT",
-      "nama_taman_bacaan": "TBM AISYIYAH",
-      "kecamatan": "SENEN",
-      "kelurahan": "PASEBAN",
-      "alamat": "JL. Salemba Bluntas 1 No 77 PASEBAN, SENEN"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "JAKARTA PUSAT",
-      "nama_taman_bacaan": "TBM MAWAR 09",
-      "kecamatan": "MENTENG",
-      "kelurahan": "MENTENG",
-      "alamat": "Jl. Anyer XVII RT 03/RW 09 No. 25 MENTENG, MENTENG"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "JAKARTA PUSAT",
-      "nama_taman_bacaan": "TBM KAMPOENG KITE",
-      "kecamatan": "MENTENG",
-      "kelurahan": "MENTENG",
-      "alamat": "JL. MENTENG JAYA RT.02/RW.01 MENTENG, MENTENG"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Pusat",
-      "nama_taman_bacaan": "Rumah Baca Fun With English (FWE)",
-      "kecamatan": "TANAH ABANG",
-      "kelurahan": "KARET TENGSIN",
-      "alamat": "Jl.Karet Pasar Baru Barat 7 RT.13 RW.003 Karet Tengsin Tanah Abang Jakarta Pusat."
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "JAKARTA PUSAT",
-      "nama_taman_bacaan": "TBM TERBUKA HIJAU",
-      "kecamatan": "SENEN",
-      "kelurahan": "KRAMAT",
-      "alamat": "Jl.Kramat Pulo dalem 2 006/08"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Utara",
-      "nama_taman_bacaan": "Deni Rumah Baca",
-      "kecamatan": "Tanjung Priok",
-      "kelurahan": "Sunter Agung",
-      "alamat": "Jl. Ancol Selatan No.02 RT.10/02 Kelurahan Sunter Agung, Kecamatan Tanjung Priok, Jakarta Utara"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Utara",
-      "nama_taman_bacaan": "Rumah Baca Cahaya Ilmu",
-      "kecamatan": "Koja",
-      "kelurahan": "Tugu Utara",
-      "alamat": "Kamp. UKA Blok Ai No. 4 RT.004/08 Kelurahan Tugu Utara Kec. Koja Jakarta Utara"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Utara",
-      "nama_taman_bacaan": "Cerah",
-      "kecamatan": "Cilincing",
-      "kelurahan": "Rorotan",
-      "alamat": "Jl. Raya Cakung Cilincing Kp. Bedeng RT 011/05 Rorotan, Jakarta Utara"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Utara",
-      "nama_taman_bacaan": "Novasari",
-      "kecamatan": "Cilincing",
-      "kelurahan": "Sukapura",
-      "alamat": "Jl. Lestari IX RT 003/10 No. 32 Kelurahan Sukapura, Kecamatan Cilincing Jakarta Utara"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Utara",
-      "nama_taman_bacaan": "Himmata",
-      "kecamatan": "Koja",
-      "kelurahan": "Rawa Badak Selatan",
-      "alamat": "Jl. Tanah Merah RT.005/011 RBS. Jakarta Utara"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Utara",
-      "nama_taman_bacaan": "Kogema 04",
-      "kecamatan": "Koja",
-      "kelurahan": "Rawa Badak Selatan",
-      "alamat": "Jl. Plumpang B No. 05 RT 013/04 Rawa Badak Selatan, Koja Jakarta Utara"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Utara",
-      "nama_taman_bacaan": "Bahari Cerdas",
-      "kecamatan": "Tanjung Priok",
-      "kelurahan": "Tanjung Priok",
-      "alamat": "Jl. Kampung Bahari Gang.V.A.9 RT 03/03, Kelurahan Tanjung Priok, Kecamatan Tanjung Priok"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Utara",
-      "nama_taman_bacaan": "Garuda",
-      "kecamatan": "Koja",
-      "kelurahan": "Tugu Selatan",
-      "alamat": "Kp. Mangga No.40 RT.014/03 Kelurahan Tugu Selatan, Kecamatan Koja, Jakarta Utara"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Utara",
-      "nama_taman_bacaan": "Teratai",
-      "kecamatan": "Tanjung Priok",
-      "kelurahan": "Sunter Agung",
-      "alamat": "Jl.sunter muara RT 3 RW 5 no 25 A. Kel Sunter agung, kec Tanjung Priok"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Utara",
-      "nama_taman_bacaan": "Cempaka",
-      "kecamatan": "Tanjung Priok",
-      "kelurahan": "Sunter Agung",
-      "alamat": "Jl. Ancol Selatan rt. 20/01 no. 78 Kel. Sunter agung Kec. Tanjung priok"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Utara",
-      "nama_taman_bacaan": "Balli (Balara Literasi)",
-      "kecamatan": "Koja",
-      "kelurahan": "Tugu Selatan",
-      "alamat": "Jl.Bendungan melayu 41 Rt 01/01 kel.Tugu selatan kec.Koja Jakut 14260"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Utara",
-      "nama_taman_bacaan": "Cahaya Puri",
-      "kecamatan": "Koja",
-      "kelurahan": "Rawa Badak Utara",
-      "alamat": "Jl. Cipuecang V Gg. G1 no. 33 Rt. 011 Rw. 002 Kel. Rawa Badak Utara Kec. Koja Jakarta Utara 14230"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Utara",
-      "nama_taman_bacaan": "Hidayah",
-      "kecamatan": "Tanjung Priok",
-      "kelurahan": "Warakas",
-      "alamat": "Jl. Warakas III GG. 17 No. 8 RT. 09 RW. 14"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Barat",
-      "nama_taman_bacaan": "TBM Al Karomah",
-      "kecamatan": "Grogol Petamburan",
-      "kelurahan": "Grogol",
-      "alamat": "Jl.Dr.Semeru II RT.008 RW.09"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Barat",
-      "nama_taman_bacaan": "TBM Al Mardiyah",
-      "kecamatan": "Kebon Jeruk",
-      "kelurahan": "Kedoya Selatan",
-      "alamat": "Jln.H Marzuki Kedoya Selayan Rt.010 Rw.05 N0.57"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Barat",
-      "nama_taman_bacaan": "TBM AZZA",
-      "kecamatan": "Kebon Jeruk",
-      "kelurahan": "Kebon Jeruk",
-      "alamat": "Jl. H. Peeng No.15 Rt.001 Rw.03"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Barat",
-      "nama_taman_bacaan": "TBM Bulir Padi",
-      "kecamatan": "Palmerah",
-      "kelurahan": "Palmerah",
-      "alamat": "Jln.Belibis Terusan Rt.001 Rw.03"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Barat",
-      "nama_taman_bacaan": "TBM Citra Binar Rahman",
-      "kecamatan": "Kebon Jeruk",
-      "kelurahan": "Duri Kepa",
-      "alamat": "Jl. Kebon Raya IV no. 66B RT 01/ RW 01"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Barat",
-      "nama_taman_bacaan": "TBM Isan Cerdas Ceria",
-      "kecamatan": "Kebon Jeruk",
-      "kelurahan": "Kebon Jeruk",
-      "alamat": "Jln.H.Ja'ani Rt.009 Rw.011 N0.36"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Barat",
-      "nama_taman_bacaan": "TBM Rumah Idaman",
-      "kecamatan": "Kalideres",
-      "kelurahan": "Tegal Alur",
-      "alamat": "Jln.Lingkungan III Rt.002 Rw.03"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Barat",
-      "nama_taman_bacaan": "TBM Sekar lapan",
-      "kecamatan": "Palmerah",
-      "kelurahan": "Palmerah",
-      "alamat": "Jln.Palmerah Utara III Rt.004 Rw.06"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Barat",
-      "nama_taman_bacaan": "TBM Gerindo Cerdas",
-      "kecamatan": "Duri Selatan",
-      "kelurahan": "Tambora",
-      "alamat": "Jln.Kampung Duri Gang Gerindo IV Rt.008 Rw.04 N0.23"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Barat",
-      "nama_taman_bacaan": "TBM Sinar Padian",
-      "kecamatan": "Kembangan",
-      "kelurahan": "Serengseng",
-      "alamat": "Jln.Lapangan Bola Serengseng Rt.007 Rw.01 N0.17"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Selatan",
-      "nama_taman_bacaan": "TBM Bhumi Tridharma",
-      "kecamatan": "Cilandak",
-      "kelurahan": "Cilandak Barat",
-      "alamat": "Tridharma Utama I/12 RT 002 RW 012"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Selatan",
-      "nama_taman_bacaan": "TBM Aura Kinasih",
-      "kecamatan": "Pasar Minggu",
-      "kelurahan": "Cilandak Timur",
-      "alamat": "Jl. H. Dul No. 52 RT 010 RW 02"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Selatan",
-      "nama_taman_bacaan": "TBM Piranti Bangsa",
-      "kecamatan": "Kebayoran Baru",
-      "kelurahan": "Gandaria Utara",
-      "alamat": "Jl. Ketimun IV/No. 1 Blok A"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Selatan",
-      "nama_taman_bacaan": "TBM Cahaya",
-      "kecamatan": "Pasar Minggu",
-      "kelurahan": "Cilandak Timur",
-      "alamat": "Kampus IPDN Kemendagri Blok C-21, Jl. Ampera Raya"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Selatan",
-      "nama_taman_bacaan": "TBM Rumah Baca Zhaffa",
-      "kecamatan": "Tebet",
-      "kelurahan": "Manggarai",
-      "alamat": "Jl. Menara Air VII RT 007 RW 011 No. 43"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Selatan",
-      "nama_taman_bacaan": "TBM Harapan Bunda",
-      "kecamatan": "Cilandak",
-      "kelurahan": "Pondok Labu",
-      "alamat": "Jl. Pindang V No. 12 RT 009 RW 09"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Selatan",
-      "nama_taman_bacaan": "TBM Edukasi Mandiri",
-      "kecamatan": "Kebayoran Lama",
-      "kelurahan": "Pondok Pinang",
-      "alamat": "Jl. Ciputat Raya RT 07 RW 06 No. 39"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Selatan",
-      "nama_taman_bacaan": "TBM Budi Jaya",
-      "kecamatan": "Mampang Prapatan",
-      "kelurahan": "Mampang Prapatan",
-      "alamat": "Jl. Mampang Prapatan 66 H. Marzuki RT 012 RW 01"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Selatan",
-      "nama_taman_bacaan": "Melati Taman Baca",
-      "kecamatan": "Pasar Minggu",
-      "kelurahan": "Ragunan",
-      "alamat": "Jl. Ampera II no 19 rt 005 rw 09 jakarta selatan 12550"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Timur",
-      "nama_taman_bacaan": "Flamboyan",
-      "kecamatan": "Matraman",
-      "kelurahan": "Utan Kayu Selatan",
-      "alamat": "Jln. Nanas Raya No. 42, Kelurahan Utan Kayu Selatan, Kecamatan Matraman, Jakarta Timur 13120"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Timur",
-      "nama_taman_bacaan": "Si Jabrik / RW.10",
-      "kecamatan": "Matraman",
-      "kelurahan": "Palmeriam",
-      "alamat": "Jl. Penggalang IV, Kelurahan\nPalmeriam, Kecamatan\nMatraman, Jakarta Timur 13140"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Timur",
-      "nama_taman_bacaan": "Tali Jaranan (Taman Literasi Jaringan Anak Nusantara)",
-      "kecamatan": "Matraman",
-      "kelurahan": "Utan Kayu Utara",
-      "alamat": "Jl. Jambu No.34 RT.04 RW.10, Kelurahan Utan Kayu Utara, Kecamatan Matraman, Jakarta Timur 13120"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Timur",
-      "nama_taman_bacaan": "Pustaka Kelana",
-      "kecamatan": "Pulo Gadung",
-      "kelurahan": "Rawamangun",
-      "alamat": "Jl. Kelapa No.2 RT.05 RW.09\nKelurahan Rawamangun,\nKecamatan Pulo gadung, Jakarta\nTimur"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Timur",
-      "nama_taman_bacaan": "Sahabat Mentari",
-      "kecamatan": "Pulo Gadung",
-      "kelurahan": "Cipinang",
-      "alamat": "Jln. Cipinang Timur RT.07 RW.02 No.05 Kelurahan Cipinang Kecamatan Pulo Gadung, Jakarta Timur 13240"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Timur",
-      "nama_taman_bacaan": "Ar-rahman",
-      "kecamatan": "Jatinegara",
-      "kelurahan": "Bidara Cina",
-      "alamat": "Jl. Pirus No.28 RT.13 RW.11\nKelurahan Bidara Cina, Kecamatan Jatinegara, Jakarta Timur 13330"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Timur",
-      "nama_taman_bacaan": "Bhinneka Kreatif",
-      "kecamatan": "Jatinegara",
-      "kelurahan": "Balimester",
-      "alamat": "Jalan Panca Warga 2 RT.05 RW.02 Kelurahan Balimester, Kecamatan Jatinegara, Jakarta Timur 13310"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Timur",
-      "nama_taman_bacaan": "Fizar",
-      "kecamatan": "Jatinegara",
-      "kelurahan": "Balimester",
-      "alamat": "Kober Pedati N0.30, RT.07 RW.02 Kelurahan Balimester, Kecamatan Jatinegara, Jakarta Timur 13310"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Timur",
-      "nama_taman_bacaan": "Budaya Mandiri",
-      "kecamatan": "Duren Sawit",
-      "kelurahan": "Klender",
-      "alamat": "Kampung Sumur RT-07 RW.10 Kelurahan Klender, Duren Sawit, Jakarta Timur 13460"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Timur",
-      "nama_taman_bacaan": "Saung Manggar",
-      "kecamatan": "Duren Sawit",
-      "kelurahan": "Pondok Kelapa",
-      "alamat": "Jl. Manggar 6A Blok G15 RT.04 RW.11 Kavling DKI, Kelurahan Pondok Kelapa, Kecamatan Duren Sawit, Jakarta Timur 13450"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Timur",
-      "nama_taman_bacaan": "Bale Buku",
-      "kecamatan": "Cakung",
-      "kelurahan": "Cakung Barat",
-      "alamat": "Jln. Tipar Cakung Blok Dendrit No.195 RT.04 RW.08 Cakung Barat, Kecamatan Cakung, Jakarta Timur 13910"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Timur",
-      "nama_taman_bacaan": "Cerdas Ceria",
-      "kecamatan": "Cakung",
-      "kelurahan": "Penggilingan",
-      "alamat": "Jl. Marzuki IV N0.42A, Kelurahan Penggilingan, Kecamatan Cakung, Jakarta Timur 13940"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Timur",
-      "nama_taman_bacaan": "Inspirasi Anak Cakung",
-      "kecamatan": "Cakung",
-      "kelurahan": "",
-      "alamat": "Jalan Kayu Tinggi Gg. Sawo N0.74 Kayu Tinggi, Cakung Timur, Jakarta Timur 13910"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Timur",
-      "nama_taman_bacaan": "Telaga Waru",
-      "kecamatan": "Cakung",
-      "kelurahan": "Jatinegara",
-      "alamat": "Jln. Radjiman W, Kampung Waru Doyong RT.12 RW.08 No. 21, Kelurahan Jatinegara, Kecamatan Cakung, Jakarta Timur 13930"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Timur",
-      "nama_taman_bacaan": "Fatahilah",
-      "kecamatan": "Kramat Jati",
-      "kelurahan": "Dukuh",
-      "alamat": "Jalan Dukuh, Kramatjati, RT.9/RW.3, Kelurahan Dukuh, Kec. Kramat jati, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13550"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Timur",
-      "nama_taman_bacaan": "Fun House",
-      "kecamatan": "Kramat Jati",
-      "kelurahan": "Cililitan",
-      "alamat": "Jl. Buluh N0.55, RT.010 RW.016, Kelurahan Cililitan, Kramat Jati, Jakarta Timur 13640"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Timur",
-      "nama_taman_bacaan": "Syakira",
-      "kecamatan": "Kramat Jati",
-      "kelurahan": "Batu Ampar",
-      "alamat": "Jl. Kelurahan Batu Ampar, Kecamatan Kramat Jati, Jakarta Timur 13520"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Timur",
-      "nama_taman_bacaan": "Rumbana",
-      "kecamatan": "Makasar",
-      "kelurahan": "Makasar",
-      "alamat": "Jln. Kerja Bakti RT.09 RW.02 No.31 Kelurahan Makasar Kecamatan Makasar, Jakarta Timur 13570"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Timur",
-      "nama_taman_bacaan": "Pelangi Inspirasi",
-      "kecamatan": "Pasar Rebo",
-      "kelurahan": "Kampung Gedong",
-      "alamat": "Jln. H. Taiman Barat 1 No.11 Gedong, Kampung Gedong, Jakarta Timur, Jakarta Timur 13760"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Timur",
-      "nama_taman_bacaan": "Pustaka Ceria",
-      "kecamatan": "Pasar Rebo",
-      "kelurahan": "Kampung Baru",
-      "alamat": "Kelurahan Kampung Baru, Kecamatan Pasar Rebo, Jakarta Timur 13780"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Timur",
-      "nama_taman_bacaan": "Kampung Buku",
-      "kecamatan": "Ciracas",
-      "kelurahan": "Cibubur",
-      "alamat": "Jln. Abdul Rahman RT.15 RW.05 No.56 Gang Rukun, Cibubur, Kecamatan Ciracas, Jakarta Timur 13720"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Timur",
-      "nama_taman_bacaan": "Rumah Literasi 45",
-      "kecamatan": "Cipayung",
-      "kelurahan": "Lubang Buaya",
-      "alamat": "Jln. Ampel No.45 RT.05 RW.04\nLubang Buaya, Cipayung, Jakarta Timur 13810"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Barat",
-      "nama_taman_bacaan": "Taman Baca Edelweiss",
-      "kecamatan": "Kalideres",
-      "kelurahan": "Kamal",
-      "alamat": "Jl. Bakti Pramuka No. 98, Rt. 011 Rw. 01 Kel. Kamal Kec. Kalideres Jakarta Barat 11810"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Selatan",
-      "nama_taman_bacaan": "TBM Bukit Duri Bercerita",
-      "kecamatan": "Tebet",
-      "kelurahan": "Bukit Duri",
-      "alamat": "Jalan Bukit Duri Tanjakan 3 No 8 Rt 13 Rw 12 tebet, Jaksel"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Selatan",
-      "nama_taman_bacaan": "Rumah Main Mentari",
-      "kecamatan": "Pesanggrahan",
-      "kelurahan": "Petukangan Selatan",
-      "alamat": "Jl H Musa no 29 Rt 009/01 Perukangan Utara, Pesanggrahan, Jakarta Selatan."
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Selatan",
-      "nama_taman_bacaan": "Taman Baca Kancil",
-      "kecamatan": "Pasar Minggu",
-      "kelurahan": "Ragunan",
-      "alamat": "Ampera Raya, Kancil RT.003/09 No.6\nRagunan, Pasar Minggu, Jakarta Selatan c"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Timur",
-      "nama_taman_bacaan": "Taman Baca Ainiyah",
-      "kecamatan": "Cipayung",
-      "kelurahan": "Setu",
-      "alamat": "Jl. Puskesmas no 3"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Utara",
-      "nama_taman_bacaan": "Rumah Baca Zahra",
-      "kecamatan": "Pademangan",
-      "kelurahan": "Pademangan Timur",
-      "alamat": "Jl.Pademangan VII RT 05 RW 10 No.4 GG.Warga Bakti"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Utara",
-      "nama_taman_bacaan": "Taman Baca Cinta Lingkungan",
-      "kecamatan": "Koja",
-      "kelurahan": "Tugu utara",
-      "alamat": "Komplek UKA RT 014 RW 08"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Utara",
-      "nama_taman_bacaan": "TBM Zakira",
-      "kecamatan": "Koja",
-      "kelurahan": "Tugu Selatan",
-      "alamat": "Kp. Mangga RT 014/003 no 61 \nKel. Tugu Selatan Kec. Koja Jakarta Utara"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Kepulauan Seribu",
-      "nama_taman_bacaan": "TBM Cerdas 27",
-      "kecamatan": "Kepulauan Seribu Selatan",
-      "kelurahan": "Pulau Untung Jawa",
-      "alamat": "Pulau Untung Jawa Rt. 003/Rw.003\nKelurahan Pulau Untung Jawa\nKecamatan Kepulauan Selatan\nKabupaten Administrasi Kepulauan seribu\nKodepos 14510"
-    },
-    {
-      "periode_data": 2023,
-      "wilayah": "Jakarta Utara",
-      "nama_taman_bacaan": "Ruang Baca Tanah Merah",
-      "kecamatan": "Koja",
-      "kelurahan": "Tugu Selatan",
-      "alamat": "Jl. Inspeksi kali betik No.RT 13 No.63, RT. RW.07, Tugu Sel., Kec. Koja, Jkt Utara, Daerah Khusus Ibukota Jakarta 14240"
-    }
-  ]
+  {
+    "periode_data": 2023,
+    "wilayah": "JAKARTA PUSAT",
+    "kecamatan": "SENEN",
+    "kelurahan": "SENEN",
+    "nama_taman_bacaan": "TBM PLANET PINTAR",
+    "alamat": "JL. KALILIO NO 51 RT 010/RW 04 SENEN, SENEN"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "JAKARTA PUSAT",
+    "kecamatan": "MENTENG",
+    "kelurahan": "MENTENG",
+    "nama_taman_bacaan": "TBM Pelita Hati",
+    "alamat": "JL. Talang Ujung Nomor 34 A, RT 001/RW 003 MENTENG, MENTENG"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "JAKARTA PUSAT",
+    "kecamatan": "GAMBIR",
+    "kelurahan": "CIDENG",
+    "nama_taman_bacaan": "TBM ASTER 09",
+    "alamat": "Jl. Cideng Barat 93 RT 002/RW 09 CIDENG, GAMBIR"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "JAKARTA PUSAT",
+    "kecamatan": "GAMBIR",
+    "kelurahan": "DURI PULO",
+    "nama_taman_bacaan": "TBM Hidayatush Shibyan",
+    "alamat": "Jl. Sinyar 9 RT.012/RW.09 DURI PULO, GAMBIR"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "JAKARTA PUSAT",
+    "kecamatan": "KEMAYORAN",
+    "kelurahan": "SUMUR BATU",
+    "nama_taman_bacaan": "TBM BAITUL ILMI",
+    "alamat": "Jl. Sumur Batu No. 8 RT.001/RW.02 SUMUR BATU, KEMAYORAN"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "JAKARTA PUSAT",
+    "kecamatan": "SENEN",
+    "kelurahan": "PASEBAN",
+    "nama_taman_bacaan": "TBM AISYIYAH",
+    "alamat": "JL. Salemba Bluntas 1 No 77 PASEBAN, SENEN"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "JAKARTA PUSAT",
+    "kecamatan": "MENTENG",
+    "kelurahan": "MENTENG",
+    "nama_taman_bacaan": "TBM MAWAR 09",
+    "alamat": "Jl. Anyer XVII RT 03/RW 09 No. 25 MENTENG, MENTENG"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "JAKARTA PUSAT",
+    "kecamatan": "MENTENG",
+    "kelurahan": "MENTENG",
+    "nama_taman_bacaan": "TBM KAMPOENG KITE",
+    "alamat": "JL. MENTENG JAYA RT.02/RW.01 MENTENG, MENTENG"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Pusat",
+    "kecamatan": "TANAH ABANG",
+    "kelurahan": "KARET TENGSIN",
+    "nama_taman_bacaan": "Rumah Baca Fun With English (FWE)",
+    "alamat": "Jl.Karet Pasar Baru Barat 7 RT.13 RW.003 Karet Tengsin Tanah Abang Jakarta Pusat."
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "JAKARTA PUSAT",
+    "kecamatan": "SENEN",
+    "kelurahan": "KRAMAT",
+    "nama_taman_bacaan": "TBM TERBUKA HIJAU",
+    "alamat": "Jl.Kramat Pulo dalem 2 006/08"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Utara",
+    "kecamatan": "Tanjung Priok",
+    "kelurahan": "Sunter Agung",
+    "nama_taman_bacaan": "Deni Rumah Baca",
+    "alamat": "Jl. Ancol Selatan No.02 RT.10/02 Kelurahan Sunter Agung, Kecamatan Tanjung Priok, Jakarta Utara"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Utara",
+    "kecamatan": "Koja",
+    "kelurahan": "Tugu Utara",
+    "nama_taman_bacaan": "Rumah Baca Cahaya Ilmu",
+    "alamat": "Kamp. UKA Blok Ai No. 4 RT.004/08 Kelurahan Tugu Utara Kec. Koja Jakarta Utara"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Utara",
+    "kecamatan": "Cilincing",
+    "kelurahan": "Rorotan",
+    "nama_taman_bacaan": "Cerah",
+    "alamat": "Jl. Raya Cakung Cilincing Kp. Bedeng RT 011/05 Rorotan, Jakarta Utara"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Utara",
+    "kecamatan": "Cilincing",
+    "kelurahan": "Sukapura",
+    "nama_taman_bacaan": "Novasari",
+    "alamat": "Jl. Lestari IX RT 003/10 No. 32 Kelurahan Sukapura, Kecamatan Cilincing Jakarta Utara"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Utara",
+    "kecamatan": "Koja",
+    "kelurahan": "Rawa Badak Selatan",
+    "nama_taman_bacaan": "Himmata",
+    "alamat": "Jl. Tanah Merah RT.005/011 RBS. Jakarta Utara"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Utara",
+    "kecamatan": "Koja",
+    "kelurahan": "Rawa Badak Selatan",
+    "nama_taman_bacaan": "Kogema 04",
+    "alamat": "Jl. Plumpang B No. 05 RT 013/04 Rawa Badak Selatan, Koja Jakarta Utara"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Utara",
+    "kecamatan": "Tanjung Priok",
+    "kelurahan": "Tanjung Priok",
+    "nama_taman_bacaan": "Bahari Cerdas",
+    "alamat": "Jl. Kampung Bahari Gang.V.A.9 RT 03/03, Kelurahan Tanjung Priok, Kecamatan Tanjung Priok"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Utara",
+    "kecamatan": "Koja",
+    "kelurahan": "Tugu Selatan",
+    "nama_taman_bacaan": "Garuda",
+    "alamat": "Kp. Mangga No.40 RT.014/03 Kelurahan Tugu Selatan, Kecamatan Koja, Jakarta Utara"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Utara",
+    "kecamatan": "Tanjung Priok",
+    "kelurahan": "Sunter Agung",
+    "nama_taman_bacaan": "Teratai",
+    "alamat": "Jl.sunter muara RT 3 RW 5 no 25 A. Kel Sunter agung, kec Tanjung Priok"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Utara",
+    "kecamatan": "Tanjung Priok",
+    "kelurahan": "Sunter Agung",
+    "nama_taman_bacaan": "Cempaka",
+    "alamat": "Jl. Ancol Selatan rt. 20/01 no. 78 Kel. Sunter agung Kec. Tanjung priok"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Utara",
+    "kecamatan": "Koja",
+    "kelurahan": "Tugu Selatan",
+    "nama_taman_bacaan": "Balli (Balara Literasi)",
+    "alamat": "Jl.Bendungan melayu 41 Rt 01/01 kel.Tugu selatan kec.Koja Jakut 14260"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Utara",
+    "kecamatan": "Koja",
+    "kelurahan": "Rawa Badak Utara",
+    "nama_taman_bacaan": "Cahaya Puri",
+    "alamat": "Jl. Cipuecang V Gg. G1 no. 33 Rt. 011 Rw. 002 Kel. Rawa Badak Utara Kec. Koja Jakarta Utara 14230"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Utara",
+    "kecamatan": "Tanjung Priok",
+    "kelurahan": "Warakas",
+    "nama_taman_bacaan": "Hidayah",
+    "alamat": "Jl. Warakas III GG. 17 No. 8 RT. 09 RW. 14"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Barat",
+    "kecamatan": "Grogol Petamburan",
+    "kelurahan": "Grogol",
+    "nama_taman_bacaan": "TBM Al Karomah",
+    "alamat": "Jl.Dr.Semeru II RT.008 RW.09"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Barat",
+    "kecamatan": "Kebon Jeruk",
+    "kelurahan": "Kedoya Selatan",
+    "nama_taman_bacaan": "TBM Al Mardiyah",
+    "alamat": "Jln.H Marzuki Kedoya Selayan Rt.010 Rw.05 N0.57"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Barat",
+    "kecamatan": "Kebon Jeruk",
+    "kelurahan": "Kebon Jeruk",
+    "nama_taman_bacaan": "TBM AZZA",
+    "alamat": "Jl. H. Peeng No.15 Rt.001 Rw.03"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Barat",
+    "kecamatan": "Palmerah",
+    "kelurahan": "Palmerah",
+    "nama_taman_bacaan": "TBM Bulir Padi",
+    "alamat": "Jln.Belibis Terusan Rt.001 Rw.03"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Barat",
+    "kecamatan": "Kebon Jeruk",
+    "kelurahan": "Duri Kepa",
+    "nama_taman_bacaan": "TBM Citra Binar Rahman",
+    "alamat": "Jl. Kebon Raya IV no. 66B RT 01/ RW 01"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Barat",
+    "kecamatan": "Kebon Jeruk",
+    "kelurahan": "Kebon Jeruk",
+    "nama_taman_bacaan": "TBM Isan Cerdas Ceria",
+    "alamat": "Jln.H.Ja'ani Rt.009 Rw.011 N0.36"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Barat",
+    "kecamatan": "Kalideres",
+    "kelurahan": "Tegal Alur",
+    "nama_taman_bacaan": "TBM Rumah Idaman",
+    "alamat": "Jln.Lingkungan III Rt.002 Rw.03"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Barat",
+    "kecamatan": "Palmerah",
+    "kelurahan": "Palmerah",
+    "nama_taman_bacaan": "TBM Sekar lapan",
+    "alamat": "Jln.Palmerah Utara III Rt.004 Rw.06"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Barat",
+    "kecamatan": "Duri Selatan",
+    "kelurahan": "Tambora",
+    "nama_taman_bacaan": "TBM Gerindo Cerdas",
+    "alamat": "Jln.Kampung Duri Gang Gerindo IV Rt.008 Rw.04 N0.23"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Barat",
+    "kecamatan": "Kembangan",
+    "kelurahan": "Serengseng",
+    "nama_taman_bacaan": "TBM Sinar Padian",
+    "alamat": "Jln.Lapangan Bola Serengseng Rt.007 Rw.01 N0.17"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Selatan",
+    "kecamatan": "Cilandak",
+    "kelurahan": "Cilandak Barat",
+    "nama_taman_bacaan": "TBM Bhumi Tridharma",
+    "alamat": "Tridharma Utama I/12 RT 002 RW 012"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Selatan",
+    "kecamatan": "Pasar Minggu",
+    "kelurahan": "Cilandak Timur",
+    "nama_taman_bacaan": "TBM Aura Kinasih",
+    "alamat": "Jl. H. Dul No. 52 RT 010 RW 02"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Selatan",
+    "kecamatan": "Kebayoran Baru",
+    "kelurahan": "Gandaria Utara",
+    "nama_taman_bacaan": "TBM Piranti Bangsa",
+    "alamat": "Jl. Ketimun IV/No. 1 Blok A"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Selatan",
+    "kecamatan": "Pasar Minggu",
+    "kelurahan": "Cilandak Timur",
+    "nama_taman_bacaan": "TBM Cahaya",
+    "alamat": "Kampus IPDN Kemendagri Blok C-21, Jl. Ampera Raya"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Selatan",
+    "kecamatan": "Tebet",
+    "kelurahan": "Manggarai",
+    "nama_taman_bacaan": "TBM Rumah Baca Zhaffa",
+    "alamat": "Jl. Menara Air VII RT 007 RW 011 No. 43"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Selatan",
+    "kecamatan": "Cilandak",
+    "kelurahan": "Pondok Labu",
+    "nama_taman_bacaan": "TBM Harapan Bunda",
+    "alamat": "Jl. Pindang V No. 12 RT 009 RW 09"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Selatan",
+    "kecamatan": "Kebayoran Lama",
+    "kelurahan": "Pondok Pinang",
+    "nama_taman_bacaan": "TBM Edukasi Mandiri",
+    "alamat": "Jl. Ciputat Raya RT 07 RW 06 No. 39"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Selatan",
+    "kecamatan": "Mampang Prapatan",
+    "kelurahan": "Mampang Prapatan",
+    "nama_taman_bacaan": "TBM Budi Jaya",
+    "alamat": "Jl. Mampang Prapatan 66 H. Marzuki RT 012 RW 01"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Selatan",
+    "kecamatan": "Pasar Minggu",
+    "kelurahan": "Ragunan",
+    "nama_taman_bacaan": "Melati Taman Baca",
+    "alamat": "Jl. Ampera II no 19 rt 005 rw 09 jakarta selatan 12550"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Timur",
+    "kecamatan": "Matraman",
+    "kelurahan": "Utan Kayu Selatan",
+    "nama_taman_bacaan": "Flamboyan",
+    "alamat": "Jln. Nanas Raya No. 42, Kelurahan Utan Kayu Selatan, Kecamatan Matraman, Jakarta Timur 13120"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Timur",
+    "kecamatan": "Matraman",
+    "kelurahan": "Palmeriam",
+    "nama_taman_bacaan": "Si Jabrik / RW.10",
+    "alamat": "Jl. Penggalang IV, Kelurahan\nPalmeriam, Kecamatan\nMatraman, Jakarta Timur 13140"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Timur",
+    "kecamatan": "Matraman",
+    "kelurahan": "Utan Kayu Utara",
+    "nama_taman_bacaan": "Tali Jaranan (Taman Literasi Jaringan Anak Nusantara)",
+    "alamat": "Jl. Jambu No.34 RT.04 RW.10, Kelurahan Utan Kayu Utara, Kecamatan Matraman, Jakarta Timur 13120"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Timur",
+    "kecamatan": "Pulo Gadung",
+    "kelurahan": "Rawamangun",
+    "nama_taman_bacaan": "Pustaka Kelana",
+    "alamat": "Jl. Kelapa No.2 RT.05 RW.09\nKelurahan Rawamangun,\nKecamatan Pulo gadung, Jakarta\nTimur"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Timur",
+    "kecamatan": "Pulo Gadung",
+    "kelurahan": "Cipinang",
+    "nama_taman_bacaan": "Sahabat Mentari",
+    "alamat": "Jln. Cipinang Timur RT.07 RW.02 No.05 Kelurahan Cipinang Kecamatan Pulo Gadung, Jakarta Timur 13240"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Timur",
+    "kecamatan": "Jatinegara",
+    "kelurahan": "Bidara Cina",
+    "nama_taman_bacaan": "Ar-rahman",
+    "alamat": "Jl. Pirus No.28 RT.13 RW.11\nKelurahan Bidara Cina, Kecamatan Jatinegara, Jakarta Timur 13330"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Timur",
+    "kecamatan": "Jatinegara",
+    "kelurahan": "Balimester",
+    "nama_taman_bacaan": "Bhinneka Kreatif",
+    "alamat": "Jalan Panca Warga 2 RT.05 RW.02 Kelurahan Balimester, Kecamatan Jatinegara, Jakarta Timur 13310"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Timur",
+    "kecamatan": "Jatinegara",
+    "kelurahan": "Balimester",
+    "nama_taman_bacaan": "Fizar",
+    "alamat": "Kober Pedati N0.30, RT.07 RW.02 Kelurahan Balimester, Kecamatan Jatinegara, Jakarta Timur 13310"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Timur",
+    "kecamatan": "Duren Sawit",
+    "kelurahan": "Klender",
+    "nama_taman_bacaan": "Budaya Mandiri",
+    "alamat": "Kampung Sumur RT-07 RW.10 Kelurahan Klender, Duren Sawit, Jakarta Timur 13460"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Timur",
+    "kecamatan": "Duren Sawit",
+    "kelurahan": "Pondok Kelapa",
+    "nama_taman_bacaan": "Saung Manggar",
+    "alamat": "Jl. Manggar 6A Blok G15 RT.04 RW.11 Kavling DKI, Kelurahan Pondok Kelapa, Kecamatan Duren Sawit, Jakarta Timur 13450"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Timur",
+    "kecamatan": "Cakung",
+    "kelurahan": "Cakung Barat",
+    "nama_taman_bacaan": "Bale Buku",
+    "alamat": "Jln. Tipar Cakung Blok Dendrit No.195 RT.04 RW.08 Cakung Barat, Kecamatan Cakung, Jakarta Timur 13910"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Timur",
+    "kecamatan": "Cakung",
+    "kelurahan": "Penggilingan",
+    "nama_taman_bacaan": "Cerdas Ceria",
+    "alamat": "Jl. Marzuki IV N0.42A, Kelurahan Penggilingan, Kecamatan Cakung, Jakarta Timur 13940"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Timur",
+    "kecamatan": "Cakung",
+    "kelurahan": "",
+    "nama_taman_bacaan": "Inspirasi Anak Cakung",
+    "alamat": "Jalan Kayu Tinggi Gg. Sawo N0.74 Kayu Tinggi, Cakung Timur, Jakarta Timur 13910"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Timur",
+    "kecamatan": "Cakung",
+    "kelurahan": "Jatinegara",
+    "nama_taman_bacaan": "Telaga Waru",
+    "alamat": "Jln. Radjiman W, Kampung Waru Doyong RT.12 RW.08 No. 21, Kelurahan Jatinegara, Kecamatan Cakung, Jakarta Timur 13930"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Timur",
+    "kecamatan": "Kramat Jati",
+    "kelurahan": "Dukuh",
+    "nama_taman_bacaan": "Fatahilah",
+    "alamat": "Jalan Dukuh, Kramatjati, RT.9/RW.3, Kelurahan Dukuh, Kec. Kramat jati, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13550"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Timur",
+    "kecamatan": "Kramat Jati",
+    "kelurahan": "Cililitan",
+    "nama_taman_bacaan": "Fun House",
+    "alamat": "Jl. Buluh N0.55, RT.010 RW.016, Kelurahan Cililitan, Kramat Jati, Jakarta Timur 13640"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Timur",
+    "kecamatan": "Kramat Jati",
+    "kelurahan": "Batu Ampar",
+    "nama_taman_bacaan": "Syakira",
+    "alamat": "Jl. Kelurahan Batu Ampar, Kecamatan Kramat Jati, Jakarta Timur 13520"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Timur",
+    "kecamatan": "Makasar",
+    "kelurahan": "Makasar",
+    "nama_taman_bacaan": "Rumbana",
+    "alamat": "Jln. Kerja Bakti RT.09 RW.02 No.31 Kelurahan Makasar Kecamatan Makasar, Jakarta Timur 13570"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Timur",
+    "kecamatan": "Pasar Rebo",
+    "kelurahan": "Kampung Gedong",
+    "nama_taman_bacaan": "Pelangi Inspirasi",
+    "alamat": "Jln. H. Taiman Barat 1 No.11 Gedong, Kampung Gedong, Jakarta Timur, Jakarta Timur 13760"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Timur",
+    "kecamatan": "Pasar Rebo",
+    "kelurahan": "Kampung Baru",
+    "nama_taman_bacaan": "Pustaka Ceria",
+    "alamat": "Kelurahan Kampung Baru, Kecamatan Pasar Rebo, Jakarta Timur 13780"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Timur",
+    "kecamatan": "Ciracas",
+    "kelurahan": "Cibubur",
+    "nama_taman_bacaan": "Kampung Buku",
+    "alamat": "Jln. Abdul Rahman RT.15 RW.05 No.56 Gang Rukun, Cibubur, Kecamatan Ciracas, Jakarta Timur 13720"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Timur",
+    "kecamatan": "Cipayung",
+    "kelurahan": "Lubang Buaya",
+    "nama_taman_bacaan": "Rumah Literasi 45",
+    "alamat": "Jln. Ampel No.45 RT.05 RW.04\nLubang Buaya, Cipayung, Jakarta Timur 13810"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Barat",
+    "kecamatan": "Kalideres",
+    "kelurahan": "Kamal",
+    "nama_taman_bacaan": "Taman Baca Edelweiss",
+    "alamat": "Jl. Bakti Pramuka No. 98, Rt. 011 Rw. 01 Kel. Kamal Kec. Kalideres Jakarta Barat 11810"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Selatan",
+    "kecamatan": "Tebet",
+    "kelurahan": "Bukit Duri",
+    "nama_taman_bacaan": "TBM Bukit Duri Bercerita",
+    "alamat": "Jalan Bukit Duri Tanjakan 3 No 8 Rt 13 Rw 12 tebet, Jaksel"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Selatan",
+    "kecamatan": "Pesanggrahan",
+    "kelurahan": "Petukangan Selatan",
+    "nama_taman_bacaan": "Rumah Main Mentari",
+    "alamat": "Jl H Musa no 29 Rt 009/01 Perukangan Utara, Pesanggrahan, Jakarta Selatan."
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Selatan",
+    "kecamatan": "Pasar Minggu",
+    "kelurahan": "Ragunan",
+    "nama_taman_bacaan": "Taman Baca Kancil",
+    "alamat": "Ampera Raya, Kancil RT.003/09 No.6\nRagunan, Pasar Minggu, Jakarta Selatan c"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Timur",
+    "kecamatan": "Cipayung",
+    "kelurahan": "Setu",
+    "nama_taman_bacaan": "Taman Baca Ainiyah",
+    "alamat": "Jl. Puskesmas no 3"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Utara",
+    "kecamatan": "Pademangan",
+    "kelurahan": "Pademangan Timur",
+    "nama_taman_bacaan": "Rumah Baca Zahra",
+    "alamat": "Jl.Pademangan VII RT 05 RW 10 No.4 GG.Warga Bakti"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Utara",
+    "kecamatan": "Koja",
+    "kelurahan": "Tugu utara",
+    "nama_taman_bacaan": "Taman Baca Cinta Lingkungan",
+    "alamat": "Komplek UKA RT 014 RW 08"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Utara",
+    "kecamatan": "Koja",
+    "kelurahan": "Tugu Selatan",
+    "nama_taman_bacaan": "TBM Zakira",
+    "alamat": "Kp. Mangga RT 014/003 no 61 \nKel. Tugu Selatan Kec. Koja Jakarta Utara"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Kepulauan Seribu",
+    "kecamatan": "Kepulauan Seribu Selatan",
+    "kelurahan": "Pulau Untung Jawa",
+    "nama_taman_bacaan": "TBM Cerdas 27",
+    "alamat": "Pulau Untung Jawa Rt. 003/Rw.003\nKelurahan Pulau Untung Jawa\nKecamatan Kepulauan Selatan\nKabupaten Administrasi Kepulauan seribu\nKodepos 14510"
+  },
+  {
+    "periode_data": 2023,
+    "wilayah": "Jakarta Utara",
+    "kecamatan": "Koja",
+    "kelurahan": "Tugu Selatan",
+    "nama_taman_bacaan": "Ruang Baca Tanah Merah",
+    "alamat": "Jl. Inspeksi kali betik No.RT 13 No.63, RT. RW.07, Tugu Sel., Kec. Koja, Jkt Utara, Daerah Khusus Ibukota Jakarta 14240"
+  }
+]
