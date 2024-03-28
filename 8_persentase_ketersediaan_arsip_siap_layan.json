@@ -1,17 +1,5 @@
 [
   {
-    "periode_data": 202301,
-    "tahun": 2022,
-    "bulan": "Januari - Juni",
-    "kegiatan": "Digitalisasi Arsip",
-    "jumlah": 1548,
-    "satuan": "boks"
-  },asdasd
-  {
-    "periode_data": 202301,
-    "tahun": 2022,
-    "bulan": "Juli - desember",[
-  {
     "periode_data": 2023,
     "triwulan": 2,
     "arsip_aktif": 0,
@@ -37,10 +25,5 @@
     "temu_balik": 100,
     "sikn": 0.25,
     "siap_layan": 37.9725
-  }
-]
-    "kegiatan": "Digitalisasi Arsip",
-    "jumlah": 86082,
-    "satuan": "berkas"
   }
 ]

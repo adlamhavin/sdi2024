@@ -1,0 +1,16 @@
+[
+    {
+      "periode_data": 2023,
+      "triwulan": 3,
+      "jumlah_lembaga_sesuai": 30,
+      "jumlah_lembaga": 54,
+      "persentase": 0.5555
+    },
+    {
+      "periode_data": 2023,
+      "triwulan": 4,
+      "jumlah_lembaga_sesuai": 33,
+      "jumlah_lembaga": 54,
+      "persentase": 0.6111
+    }
+  ]
