@@ -1,16 +1,14 @@
 [
-    {
-      "periode_data": 2023,
-      "triwulan": 3,
-      "jumlah_lembaga_sesuai": 30,
-      "jumlah_lembaga": 54,
-      "persentase": 55.55
-    },
-    {
-      "periode_data": 2023,
-      "triwulan": 4,
-      "jumlah_lembaga_sesuai": 33,
-      "jumlah_lembaga": 54,
-      "persentase": 61.11
-    }
-  ]
+  {
+    "periode_data": 2024,
+    "jumlah_lembaga_sesuai": 36,
+    "jumlah_lembaga": 54,
+    "persentase": 66.67
+  },
+  {
+    "periode_data": 2024,
+    "jumlah_lembaga_sesuai": 40,
+    "jumlah_lembaga": 54,
+    "persentase": 74.07
+  }
+]

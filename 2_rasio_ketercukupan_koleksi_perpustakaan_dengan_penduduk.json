@@ -1,23 +1,8 @@
 [
   {
-    "periode_data": 2023,
-    "triwulan": 2,
-    "jumlah_koleksi": 1223558,
-    "jumlah_penduduk": 11204714,
-    "rasio": 0.0546
-  },
-  {
-    "periode_data": 2023,
-    "triwulan": 3,
-    "jumlah_koleksi": 1279317,
-    "jumlah_penduduk": 11204714,
-    "rasio": 0.0568
-  },
-  {
-    "periode_data": 2023,
-    "triwulan": 4,
-    "jumlah_koleksi": 1356552,
-    "jumlah_penduduk": 11204714,
-    "rasio": 0.0605
+    "periode_data": 2024,
+    "jumlah_koleksi": 1438414,
+    "jumlah_penduduk": 11327838,
+    "rasio": 0.0634
   }
 ]

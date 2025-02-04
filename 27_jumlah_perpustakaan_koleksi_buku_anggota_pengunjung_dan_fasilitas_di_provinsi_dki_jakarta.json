@@ -1,38 +1,38 @@
 [
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Jakarta Pusat",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
     "uraian": "anggota",
     "satuan": "orang",
-    "jumlah": 9366
+    "jumlah": 46206
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Jakarta Pusat",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
     "uraian": "pengunjung",
     "satuan": "orang",
-    "jumlah": 218299
+    "jumlah": "528,702"
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Jakarta Pusat",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
     "uraian": "koleksi buku",
     "satuan": "eksemplar",
-    "jumlah": 157448
+    "jumlah": "19,001"
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Jakarta Pusat",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
     "uraian": "fasilitas sistem pengelolaan perpustakaan",
     "satuan": "sistem",
-    "jumlah": 0
+    "jumlah": 1
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Jakarta Pusat",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
     "uraian": "perpustakaan berstandar internasional",
@@ -40,7 +40,7 @@
     "jumlah": 0
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Jakarta Pusat",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
     "uraian": "perpustakaan berbasis teknologi",
@@ -48,15 +48,15 @@
     "jumlah": 1
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Jakarta Pusat",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
     "uraian": "komunitas perpustakaan",
     "satuan": "organisasi",
-    "jumlah": 2
+    "jumlah": 0
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Jakarta Pusat",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
     "uraian": "taman bacaan masyarakat",
@@ -64,39 +64,39 @@
     "jumlah": 10
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Jakarta Pusat",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
     "uraian": "pengguna jasa perpustakaan keliling",
     "satuan": "orang",
-    "jumlah": 187950
+    "jumlah": "200,937"
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Jakarta Utara",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
     "uraian": "anggota",
     "satuan": "orang",
-    "jumlah": 22754
+    "jumlah": "33,112"
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Jakarta Utara",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
     "uraian": "pengunjung",
     "satuan": "orang",
-    "jumlah": 428589
+    "jumlah": "567,362"
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Jakarta Utara",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
     "uraian": "koleksi buku",
     "satuan": "eksemplar",
-    "jumlah": 135912
+    "jumlah": "156,912"
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Jakarta Utara",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
     "uraian": "fasilitas sistem pengelolaan perpustakaan",
@@ -104,7 +104,7 @@
     "jumlah": 1
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Jakarta Utara",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
     "uraian": "perpustakaan berstandar internasional",
@@ -112,7 +112,7 @@
     "jumlah": 0
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Jakarta Utara",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
     "uraian": "perpustakaan berbasis teknologi",
@@ -120,7 +120,7 @@
     "jumlah": 1
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Jakarta Utara",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
     "uraian": "komunitas perpustakaan",
@@ -128,7 +128,7 @@
     "jumlah": 3
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Jakarta Utara",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
     "uraian": "taman bacaan masyarakat",
@@ -136,39 +136,39 @@
     "jumlah": 16
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Jakarta Utara",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
     "uraian": "pengguna jasa perpustakaan keliling",
     "satuan": "orang",
-    "jumlah": 129361
+    "jumlah": "144,991"
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Jakarta Barat",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
     "uraian": "anggota",
     "satuan": "orang",
-    "jumlah": 24836
+    "jumlah": "37,712"
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Jakarta Barat",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
     "uraian": "pengunjung",
     "satuan": "orang",
-    "jumlah": 568503
+    "jumlah": "650,048"
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Jakarta Barat",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
     "uraian": "koleksi buku",
     "satuan": "eksemplar",
-    "jumlah": 154865
+    "jumlah": "173,865"
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Jakarta Barat",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
     "uraian": "fasilitas sistem pengelolaan perpustakaan",
@@ -176,7 +176,7 @@
     "jumlah": 1
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Jakarta Barat",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
     "uraian": "perpustakaan berstandar internasional",
@@ -184,7 +184,7 @@
     "jumlah": 0
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Jakarta Barat",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
     "uraian": "perpustakaan berbasis teknologi",
@@ -192,7 +192,7 @@
     "jumlah": 1
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Jakarta Barat",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
     "uraian": "komunitas perpustakaan",
@@ -200,47 +200,47 @@
     "jumlah": 1
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Jakarta Barat",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
     "uraian": "taman bacaan masyarakat",
     "satuan": "sanggar",
-    "jumlah": 10
+    "jumlah": 12
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Jakarta Barat",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
     "uraian": "pengguna jasa perpustakaan keliling",
     "satuan": "orang",
-    "jumlah": 309808
+    "jumlah": "141,179"
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Jakarta Selatan",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
     "uraian": "anggota",
     "satuan": "orang",
-    "jumlah": 15323
+    "jumlah": "51,569"
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Jakarta Selatan",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
     "uraian": "pengunjung",
     "satuan": "orang",
-    "jumlah": 173897
+    "jumlah": "521,089"
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Jakarta Selatan",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
     "uraian": "koleksi buku",
     "satuan": "eksemplar",
-    "jumlah": 193578
+    "jumlah": "19,101"
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Jakarta Selatan",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
     "uraian": "fasilitas sistem pengelolaan perpustakaan",
@@ -248,7 +248,7 @@
     "jumlah": 1
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Jakarta Selatan",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
     "uraian": "perpustakaan berstandar internasional",
@@ -256,7 +256,7 @@
     "jumlah": 0
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Jakarta Selatan",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
     "uraian": "perpustakaan berbasis teknologi",
@@ -264,7 +264,7 @@
     "jumlah": 0
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Jakarta Selatan",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
     "uraian": "komunitas perpustakaan",
@@ -272,47 +272,47 @@
     "jumlah": 6
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Jakarta Selatan",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
     "uraian": "taman bacaan masyarakat",
     "satuan": "sanggar",
-    "jumlah": 9
+    "jumlah": 16
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Jakarta Selatan",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
     "uraian": "pengguna jasa perpustakaan keliling",
     "satuan": "orang",
-    "jumlah": 293861
+    "jumlah": "119,298"
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Jakarta Timur",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
     "uraian": "anggota",
     "satuan": "orang",
-    "jumlah": 22435
+    "jumlah": "75,243"
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Jakarta Timur",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
     "uraian": "pengunjung",
     "satuan": "orang",
-    "jumlah": 753018
+    "jumlah": "1,498,400"
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Jakarta Timur",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
     "uraian": "koleksi buku",
     "satuan": "eksemplar",
-    "jumlah": 134875
+    "jumlah": "151,588"
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Jakarta Timur",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
     "uraian": "fasilitas sistem pengelolaan perpustakaan",
@@ -320,7 +320,7 @@
     "jumlah": 1
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Jakarta Timur",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
     "uraian": "perpustakaan berstandar internasional",
@@ -328,63 +328,63 @@
     "jumlah": 0
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Jakarta Timur",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
     "uraian": "perpustakaan berbasis teknologi",
     "satuan": "perpustakaan",
-    "jumlah": 1
+    "jumlah": 3
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Jakarta Timur",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
     "uraian": "komunitas perpustakaan",
     "satuan": "organisasi",
-    "jumlah": 9
+    "jumlah": 6
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Jakarta Timur",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
     "uraian": "taman bacaan masyarakat",
     "satuan": "sanggar",
-    "jumlah": 22
+    "jumlah": 14
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Jakarta Timur",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
     "uraian": "pengguna jasa perpustakaan keliling",
     "satuan": "orang",
-    "jumlah": 101038
+    "jumlah": "172,288"
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Kabupaten Kepulauan Seribu",
     "nama_perpustakaan": "KABUPATEN KEPULAUAN SERIBU",
     "uraian": "anggota",
     "satuan": "orang",
-    "jumlah": 873
+    "jumlah": 5341
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Kabupaten Kepulauan Seribu",
     "nama_perpustakaan": "KABUPATEN KEPULAUAN SERIBU",
     "uraian": "pengunjung",
     "satuan": "orang",
-    "jumlah": 63001
+    "jumlah": "62,886"
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Kabupaten Kepulauan Seribu",
     "nama_perpustakaan": "KABUPATEN KEPULAUAN SERIBU",
     "uraian": "koleksi buku",
     "satuan": "eksemplar",
-    "jumlah": 36633
+    "jumlah": "39,127"
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Kabupaten Kepulauan Seribu",
     "nama_perpustakaan": "KABUPATEN KEPULAUAN SERIBU",
     "uraian": "fasilitas sistem pengelolaan perpustakaan",
@@ -392,7 +392,7 @@
     "jumlah": 1
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Kabupaten Kepulauan Seribu",
     "nama_perpustakaan": "KABUPATEN KEPULAUAN SERIBU",
     "uraian": "perpustakaan berstandar internasional",
@@ -400,7 +400,7 @@
     "jumlah": 0
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Kabupaten Kepulauan Seribu",
     "nama_perpustakaan": "KABUPATEN KEPULAUAN SERIBU",
     "uraian": "perpustakaan berbasis teknologi",
@@ -408,7 +408,7 @@
     "jumlah": 0
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Kabupaten Kepulauan Seribu",
     "nama_perpustakaan": "KABUPATEN KEPULAUAN SERIBU",
     "uraian": "komunitas perpustakaan",
@@ -416,7 +416,7 @@
     "jumlah": 1
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Kabupaten Kepulauan Seribu",
     "nama_perpustakaan": "KABUPATEN KEPULAUAN SERIBU",
     "uraian": "taman bacaan masyarakat",
@@ -424,11 +424,11 @@
     "jumlah": 2
   },
   {
-    "periode_data": 2023,
+    "periode_data": 2024,
     "wilayah": "Kabupaten Kepulauan Seribu",
     "nama_perpustakaan": "KABUPATEN KEPULAUAN SERIBU",
     "uraian": "pengguna jasa perpustakaan keliling",
     "satuan": "orang",
-    "jumlah": 71023
+    "jumlah": "43,750"
   }
 ]
