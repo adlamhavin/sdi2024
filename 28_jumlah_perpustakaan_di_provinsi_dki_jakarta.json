@@ -1,0 +1,32 @@
+[
+    {
+      "periode_data": 2024,
+      "wilayah": "KOTA ADM. JAKARTA PUSAT",
+      "jumlah_perpustakaan": 88
+    },
+    {
+      "periode_data": 2024,
+      "wilayah": "KOTA ADM. JAKARTA UTARA",
+      "jumlah_perpustakaan": 93
+    },
+    {
+      "periode_data": 2024,
+      "wilayah": "KOTA ADM. JAKARTA BARAT",
+      "jumlah_perpustakaan": 83
+    },
+    {
+      "periode_data": 2024,
+      "wilayah": "KOTA ADM. JAKARTA SELATAN",
+      "jumlah_perpustakaan": 134
+    },
+    {
+      "periode_data": 2024,
+      "wilayah": "KOTA ADM. JAKARTA TIMUR",
+      "jumlah_perpustakaan": 126
+    },
+    {
+      "periode_data": 2024,
+      "wilayah": "KAB. ADM. KEP. SERIBU",
+      "jumlah_perpustakaan": 10
+    }
+  ]

@@ -1,803 +1,882 @@
 [
   {
-    "periode_data": 2023,
-    "wilayah": "DINAS PERPUSTAKAAN DAN KEARSIPAN PROVINSI DKI JAKARTA",
-    "jenis_kendaraan": "HEAD TRUCK HINO",
-    "tahun_kepemilikan": 2013,
-    "nomor_polisi": "B 9001 PNM",
-    "status": "Baik",
-    "keterangan": ""
-  },
-  {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
+    "kecamatan": "Gambir",
+    "kelurahan": "Petojo Selatan",
     "jenis_kendaraan": "MOBIL RODA 4 ISUZU PANTHER",
-    "tahun_kepemilikan": 2018,
+    "tahun_pembuatan": 2018,
     "nomor_polisi": "B 9092 PQW",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
+    "kecamatan": "Gambir",
+    "kelurahan": "Petojo Selatan",
     "jenis_kendaraan": "MOBIL RODA 4 ISUZU TRAGA",
-    "tahun_kepemilikan": 2019,
+    "tahun_pembuatan": 2019,
     "nomor_polisi": "B 9258 PQW",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
+    "kecamatan": "Gambir",
+    "kelurahan": "Petojo Selatan",
     "jenis_kendaraan": "MOBIL RODA 4 ISUZU TRAGA",
-    "tahun_kepemilikan": 2019,
+    "tahun_pembuatan": 2019,
     "nomor_polisi": "B 9225 PQW",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
+    "kecamatan": "Gambir",
+    "kelurahan": "Petojo Selatan",
     "jenis_kendaraan": "MOBIL RODA 4 TOYOTA KIJANG",
-    "tahun_kepemilikan": 2003,
+    "tahun_pembuatan": 2003,
     "nomor_polisi": "B 9468 PQ",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
+    "kecamatan": "Gambir",
+    "kelurahan": "Petojo Selatan",
     "jenis_kendaraan": "MOBIL RODA 4 ISUZU TRAGA",
-    "tahun_kepemilikan": 2019,
+    "tahun_pembuatan": 2019,
     "nomor_polisi": "B 9219 PQW",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
+    "kecamatan": "Gambir",
+    "kelurahan": "Petojo Selatan",
     "jenis_kendaraan": "MOBIL RODA 4 DAIHATSU",
-    "tahun_kepemilikan": 2010,
+    "tahun_pembuatan": 2010,
     "nomor_polisi": "B 9116 PQU",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
+    "kecamatan": "Gambir",
+    "kelurahan": "Petojo Selatan",
     "jenis_kendaraan": "MOBIL RODA 4 ISUZU PANTHER",
-    "tahun_kepemilikan": 2018,
+    "tahun_pembuatan": 2018,
     "nomor_polisi": "B 9091 PQW",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
+    "kecamatan": "Gambir",
+    "kelurahan": "Petojo Selatan",
     "jenis_kendaraan": "MOBIL RODA 4 ISUZU PANTHER",
-    "tahun_kepemilikan": 2018,
+    "tahun_pembuatan": 2018,
     "nomor_polisi": "B 9089 PQW",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
+    "kecamatan": "Gambir",
+    "kelurahan": "Petojo Selatan",
     "jenis_kendaraan": "MOBIL RODA 4 SUZUKI APV",
-    "tahun_kepemilikan": 2012,
+    "tahun_pembuatan": 2012,
     "nomor_polisi": "B 9543 PQU",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
+    "kecamatan": "Gambir",
+    "kelurahan": "Petojo Selatan",
     "jenis_kendaraan": "MOBIL RODA 4 MITSUBITSHI",
-    "tahun_kepemilikan": 2002,
+    "tahun_pembuatan": 2002,
     "nomor_polisi": "B 9392 EQ",
-    "status": "Rusak Berat",
-    "keterangan": ""
+    "status": "Rusak Berat"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
+    "kecamatan": "Gambir",
+    "kelurahan": "Petojo Selatan",
     "jenis_kendaraan": "MOBIL RODA 4 TOYOTA KIJANG",
-    "tahun_kepemilikan": 2004,
+    "tahun_pembuatan": 2004,
     "nomor_polisi": "B 9211 EQ",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
+    "kecamatan": "Gambir",
+    "kelurahan": "Petojo Selatan",
     "jenis_kendaraan": "MOBIL RODA 4 ISUZU",
-    "tahun_kepemilikan": 2013,
+    "tahun_pembuatan": 2013,
     "nomor_polisi": "B 7157 PPA",
-    "status": "Rusak Ringan",
-    "keterangan": ""
+    "status": "Rusak Ringan"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
+    "kecamatan": "Gambir",
+    "kelurahan": "Petojo Selatan",
     "jenis_kendaraan": "MOTOR RODA 2 YAMAHA X RIDE",
-    "tahun_kepemilikan": 2014,
+    "tahun_pembuatan": 2014,
     "nomor_polisi": "B 6103 PYQ",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
+    "kecamatan": "Gambir",
+    "kelurahan": "Petojo Selatan",
     "jenis_kendaraan": "MOTOR RODA 3 VIAR",
-    "tahun_kepemilikan": 2015,
+    "tahun_pembuatan": 2015,
     "nomor_polisi": "B 3646 PCQ",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
+    "kecamatan": "Gambir",
+    "kelurahan": "Petojo Selatan",
     "jenis_kendaraan": "MOTOR RODA 2 YAMAHA X RIDE",
-    "tahun_kepemilikan": 2014,
+    "tahun_pembuatan": "",
     "nomor_polisi": "B 6102 PYQ",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
+    "kecamatan": "Gambir",
+    "kelurahan": "Petojo Selatan",
     "jenis_kendaraan": "MOBIL RODA 4 DAIHATSU",
-    "tahun_kepemilikan": 2023,
+    "tahun_pembuatan": 2023,
     "nomor_polisi": "B 9646 PQW",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
+    "kecamatan": "Gambir",
+    "kelurahan": "Petojo Selatan",
     "jenis_kendaraan": "MOBIL RODA 4 DAIHATSU",
-    "tahun_kepemilikan": 2023,
+    "tahun_pembuatan": 2023,
     "nomor_polisi": "B 9654 PQW",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
+    "kecamatan": "Gambir",
+    "kelurahan": "Petojo Selatan",
     "jenis_kendaraan": "MOTOR RODA 3 VIAR",
-    "tahun_kepemilikan": 2015,
+    "tahun_pembuatan": 2015,
     "nomor_polisi": "B 3647 PCQ",
-    "status": "Rusak Berat",
-    "keterangan": ""
+    "status": "Rusak Berat"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
+    "kecamatan": "Gambir",
+    "kelurahan": "Petojo Selatan",
     "jenis_kendaraan": "MOBIL RODA 4 NISAN EVALIA",
-    "tahun_kepemilikan": "",
+    "tahun_pembuatan": "",
     "nomor_polisi": "B 1726 PQR",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
+    "kecamatan": "Koja",
+    "kelurahan": "Tugu Selatan",
     "jenis_kendaraan": "Isuzu Panter",
-    "tahun_kepemilikan": 2018,
+    "tahun_pembuatan": 2018,
     "nomor_polisi": "B 9084 PQW",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
+    "kecamatan": "Koja",
+    "kelurahan": "Tugu Selatan",
     "jenis_kendaraan": "Isuzu Panter",
-    "tahun_kepemilikan": 2018,
+    "tahun_pembuatan": 2018,
     "nomor_polisi": "B 9097 PQW",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
+    "kecamatan": "Koja",
+    "kelurahan": "Tugu Selatan",
     "jenis_kendaraan": "Isuzu Panter",
-    "tahun_kepemilikan": 2018,
+    "tahun_pembuatan": 2018,
     "nomor_polisi": "B 9085 PQW",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
+    "kecamatan": "Koja",
+    "kelurahan": "Tugu Selatan",
     "jenis_kendaraan": "Isuzu Traga",
-    "tahun_kepemilikan": 2019,
+    "tahun_pembuatan": 2019,
     "nomor_polisi": "B 9221 PQW",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
+    "kecamatan": "Koja",
+    "kelurahan": "Tugu Selatan",
     "jenis_kendaraan": "Isuzu Traga",
-    "tahun_kepemilikan": 2019,
+    "tahun_pembuatan": 2019,
     "nomor_polisi": "B 9252 PQW",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
+    "kecamatan": "Koja",
+    "kelurahan": "Tugu Selatan",
     "jenis_kendaraan": "Isuzu Traga",
-    "tahun_kepemilikan": 2019,
+    "tahun_pembuatan": 2019,
     "nomor_polisi": "B 9250 PQW",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
+    "kecamatan": "Koja",
+    "kelurahan": "Tugu Selatan",
     "jenis_kendaraan": "ELF",
-    "tahun_kepemilikan": 2013,
+    "tahun_pembuatan": 2013,
     "nomor_polisi": "B 7158 PPA",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
+    "kecamatan": "Koja",
+    "kelurahan": "Tugu Selatan",
     "jenis_kendaraan": "Daihatsu S402RP-PMRF JJ KJ",
-    "tahun_kepemilikan": 2012,
+    "tahun_pembuatan": 2012,
     "nomor_polisi": "B 9544 PQU",
-    "status": "Rusak Berat",
-    "keterangan": ""
+    "status": "Rusak Berat"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
+    "kecamatan": "Koja",
+    "kelurahan": "Tugu Selatan",
     "jenis_kendaraan": "Toyota Kijang KF60 STD",
-    "tahun_kepemilikan": 2003,
+    "tahun_pembuatan": "",
     "nomor_polisi": "B 9466 PQ",
-    "status": "Rusak Berat",
-    "keterangan": ""
+    "status": "Rusak Berat"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
+    "kecamatan": "Koja",
+    "kelurahan": "Tugu Selatan",
     "jenis_kendaraan": "Toyota Kijang KF60 STD",
-    "tahun_kepemilikan": 2004,
+    "tahun_pembuatan": "",
     "nomor_polisi": "B 9212 EQ",
-    "status": "Rusak Berat",
-    "keterangan": ""
+    "status": "Rusak Berat"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
+    "kecamatan": "Koja",
+    "kelurahan": "Tugu Selatan",
     "jenis_kendaraan": "Suzuki GC415T 4X2 MT",
-    "tahun_kepemilikan": 2011,
+    "tahun_pembuatan": 2011,
     "nomor_polisi": "B 9325 PQU",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
+    "kecamatan": "Koja",
+    "kelurahan": "Tugu Selatan",
     "jenis_kendaraan": "Honda Revo",
-    "tahun_kepemilikan": 2012,
+    "tahun_pembuatan": 2012,
     "nomor_polisi": "B 6745 PTQ",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
+    "kecamatan": "Koja",
+    "kelurahan": "Tugu Selatan",
     "jenis_kendaraan": "Honda Revo",
-    "tahun_kepemilikan": 2012,
+    "tahun_pembuatan": 2012,
     "nomor_polisi": "B 6748 PTQ",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
+    "kecamatan": "Koja",
+    "kelurahan": "Tugu Selatan",
     "jenis_kendaraan": "Honda Revo",
-    "tahun_kepemilikan": 2012,
+    "tahun_pembuatan": 2012,
     "nomor_polisi": "B 6747 PTQ",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
+    "kecamatan": "Koja",
+    "kelurahan": "Tugu Selatan",
     "jenis_kendaraan": "Honda Revo",
-    "tahun_kepemilikan": 2012,
+    "tahun_pembuatan": 2012,
     "nomor_polisi": "B 6746 PTQ",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
+    "kecamatan": "Koja",
+    "kelurahan": "Tugu Selatan",
     "jenis_kendaraan": "Honda Revo",
-    "tahun_kepemilikan": 2012,
+    "tahun_pembuatan": 2012,
     "nomor_polisi": "B 6749 PTQ",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
+    "kecamatan": "Koja",
+    "kelurahan": "Tugu Selatan",
     "jenis_kendaraan": "Honda Revo",
-    "tahun_kepemilikan": 2012,
+    "tahun_pembuatan": 2012,
     "nomor_polisi": "B 6750 PTQ",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
+    "kecamatan": "Koja",
+    "kelurahan": "Tugu Selatan",
     "jenis_kendaraan": "VIAR",
-    "tahun_kepemilikan": 2015,
+    "tahun_pembuatan": 2015,
     "nomor_polisi": "B 3644 PCQ",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Rusak Ringan"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
+    "kecamatan": "Koja",
+    "kelurahan": "Tugu Selatan",
     "jenis_kendaraan": "VIAR",
-    "tahun_kepemilikan": 2015,
+    "tahun_pembuatan": 2015,
     "nomor_polisi": "B 3645 PCQ",
-    "status": "Rusak Ringan",
-    "keterangan": ""
+    "status": "Rusak Berat"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
+    "kecamatan": "Kebon Jeruk",
+    "kelurahan": "Duri Kepa",
     "jenis_kendaraan": "Mobil - Mitsubishi T120 SS",
-    "tahun_kepemilikan": 2002,
+    "tahun_pembuatan": "",
     "nomor_polisi": "B 9394 EQ",
-    "status": "Rusak berat",
-    "keterangan": ""
+    "status": "Rusak berat"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
+    "kecamatan": "Kebon Jeruk",
+    "kelurahan": "Duri Kepa",
     "jenis_kendaraan": "Mobil - Toyota Kijang KF 6",
-    "tahun_kepemilikan": 2004,
+    "tahun_pembuatan": 2004,
     "nomor_polisi": "B 9210 EQ",
-    "status": "Rusak berat",
-    "keterangan": ""
+    "status": "Rusak berat"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
+    "kecamatan": "Kebon Jeruk",
+    "kelurahan": "Duri Kepa",
     "jenis_kendaraan": "Mobil - Daihatsu Grandmax",
-    "tahun_kepemilikan": 2009,
+    "tahun_pembuatan": 2010,
     "nomor_polisi": "B 1648 PQN",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
+    "kecamatan": "Kebon Jeruk",
+    "kelurahan": "Duri Kepa",
     "jenis_kendaraan": "Mobil - Daihatsu Grandmax",
-    "tahun_kepemilikan": 2010,
+    "tahun_pembuatan": 2010,
     "nomor_polisi": "B 1008 PQO",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
+    "kecamatan": "Kebon Jeruk",
+    "kelurahan": "Duri Kepa",
     "jenis_kendaraan": "Mobil - Daihatsu Grandmax",
-    "tahun_kepemilikan": 2011,
+    "tahun_pembuatan": 2011,
     "nomor_polisi": "B 9323 PQN",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
+    "kecamatan": "Kebon Jeruk",
+    "kelurahan": "Duri Kepa",
     "jenis_kendaraan": "Mobil - Daihatsu Grandmax",
-    "tahun_kepemilikan": 2011,
+    "tahun_pembuatan": 2011,
     "nomor_polisi": "B 9324 PQU",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
+    "kecamatan": "Kebon Jeruk",
+    "kelurahan": "Duri Kepa",
     "jenis_kendaraan": "Mobil - Toyota Hilux",
-    "tahun_kepemilikan": 2011,
+    "tahun_pembuatan": 2008,
     "nomor_polisi": "B 9633 LQ",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
+    "kecamatan": "Kebon Jeruk",
+    "kelurahan": "Duri Kepa",
     "jenis_kendaraan": "Mobil - Isuzu Traga",
-    "tahun_kepemilikan": 2019,
+    "tahun_pembuatan": 2019,
     "nomor_polisi": "B 9215 PQW",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
+    "kecamatan": "Kebon Jeruk",
+    "kelurahan": "Duri Kepa",
     "jenis_kendaraan": "Mobil - Isuzu Traga",
-    "tahun_kepemilikan": 2019,
+    "tahun_pembuatan": 2019,
     "nomor_polisi": "B 9217 PQW",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
+    "kecamatan": "Kebon Jeruk",
+    "kelurahan": "Duri Kepa",
     "jenis_kendaraan": "Mobil - Isuzu Traga",
-    "tahun_kepemilikan": 2019,
+    "tahun_pembuatan": 2019,
     "nomor_polisi": "B 9227 PQW",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
+    "kecamatan": "Kebon Jeruk",
+    "kelurahan": "Duri Kepa",
     "jenis_kendaraan": "Mobil - Isuzu Panther",
-    "tahun_kepemilikan": 2018,
+    "tahun_pembuatan": 2018,
     "nomor_polisi": "B 9099 PQW",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
+    "kecamatan": "Kebon Jeruk",
+    "kelurahan": "Duri Kepa",
     "jenis_kendaraan": "Mobil - Isuzu Panther",
-    "tahun_kepemilikan": 2018,
+    "tahun_pembuatan": 2018,
     "nomor_polisi": "B 9093 PQW",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
+    "kecamatan": "Kebon Jeruk",
+    "kelurahan": "Duri Kepa",
     "jenis_kendaraan": "Mobil - Isuzu Panther",
-    "tahun_kepemilikan": 2018,
+    "tahun_pembuatan": 2018,
     "nomor_polisi": "B 9088 PQW",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
+    "kecamatan": "Kebon Jeruk",
+    "kelurahan": "Duri Kepa",
     "jenis_kendaraan": "Mobil - Isuzu Elf NLR 55",
-    "tahun_kepemilikan": 2023,
+    "tahun_pembuatan": "",
     "nomor_polisi": "B 9661 PQW",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
+    "kecamatan": "Kebon Jeruk",
+    "kelurahan": "Duri Kepa",
     "jenis_kendaraan": "Mobil - Isuzu Elf NLR 55",
-    "tahun_kepemilikan": 2023,
+    "tahun_pembuatan": "",
     "nomor_polisi": "B 9614 PQW",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
+    "kecamatan": "Kebon Jeruk",
+    "kelurahan": "Duri Kepa",
     "jenis_kendaraan": "Mobil - Isuzu Elf NLR 55",
-    "tahun_kepemilikan": 2023,
+    "tahun_pembuatan": "",
     "nomor_polisi": "B 9663 PQW",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
+    "kecamatan": "Kebon Jeruk",
+    "kelurahan": "Duri Kepa",
     "jenis_kendaraan": "Motor - Viar VR 150 SR",
-    "tahun_kepemilikan": 2015,
+    "tahun_pembuatan": 2015,
     "nomor_polisi": "B 3648 PCQ",
-    "status": "Rusak berat",
-    "keterangan": ""
+    "status": "Rusak berat"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
+    "kecamatan": "Kebon Jeruk",
+    "kelurahan": "Duri Kepa",
     "jenis_kendaraan": "Motor - Viar VR 150 SR",
-    "tahun_kepemilikan": 2015,
+    "tahun_pembuatan": 2015,
     "nomor_polisi": "B 3649 PCQ",
-    "status": "Rusak berat",
-    "keterangan": ""
+    "status": "Rusak berat"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
+    "kecamatan": "Kebayoran Baru",
+    "kelurahan": "Kramat Pela",
     "jenis_kendaraan": "Isuzu Traga",
-    "tahun_kepemilikan": 2019,
+    "tahun_pembuatan": "",
     "nomor_polisi": "B 9256 PQW",
-    "status": "Rusak Ringan",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
+    "kecamatan": "Kebayoran Baru",
+    "kelurahan": "Kramat Pela",
     "jenis_kendaraan": "Isuzu Traga",
-    "tahun_kepemilikan": 2019,
+    "tahun_pembuatan": "",
     "nomor_polisi": "B 9254 PQW",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
+    "kecamatan": "Kebayoran Baru",
+    "kelurahan": "Kramat Pela",
     "jenis_kendaraan": "Isuzu Traga",
-    "tahun_kepemilikan": 2019,
+    "tahun_pembuatan": "",
     "nomor_polisi": "B 9223 PQW",
-    "status": "Rusak Ringan",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
+    "kecamatan": "Kebayoran Baru",
+    "kelurahan": "Kramat Pela",
     "jenis_kendaraan": "Isuzu Panther",
-    "tahun_kepemilikan": 2018,
+    "tahun_pembuatan": "",
     "nomor_polisi": "B 9086 PQW",
-    "status": "Rusak Ringan",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
+    "kecamatan": "Kebayoran Baru",
+    "kelurahan": "Kramat Pela",
     "jenis_kendaraan": "Isuzu Panther",
-    "tahun_kepemilikan": 2018,
+    "tahun_pembuatan": "",
     "nomor_polisi": "B 9087 PQW",
-    "status": "Rusak Ringan",
-    "keterangan": ""
+    "status": "Rusak Ringan"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
+    "kecamatan": "Kebayoran Baru",
+    "kelurahan": "Kramat Pela",
     "jenis_kendaraan": "Isuzu Panther",
-    "tahun_kepemilikan": 2018,
+    "tahun_pembuatan": "",
     "nomor_polisi": "B 9100 PQW",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
+    "kecamatan": "Kebayoran Baru",
+    "kelurahan": "Kramat Pela",
     "jenis_kendaraan": "Daihatsu Grand Max",
-    "tahun_kepemilikan": 2014,
+    "tahun_pembuatan": "",
     "nomor_polisi": "B 9981 PQU",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
+    "kecamatan": "Kebayoran Baru",
+    "kelurahan": "Kramat Pela",
     "jenis_kendaraan": "Daihatsu Grand Max",
-    "tahun_kepemilikan": 2019,
+    "tahun_pembuatan": "",
     "nomor_polisi": "B 9982 PQU",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
+    "kecamatan": "Kebayoran Baru",
+    "kelurahan": "Kramat Pela",
     "jenis_kendaraan": "Daihatsu Grand Max",
-    "tahun_kepemilikan": 2012,
+    "tahun_pembuatan": "",
     "nomor_polisi": "B 9584 PQU",
-    "status": "Rusak Ringan",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
+    "kecamatan": "Kebayoran Baru",
+    "kelurahan": "Kramat Pela",
     "jenis_kendaraan": "Daihatsu Grand Max",
-    "tahun_kepemilikan": 2015,
+    "tahun_pembuatan": "",
     "nomor_polisi": "B 9166 PCK",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
-    "jenis_kendaraan": "VIAR",
-    "tahun_kepemilikan": 2017,
-    "nomor_polisi": "B 3650 PCQ",
-    "status": "Rusak Berat",
-    "keterangan": ""
-  },
-  {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
-    "jenis_kendaraan": "VIAR",
-    "tahun_kepemilikan": 2017,
-    "nomor_polisi": "B 3651 PCQ",
-    "status": "Rusak Berat",
-    "keterangan": ""
-  },
-  {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
+    "kecamatan": "Kebayoran Baru",
+    "kelurahan": "Kramat Pela",
     "jenis_kendaraan": "ISUZU NLR85U EAYIN1",
-    "tahun_kepemilikan": 2024,
+    "tahun_pembuatan": "",
     "nomor_polisi": "B 9620 PQW",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
+    "kecamatan": "Kebayoran Baru",
+    "kelurahan": "Kramat Pela",
     "jenis_kendaraan": "ISUZU NLR85U EAYIN1",
-    "tahun_kepemilikan": 2024,
+    "tahun_pembuatan": "",
     "nomor_polisi": "B 9675 PQW",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
+    "kecamatan": "Kebayoran Baru",
+    "kelurahan": "Kramat Pela",
+    "jenis_kendaraan": "VIAR 150 SR",
+    "tahun_pembuatan": "",
+    "nomor_polisi": "B 3651 PCQ",
+    "status": "Rusak Berat"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
+    "kecamatan": "Kebayoran Baru",
+    "kelurahan": "Kramat Pela",
+    "jenis_kendaraan": "VIAR 150 SR",
+    "tahun_pembuatan": "",
+    "nomor_polisi": "B 3650 PCQ",
+    "status": "Rusak Berat"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "kecamatan": "Jatinegara",
+    "kelurahan": "Rawa Bunga",
     "jenis_kendaraan": "Isuzu Traga",
-    "tahun_kepemilikan": 2019,
+    "tahun_pembuatan": "",
     "nomor_polisi": "B 9248 PQW",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "kecamatan": "Jatinegara",
+    "kelurahan": "Rawa Bunga",
     "jenis_kendaraan": "Isuzu Traga",
-    "tahun_kepemilikan": 2019,
+    "tahun_pembuatan": "",
     "nomor_polisi": "B 9213 PQW",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "kecamatan": "Jatinegara",
+    "kelurahan": "Rawa Bunga",
     "jenis_kendaraan": "Isuzu Traga",
-    "tahun_kepemilikan": 2019,
+    "tahun_pembuatan": "",
     "nomor_polisi": "B 9231 PQW",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "kecamatan": "Jatinegara",
+    "kelurahan": "Rawa Bunga",
     "jenis_kendaraan": "Isuzu Panther",
-    "tahun_kepemilikan": 2018,
+    "tahun_pembuatan": "",
     "nomor_polisi": "B 9095 PQW",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "kecamatan": "Jatinegara",
+    "kelurahan": "Rawa Bunga",
     "jenis_kendaraan": "Isuzu Panther",
-    "tahun_kepemilikan": 2018,
+    "tahun_pembuatan": "",
     "nomor_polisi": "B 9096 PQW",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "kecamatan": "Jatinegara",
+    "kelurahan": "Rawa Bunga",
     "jenis_kendaraan": "Isuzu Panther",
-    "tahun_kepemilikan": 2018,
+    "tahun_pembuatan": "",
     "nomor_polisi": "B 9094 PQW",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "kecamatan": "Jatinegara",
+    "kelurahan": "Rawa Bunga",
     "jenis_kendaraan": "Isuzu Elf",
-    "tahun_kepemilikan": 2014,
+    "tahun_pembuatan": "",
     "nomor_polisi": "B 9012 TQU",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "kecamatan": "Jatinegara",
+    "kelurahan": "Rawa Bunga",
     "jenis_kendaraan": "Isuzu Elf",
-    "tahun_kepemilikan": 2016,
+    "tahun_pembuatan": "",
     "nomor_polisi": "B 9216 TQU",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "kecamatan": "Jatinegara",
+    "kelurahan": "Rawa Bunga",
     "jenis_kendaraan": "VIAR",
-    "tahun_kepemilikan": 2015,
+    "tahun_pembuatan": "",
     "nomor_polisi": "B 3642 PCQ",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "kecamatan": "Jatinegara",
+    "kelurahan": "Rawa Bunga",
     "jenis_kendaraan": "VIAR",
-    "tahun_kepemilikan": 2015,
+    "tahun_pembuatan": "",
     "nomor_polisi": "B 3643 PCQ",
-    "status": "Rusak Ringan",
-    "keterangan": ""
+    "status": "Rusak Ringan"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "kecamatan": "Jatinegara",
+    "kelurahan": "Rawa Bunga",
     "jenis_kendaraan": "Toyota Kijang",
-    "tahun_kepemilikan": 2003,
+    "tahun_pembuatan": 2003,
     "nomor_polisi": "B 9457 PQ",
-    "status": "Rusak Berat",
-    "keterangan": ""
+    "status": "Rusak Berat"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "kecamatan": "Jatinegara",
+    "kelurahan": "Rawa Bunga",
     "jenis_kendaraan": "Toyota Kijang",
-    "tahun_kepemilikan": 2004,
+    "tahun_pembuatan": "",
     "nomor_polisi": "B 9214 EQ",
-    "status": "Rusak Berat",
-    "keterangan": ""
+    "status": "Rusak Berat"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "kecamatan": "Jatinegara",
+    "kelurahan": "Rawa Bunga",
     "jenis_kendaraan": "Daihatsu Grand Max",
-    "tahun_kepemilikan": 2010,
+    "tahun_pembuatan": "",
     "nomor_polisi": "B 9216 PQU",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "kecamatan": "Jatinegara",
+    "kelurahan": "Rawa Bunga",
     "jenis_kendaraan": "Daihatsu Grand Max",
-    "tahun_kepemilikan": 2010,
+    "tahun_pembuatan": "",
     "nomor_polisi": "B 9217 PQU",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "kecamatan": "Jatinegara",
+    "kelurahan": "Rawa Bunga",
     "jenis_kendaraan": "Daihatsu Grand Max",
-    "tahun_kepemilikan": 2010,
+    "tahun_pembuatan": "",
     "nomor_polisi": "B 9219 PQU",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "kecamatan": "Jatinegara",
+    "kelurahan": "Rawa Bunga",
     "jenis_kendaraan": "Isuzu",
-    "tahun_kepemilikan": 2023,
+    "tahun_pembuatan": 2023,
     "nomor_polisi": "B 9671 PQW",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "kecamatan": "Jatinegara",
+    "kelurahan": "Rawa Bunga",
     "jenis_kendaraan": "Isuzu",
-    "tahun_kepemilikan": 2023,
+    "tahun_pembuatan": 2023,
     "nomor_polisi": "B 9667 PQW",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   },
   {
-    "periode_data": 2023,
-    "wilayah": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "kecamatan": "Jatinegara",
+    "kelurahan": "Rawa Bunga",
     "jenis_kendaraan": "Isuzu",
-    "tahun_kepemilikan": 2023,
+    "tahun_pembuatan": 2023,
     "nomor_polisi": "B 9665 PQW",
-    "status": "Baik",
-    "keterangan": ""
+    "status": "Baik"
   }
 ]
