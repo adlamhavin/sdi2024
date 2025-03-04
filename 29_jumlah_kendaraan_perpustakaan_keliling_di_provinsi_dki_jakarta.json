@@ -1,0 +1,27 @@
+[
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
+    "jumlah_kendaraan": 19
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
+    "jumlah_kendaraan": 19
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
+    "jumlah_kendaraan": 14
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
+    "jumlah_kendaraan": 14
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "jumlah_kendaraan": 18
+  }
+]
