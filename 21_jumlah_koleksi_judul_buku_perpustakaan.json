@@ -4,7 +4,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Menteng",
     "kelurahan": "Cikini",
-    "nama": "Perpustakaan Jakarta - Cikini",
+    "nama_perpustakaan": "Perpustakaan Jakarta - Cikini",
     "jenis_buku": "Tidak Terkategori",
     "jumlah_judul": 7960,
     "jumlah_eksemplar": 14553
@@ -14,7 +14,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Menteng",
     "kelurahan": "Cikini",
-    "nama": "Perpustakaan Jakarta - Cikini",
+    "nama_perpustakaan": "Perpustakaan Jakarta - Cikini",
     "jenis_buku": "000 - Karya Umum",
     "jumlah_judul": 3311,
     "jumlah_eksemplar": 9963
@@ -24,7 +24,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Menteng",
     "kelurahan": "Cikini",
-    "nama": "Perpustakaan Jakarta - Cikini",
+    "nama_perpustakaan": "Perpustakaan Jakarta - Cikini",
     "jenis_buku": "100 - Filsafat dan Psikologi",
     "jumlah_judul": 3053,
     "jumlah_eksemplar": 11152
@@ -34,7 +34,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Menteng",
     "kelurahan": "Cikini",
-    "nama": "Perpustakaan Jakarta - Cikini",
+    "nama_perpustakaan": "Perpustakaan Jakarta - Cikini",
     "jenis_buku": "200 - Agama",
     "jumlah_judul": 6235,
     "jumlah_eksemplar": 21233
@@ -44,7 +44,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Menteng",
     "kelurahan": "Cikini",
-    "nama": "Perpustakaan Jakarta - Cikini",
+    "nama_perpustakaan": "Perpustakaan Jakarta - Cikini",
     "jenis_buku": "300 - Ilmu Sosial",
     "jumlah_judul": 10977,
     "jumlah_eksemplar": 30997
@@ -54,7 +54,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Menteng",
     "kelurahan": "Cikini",
-    "nama": "Perpustakaan Jakarta - Cikini",
+    "nama_perpustakaan": "Perpustakaan Jakarta - Cikini",
     "jenis_buku": "400 - Bahasa",
     "jumlah_judul": 1434,
     "jumlah_eksemplar": 4029
@@ -64,7 +64,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Menteng",
     "kelurahan": "Cikini",
-    "nama": "Perpustakaan Jakarta - Cikini",
+    "nama_perpustakaan": "Perpustakaan Jakarta - Cikini",
     "jenis_buku": "500 - Ilmu Murni",
     "jumlah_judul": 2904,
     "jumlah_eksemplar": 7911
@@ -74,7 +74,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Menteng",
     "kelurahan": "Cikini",
-    "nama": "Perpustakaan Jakarta - Cikini",
+    "nama_perpustakaan": "Perpustakaan Jakarta - Cikini",
     "jenis_buku": "600 - Ilmu Terapan",
     "jumlah_judul": 7886,
     "jumlah_eksemplar": 24373
@@ -84,7 +84,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Menteng",
     "kelurahan": "Cikini",
-    "nama": "Perpustakaan Jakarta - Cikini",
+    "nama_perpustakaan": "Perpustakaan Jakarta - Cikini",
     "jenis_buku": "700 - Kesenian dan Olahraga",
     "jumlah_judul": 4850,
     "jumlah_eksemplar": 13469
@@ -94,7 +94,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Menteng",
     "kelurahan": "Cikini",
-    "nama": "Perpustakaan Jakarta - Cikini",
+    "nama_perpustakaan": "Perpustakaan Jakarta - Cikini",
     "jenis_buku": "800 - Kesusasteraan",
     "jumlah_judul": 9543,
     "jumlah_eksemplar": 34875
@@ -104,7 +104,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Menteng",
     "kelurahan": "Cikini",
-    "nama": "Perpustakaan Jakarta - Cikini",
+    "nama_perpustakaan": "Perpustakaan Jakarta - Cikini",
     "jenis_buku": "900 - Sejarah dan Geografi",
     "jumlah_judul": 4138,
     "jumlah_eksemplar": 11958
@@ -114,7 +114,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Menteng",
     "kelurahan": "Cikini",
-    "nama": "Perpustakaan Jakarta - PDS HB Jassin",
+    "nama_perpustakaan": "Perpustakaan Jakarta - PDS HB Jassin",
     "jenis_buku": "Tidak Terkategori",
     "jumlah_judul": 3,
     "jumlah_eksemplar": 11
@@ -124,7 +124,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Menteng",
     "kelurahan": "Cikini",
-    "nama": "Perpustakaan Jakarta - PDS HB Jassin",
+    "nama_perpustakaan": "Perpustakaan Jakarta - PDS HB Jassin",
     "jenis_buku": "000 - Karya Umum",
     "jumlah_judul": 108,
     "jumlah_eksemplar": 184
@@ -134,7 +134,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Menteng",
     "kelurahan": "Cikini",
-    "nama": "Perpustakaan Jakarta - PDS HB Jassin",
+    "nama_perpustakaan": "Perpustakaan Jakarta - PDS HB Jassin",
     "jenis_buku": "100 - Filsafat dan Psikologi",
     "jumlah_judul": 73,
     "jumlah_eksemplar": 209
@@ -144,7 +144,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Menteng",
     "kelurahan": "Cikini",
-    "nama": "Perpustakaan Jakarta - PDS HB Jassin",
+    "nama_perpustakaan": "Perpustakaan Jakarta - PDS HB Jassin",
     "jenis_buku": "200 - Agama",
     "jumlah_judul": 110,
     "jumlah_eksemplar": 214
@@ -154,7 +154,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Menteng",
     "kelurahan": "Cikini",
-    "nama": "Perpustakaan Jakarta - PDS HB Jassin",
+    "nama_perpustakaan": "Perpustakaan Jakarta - PDS HB Jassin",
     "jenis_buku": "300 - Ilmu Sosial",
     "jumlah_judul": 254,
     "jumlah_eksemplar": 487
@@ -164,7 +164,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Menteng",
     "kelurahan": "Cikini",
-    "nama": "Perpustakaan Jakarta - PDS HB Jassin",
+    "nama_perpustakaan": "Perpustakaan Jakarta - PDS HB Jassin",
     "jenis_buku": "400 - Bahasa",
     "jumlah_judul": 120,
     "jumlah_eksemplar": 300
@@ -174,7 +174,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Menteng",
     "kelurahan": "Cikini",
-    "nama": "Perpustakaan Jakarta - PDS HB Jassin",
+    "nama_perpustakaan": "Perpustakaan Jakarta - PDS HB Jassin",
     "jenis_buku": "500 - Ilmu Murni",
     "jumlah_judul": 4,
     "jumlah_eksemplar": 4
@@ -184,7 +184,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Menteng",
     "kelurahan": "Cikini",
-    "nama": "Perpustakaan Jakarta - PDS HB Jassin",
+    "nama_perpustakaan": "Perpustakaan Jakarta - PDS HB Jassin",
     "jenis_buku": "600 - Ilmu Terapan",
     "jumlah_judul": 25,
     "jumlah_eksemplar": 44
@@ -194,7 +194,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Menteng",
     "kelurahan": "Cikini",
-    "nama": "Perpustakaan Jakarta - PDS HB Jassin",
+    "nama_perpustakaan": "Perpustakaan Jakarta - PDS HB Jassin",
     "jenis_buku": "700 - Kesenian dan Olahraga",
     "jumlah_judul": 140,
     "jumlah_eksemplar": 256
@@ -204,7 +204,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Menteng",
     "kelurahan": "Cikini",
-    "nama": "Perpustakaan Jakarta - PDS HB Jassin",
+    "nama_perpustakaan": "Perpustakaan Jakarta - PDS HB Jassin",
     "jenis_buku": "800 - Kesusasteraan",
     "jumlah_judul": 7936,
     "jumlah_eksemplar": 19626
@@ -214,7 +214,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Menteng",
     "kelurahan": "Cikini",
-    "nama": "Perpustakaan Jakarta - PDS HB Jassin",
+    "nama_perpustakaan": "Perpustakaan Jakarta - PDS HB Jassin",
     "jenis_buku": "900 - Sejarah dan Geografi",
     "jumlah_judul": 423,
     "jumlah_eksemplar": 900
@@ -224,7 +224,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Gambir",
     "kelurahan": "Petojo Selatan",
-    "nama": "Perpustakaan Jakarta Pusat - Petojo Enclek",
+    "nama_perpustakaan": "Perpustakaan Jakarta Pusat - Petojo Enclek",
     "jenis_buku": "Tidak Terkategori",
     "jumlah_judul": 2015,
     "jumlah_eksemplar": 6604
@@ -234,7 +234,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Gambir",
     "kelurahan": "Petojo Selatan",
-    "nama": "Perpustakaan Jakarta Pusat - Petojo Enclek",
+    "nama_perpustakaan": "Perpustakaan Jakarta Pusat - Petojo Enclek",
     "jenis_buku": "000 - Karya Umum",
     "jumlah_judul": 1308,
     "jumlah_eksemplar": 2705
@@ -244,7 +244,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Gambir",
     "kelurahan": "Petojo Selatan",
-    "nama": "Perpustakaan Jakarta Pusat - Petojo Enclek",
+    "nama_perpustakaan": "Perpustakaan Jakarta Pusat - Petojo Enclek",
     "jenis_buku": "100 - Filsafat dan Psikologi",
     "jumlah_judul": 1130,
     "jumlah_eksemplar": 2685
@@ -254,7 +254,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Gambir",
     "kelurahan": "Petojo Selatan",
-    "nama": "Perpustakaan Jakarta Pusat - Petojo Enclek",
+    "nama_perpustakaan": "Perpustakaan Jakarta Pusat - Petojo Enclek",
     "jenis_buku": "200 - Agama",
     "jumlah_judul": 2677,
     "jumlah_eksemplar": 7173
@@ -264,7 +264,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Gambir",
     "kelurahan": "Petojo Selatan",
-    "nama": "Perpustakaan Jakarta Pusat - Petojo Enclek",
+    "nama_perpustakaan": "Perpustakaan Jakarta Pusat - Petojo Enclek",
     "jenis_buku": "300 - Ilmu Sosial",
     "jumlah_judul": 2704,
     "jumlah_eksemplar": 7373
@@ -274,7 +274,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Gambir",
     "kelurahan": "Petojo Selatan",
-    "nama": "Perpustakaan Jakarta Pusat - Petojo Enclek",
+    "nama_perpustakaan": "Perpustakaan Jakarta Pusat - Petojo Enclek",
     "jenis_buku": "400 - Bahasa",
     "jumlah_judul": 579,
     "jumlah_eksemplar": 1337
@@ -284,7 +284,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Gambir",
     "kelurahan": "Petojo Selatan",
-    "nama": "Perpustakaan Jakarta Pusat - Petojo Enclek",
+    "nama_perpustakaan": "Perpustakaan Jakarta Pusat - Petojo Enclek",
     "jenis_buku": "500 - Ilmu Murni",
     "jumlah_judul": 491,
     "jumlah_eksemplar": 1695
@@ -294,7 +294,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Gambir",
     "kelurahan": "Petojo Selatan",
-    "nama": "Perpustakaan Jakarta Pusat - Petojo Enclek",
+    "nama_perpustakaan": "Perpustakaan Jakarta Pusat - Petojo Enclek",
     "jenis_buku": "600 - Ilmu Terapan",
     "jumlah_judul": 2516,
     "jumlah_eksemplar": 6149
@@ -304,7 +304,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Gambir",
     "kelurahan": "Petojo Selatan",
-    "nama": "Perpustakaan Jakarta Pusat - Petojo Enclek",
+    "nama_perpustakaan": "Perpustakaan Jakarta Pusat - Petojo Enclek",
     "jenis_buku": "700 - Kesenian dan Olahraga",
     "jumlah_judul": 1401,
     "jumlah_eksemplar": 3802
@@ -314,7 +314,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Gambir",
     "kelurahan": "Petojo Selatan",
-    "nama": "Perpustakaan Jakarta Pusat - Petojo Enclek",
+    "nama_perpustakaan": "Perpustakaan Jakarta Pusat - Petojo Enclek",
     "jenis_buku": "800 - Kesusasteraan",
     "jumlah_judul": 2384,
     "jumlah_eksemplar": 5615
@@ -324,7 +324,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Gambir",
     "kelurahan": "Petojo Selatan",
-    "nama": "Perpustakaan Jakarta Pusat - Petojo Enclek",
+    "nama_perpustakaan": "Perpustakaan Jakarta Pusat - Petojo Enclek",
     "jenis_buku": "900 - Sejarah dan Geografi",
     "jumlah_judul": 1042,
     "jumlah_eksemplar": 2251
@@ -334,7 +334,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "Koja",
     "kelurahan": "Tugu Selatan",
-    "nama": "Perpustakaan Jakarta Utara - Koja",
+    "nama_perpustakaan": "Perpustakaan Jakarta Utara - Koja",
     "jenis_buku": "Tidak Terkategori",
     "jumlah_judul": 2898,
     "jumlah_eksemplar": 9223
@@ -344,7 +344,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "Koja",
     "kelurahan": "Tugu Selatan",
-    "nama": "Perpustakaan Jakarta Utara - Koja",
+    "nama_perpustakaan": "Perpustakaan Jakarta Utara - Koja",
     "jenis_buku": "000 - Karya Umum",
     "jumlah_judul": 1166,
     "jumlah_eksemplar": 3306
@@ -354,7 +354,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "Koja",
     "kelurahan": "Tugu Selatan",
-    "nama": "Perpustakaan Jakarta Utara - Koja",
+    "nama_perpustakaan": "Perpustakaan Jakarta Utara - Koja",
     "jenis_buku": "100 - Filsafat dan Psikologi",
     "jumlah_judul": 1339,
     "jumlah_eksemplar": 4391
@@ -364,7 +364,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "Koja",
     "kelurahan": "Tugu Selatan",
-    "nama": "Perpustakaan Jakarta Utara - Koja",
+    "nama_perpustakaan": "Perpustakaan Jakarta Utara - Koja",
     "jenis_buku": "200 - Agama",
     "jumlah_judul": 2750,
     "jumlah_eksemplar": 9887
@@ -374,7 +374,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "Koja",
     "kelurahan": "Tugu Selatan",
-    "nama": "Perpustakaan Jakarta Utara - Koja",
+    "nama_perpustakaan": "Perpustakaan Jakarta Utara - Koja",
     "jenis_buku": "300 - Ilmu Sosial",
     "jumlah_judul": 3436,
     "jumlah_eksemplar": 12079
@@ -384,7 +384,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "Koja",
     "kelurahan": "Tugu Selatan",
-    "nama": "Perpustakaan Jakarta Utara - Koja",
+    "nama_perpustakaan": "Perpustakaan Jakarta Utara - Koja",
     "jenis_buku": "400 - Bahasa",
     "jumlah_judul": 564,
     "jumlah_eksemplar": 1750
@@ -394,7 +394,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "Koja",
     "kelurahan": "Tugu Selatan",
-    "nama": "Perpustakaan Jakarta Utara - Koja",
+    "nama_perpustakaan": "Perpustakaan Jakarta Utara - Koja",
     "jenis_buku": "500 - Ilmu Murni",
     "jumlah_judul": 673,
     "jumlah_eksemplar": 2603
@@ -404,7 +404,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "Koja",
     "kelurahan": "Tugu Selatan",
-    "nama": "Perpustakaan Jakarta Utara - Koja",
+    "nama_perpustakaan": "Perpustakaan Jakarta Utara - Koja",
     "jenis_buku": "600 - Ilmu Terapan",
     "jumlah_judul": 3451,
     "jumlah_eksemplar": 10951
@@ -414,7 +414,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "Koja",
     "kelurahan": "Tugu Selatan",
-    "nama": "Perpustakaan Jakarta Utara - Koja",
+    "nama_perpustakaan": "Perpustakaan Jakarta Utara - Koja",
     "jenis_buku": "700 - Kesenian dan Olahraga",
     "jumlah_judul": 1564,
     "jumlah_eksemplar": 7290
@@ -424,7 +424,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "Koja",
     "kelurahan": "Tugu Selatan",
-    "nama": "Perpustakaan Jakarta Utara - Koja",
+    "nama_perpustakaan": "Perpustakaan Jakarta Utara - Koja",
     "jenis_buku": "800 - Kesusasteraan",
     "jumlah_judul": 2707,
     "jumlah_eksemplar": 10705
@@ -434,7 +434,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "Koja",
     "kelurahan": "Tugu Selatan",
-    "nama": "Perpustakaan Jakarta Utara - Koja",
+    "nama_perpustakaan": "Perpustakaan Jakarta Utara - Koja",
     "jenis_buku": "900 - Sejarah dan Geografi",
     "jumlah_judul": 1104,
     "jumlah_eksemplar": 4067
@@ -444,7 +444,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "Kebon Jeruk",
     "kelurahan": "Duri Kepa",
-    "nama": "Perpustakaan Jakarta Barat - Tanjung Duren",
+    "nama_perpustakaan": "Perpustakaan Jakarta Barat - Tanjung Duren",
     "jenis_buku": "Tidak Terkategori",
     "jumlah_judul": 2368,
     "jumlah_eksemplar": 6319
@@ -454,7 +454,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "Kebon Jeruk",
     "kelurahan": "Duri Kepa",
-    "nama": "Perpustakaan Jakarta Barat - Tanjung Duren",
+    "nama_perpustakaan": "Perpustakaan Jakarta Barat - Tanjung Duren",
     "jenis_buku": "000 - Karya Umum",
     "jumlah_judul": 627,
     "jumlah_eksemplar": 1509
@@ -464,7 +464,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "Kebon Jeruk",
     "kelurahan": "Duri Kepa",
-    "nama": "Perpustakaan Jakarta Barat - Tanjung Duren",
+    "nama_perpustakaan": "Perpustakaan Jakarta Barat - Tanjung Duren",
     "jenis_buku": "100 - Filsafat dan Psikologi",
     "jumlah_judul": 940,
     "jumlah_eksemplar": 2730
@@ -474,7 +474,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "Kebon Jeruk",
     "kelurahan": "Duri Kepa",
-    "nama": "Perpustakaan Jakarta Barat - Tanjung Duren",
+    "nama_perpustakaan": "Perpustakaan Jakarta Barat - Tanjung Duren",
     "jenis_buku": "200 - Agama",
     "jumlah_judul": 2205,
     "jumlah_eksemplar": 7618
@@ -484,7 +484,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "Kebon Jeruk",
     "kelurahan": "Duri Kepa",
-    "nama": "Perpustakaan Jakarta Barat - Tanjung Duren",
+    "nama_perpustakaan": "Perpustakaan Jakarta Barat - Tanjung Duren",
     "jenis_buku": "300 - Ilmu Sosial",
     "jumlah_judul": 2607,
     "jumlah_eksemplar": 7791
@@ -494,7 +494,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "Kebon Jeruk",
     "kelurahan": "Duri Kepa",
-    "nama": "Perpustakaan Jakarta Barat - Tanjung Duren",
+    "nama_perpustakaan": "Perpustakaan Jakarta Barat - Tanjung Duren",
     "jenis_buku": "400 - Bahasa",
     "jumlah_judul": 590,
     "jumlah_eksemplar": 1755
@@ -504,7 +504,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "Kebon Jeruk",
     "kelurahan": "Duri Kepa",
-    "nama": "Perpustakaan Jakarta Barat - Tanjung Duren",
+    "nama_perpustakaan": "Perpustakaan Jakarta Barat - Tanjung Duren",
     "jenis_buku": "500 - Ilmu Murni",
     "jumlah_judul": 1011,
     "jumlah_eksemplar": 2974
@@ -514,7 +514,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "Kebon Jeruk",
     "kelurahan": "Duri Kepa",
-    "nama": "Perpustakaan Jakarta Barat - Tanjung Duren",
+    "nama_perpustakaan": "Perpustakaan Jakarta Barat - Tanjung Duren",
     "jenis_buku": "600 - Ilmu Terapan",
     "jumlah_judul": 2425,
     "jumlah_eksemplar": 7464
@@ -524,7 +524,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "Kebon Jeruk",
     "kelurahan": "Duri Kepa",
-    "nama": "Perpustakaan Jakarta Barat - Tanjung Duren",
+    "nama_perpustakaan": "Perpustakaan Jakarta Barat - Tanjung Duren",
     "jenis_buku": "700 - Kesenian dan Olahraga",
     "jumlah_judul": 1528,
     "jumlah_eksemplar": 3924
@@ -534,7 +534,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "Kebon Jeruk",
     "kelurahan": "Duri Kepa",
-    "nama": "Perpustakaan Jakarta Barat - Tanjung Duren",
+    "nama_perpustakaan": "Perpustakaan Jakarta Barat - Tanjung Duren",
     "jenis_buku": "800 - Kesusasteraan",
     "jumlah_judul": 2490,
     "jumlah_eksemplar": 7508
@@ -544,7 +544,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "Kebon Jeruk",
     "kelurahan": "Duri Kepa",
-    "nama": "Perpustakaan Jakarta Barat - Tanjung Duren",
+    "nama_perpustakaan": "Perpustakaan Jakarta Barat - Tanjung Duren",
     "jenis_buku": "900 - Sejarah dan Geografi",
     "jumlah_judul": 933,
     "jumlah_eksemplar": 2601
@@ -554,7 +554,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Kebayoran Baru",
     "kelurahan": "Kramat Pela",
-    "nama": "Perpustakaan Jakarta Selatan - Gandaria Tengah",
+    "nama_perpustakaan": "Perpustakaan Jakarta Selatan - Gandaria Tengah",
     "jenis_buku": "Tidak Terkategori",
     "jumlah_judul": 1778,
     "jumlah_eksemplar": 6389
@@ -564,7 +564,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Kebayoran Baru",
     "kelurahan": "Kramat Pela",
-    "nama": "Perpustakaan Jakarta Selatan - Gandaria Tengah",
+    "nama_perpustakaan": "Perpustakaan Jakarta Selatan - Gandaria Tengah",
     "jenis_buku": "000 - Karya Umum",
     "jumlah_judul": 834,
     "jumlah_eksemplar": 2847
@@ -574,7 +574,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Kebayoran Baru",
     "kelurahan": "Kramat Pela",
-    "nama": "Perpustakaan Jakarta Selatan - Gandaria Tengah",
+    "nama_perpustakaan": "Perpustakaan Jakarta Selatan - Gandaria Tengah",
     "jenis_buku": "100 - Filsafat dan Psikologi",
     "jumlah_judul": 1131,
     "jumlah_eksemplar": 3776
@@ -584,7 +584,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Kebayoran Baru",
     "kelurahan": "Kramat Pela",
-    "nama": "Perpustakaan Jakarta Selatan - Gandaria Tengah",
+    "nama_perpustakaan": "Perpustakaan Jakarta Selatan - Gandaria Tengah",
     "jenis_buku": "200 - Agama",
     "jumlah_judul": 2501,
     "jumlah_eksemplar": 10126
@@ -594,7 +594,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Kebayoran Baru",
     "kelurahan": "Kramat Pela",
-    "nama": "Perpustakaan Jakarta Selatan - Gandaria Tengah",
+    "nama_perpustakaan": "Perpustakaan Jakarta Selatan - Gandaria Tengah",
     "jenis_buku": "300 - Ilmu Sosial",
     "jumlah_judul": 2281,
     "jumlah_eksemplar": 8982
@@ -604,7 +604,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Kebayoran Baru",
     "kelurahan": "Kramat Pela",
-    "nama": "Perpustakaan Jakarta Selatan - Gandaria Tengah",
+    "nama_perpustakaan": "Perpustakaan Jakarta Selatan - Gandaria Tengah",
     "jenis_buku": "400 - Bahasa",
     "jumlah_judul": 545,
     "jumlah_eksemplar": 2197
@@ -614,7 +614,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Kebayoran Baru",
     "kelurahan": "Kramat Pela",
-    "nama": "Perpustakaan Jakarta Selatan - Gandaria Tengah",
+    "nama_perpustakaan": "Perpustakaan Jakarta Selatan - Gandaria Tengah",
     "jenis_buku": "500 - Ilmu Murni",
     "jumlah_judul": 663,
     "jumlah_eksemplar": 2950
@@ -624,7 +624,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Kebayoran Baru",
     "kelurahan": "Kramat Pela",
-    "nama": "Perpustakaan Jakarta Selatan - Gandaria Tengah",
+    "nama_perpustakaan": "Perpustakaan Jakarta Selatan - Gandaria Tengah",
     "jenis_buku": "600 - Ilmu Terapan",
     "jumlah_judul": 2359,
     "jumlah_eksemplar": 10189
@@ -634,7 +634,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Kebayoran Baru",
     "kelurahan": "Kramat Pela",
-    "nama": "Perpustakaan Jakarta Selatan - Gandaria Tengah",
+    "nama_perpustakaan": "Perpustakaan Jakarta Selatan - Gandaria Tengah",
     "jenis_buku": "700 - Kesenian dan Olahraga",
     "jumlah_judul": 1090,
     "jumlah_eksemplar": 4238
@@ -644,7 +644,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Kebayoran Baru",
     "kelurahan": "Kramat Pela",
-    "nama": "Perpustakaan Jakarta Selatan - Gandaria Tengah",
+    "nama_perpustakaan": "Perpustakaan Jakarta Selatan - Gandaria Tengah",
     "jenis_buku": "800 - Kesusasteraan",
     "jumlah_judul": 2835,
     "jumlah_eksemplar": 12056
@@ -654,7 +654,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Kebayoran Baru",
     "kelurahan": "Kramat Pela",
-    "nama": "Perpustakaan Jakarta Selatan - Gandaria Tengah",
+    "nama_perpustakaan": "Perpustakaan Jakarta Selatan - Gandaria Tengah",
     "jenis_buku": "900 - Sejarah dan Geografi",
     "jumlah_judul": 1003,
     "jumlah_eksemplar": 3219
@@ -664,7 +664,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Jatinegara",
     "kelurahan": "Rawa Bunga",
-    "nama": "Perpustakaan Jakarta Timur - Jatinegara",
+    "nama_perpustakaan": "Perpustakaan Jakarta Timur - Jatinegara",
     "jenis_buku": "Tidak Terkategori",
     "jumlah_judul": 992,
     "jumlah_eksemplar": 2476
@@ -674,7 +674,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Jatinegara",
     "kelurahan": "Rawa Bunga",
-    "nama": "Perpustakaan Jakarta Timur - Jatinegara",
+    "nama_perpustakaan": "Perpustakaan Jakarta Timur - Jatinegara",
     "jenis_buku": "000 - Karya Umum",
     "jumlah_judul": 934,
     "jumlah_eksemplar": 2838
@@ -684,7 +684,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Jatinegara",
     "kelurahan": "Rawa Bunga",
-    "nama": "Perpustakaan Jakarta Timur - Jatinegara",
+    "nama_perpustakaan": "Perpustakaan Jakarta Timur - Jatinegara",
     "jenis_buku": "100 - Filsafat dan Psikologi",
     "jumlah_judul": 919,
     "jumlah_eksemplar": 3457
@@ -694,7 +694,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Jatinegara",
     "kelurahan": "Rawa Bunga",
-    "nama": "Perpustakaan Jakarta Timur - Jatinegara",
+    "nama_perpustakaan": "Perpustakaan Jakarta Timur - Jatinegara",
     "jenis_buku": "200 - Agama",
     "jumlah_judul": 2377,
     "jumlah_eksemplar": 8785
@@ -704,7 +704,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Jatinegara",
     "kelurahan": "Rawa Bunga",
-    "nama": "Perpustakaan Jakarta Timur - Jatinegara",
+    "nama_perpustakaan": "Perpustakaan Jakarta Timur - Jatinegara",
     "jenis_buku": "300 - Ilmu Sosial",
     "jumlah_judul": 3409,
     "jumlah_eksemplar": 13688
@@ -714,7 +714,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Jatinegara",
     "kelurahan": "Rawa Bunga",
-    "nama": "Perpustakaan Jakarta Timur - Jatinegara",
+    "nama_perpustakaan": "Perpustakaan Jakarta Timur - Jatinegara",
     "jenis_buku": "400 - Bahasa",
     "jumlah_judul": 365,
     "jumlah_eksemplar": 1350
@@ -724,7 +724,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Jatinegara",
     "kelurahan": "Rawa Bunga",
-    "nama": "Perpustakaan Jakarta Timur - Jatinegara",
+    "nama_perpustakaan": "Perpustakaan Jakarta Timur - Jatinegara",
     "jenis_buku": "500 - Ilmu Murni",
     "jumlah_judul": 776,
     "jumlah_eksemplar": 2738
@@ -734,7 +734,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Jatinegara",
     "kelurahan": "Rawa Bunga",
-    "nama": "Perpustakaan Jakarta Timur - Jatinegara",
+    "nama_perpustakaan": "Perpustakaan Jakarta Timur - Jatinegara",
     "jenis_buku": "600 - Ilmu Terapan",
     "jumlah_judul": 2052,
     "jumlah_eksemplar": 7534
@@ -744,7 +744,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Jatinegara",
     "kelurahan": "Rawa Bunga",
-    "nama": "Perpustakaan Jakarta Timur - Jatinegara",
+    "nama_perpustakaan": "Perpustakaan Jakarta Timur - Jatinegara",
     "jenis_buku": "700 - Kesenian dan Olahraga",
     "jumlah_judul": 1157,
     "jumlah_eksemplar": 5193
@@ -754,7 +754,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Jatinegara",
     "kelurahan": "Rawa Bunga",
-    "nama": "Perpustakaan Jakarta Timur - Jatinegara",
+    "nama_perpustakaan": "Perpustakaan Jakarta Timur - Jatinegara",
     "jenis_buku": "800 - Kesusasteraan",
     "jumlah_judul": 1811,
     "jumlah_eksemplar": 9180
@@ -764,7 +764,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Jatinegara",
     "kelurahan": "Rawa Bunga",
-    "nama": "Perpustakaan Jakarta Timur - Jatinegara",
+    "nama_perpustakaan": "Perpustakaan Jakarta Timur - Jatinegara",
     "jenis_buku": "900 - Sejarah dan Geografi",
     "jumlah_judul": 705,
     "jumlah_eksemplar": 2403
