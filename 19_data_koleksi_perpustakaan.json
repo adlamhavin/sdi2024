@@ -1,44 +1,86 @@
 [
-    {
-      "periode_data": 2023,
-      "lokasi": "Perpustakaan Jakarta - Perpustakaan Cikini",
-      "jumlah_judul": 59982,
-      "jumlah_eksemplar": 177261
-    },
-    {
-      "periode_data": 2023,
-      "lokasi": "Perpustakaan Jakarta - Pusat Dokumentasi Sastra HB Jassin",
-      "jumlah_judul": 4947,
-      "jumlah_eksemplar": 15909
-    },
-    {
-      "periode_data": 2023,
-      "lokasi": "Perpustakaan Jakarta Barat - Tanjung Duren",
-      "jumlah_judul": 16271,
-      "jumlah_eksemplar": 44927
-    },
-    {
-      "periode_data": 2023,
-      "lokasi": "Perpustakaan Jakarta Pusat - Petojo Enclek",
-      "jumlah_judul": 17444,
-      "jumlah_eksemplar": 44427
-    },
-    {
-      "periode_data": 2023,
-      "lokasi": "Perpustakaan Jakarta Selatan - Gandaria Tengah",
-      "jumlah_judul": 16398,
-      "jumlah_eksemplar": 60714
-    },
-    {
-      "periode_data": 2023,
-      "lokasi": "Perpustakaan Jakarta Timur - Jatinegara",
-      "jumlah_judul": 14395,
-      "jumlah_eksemplar": 49639
-    },
-    {
-      "periode_data": 2023,
-      "lokasi": "Perpustakaan Jakarta Utara - Koja",
-      "jumlah_judul": 19485,
-      "jumlah_eksemplar": 65955
-    }
-  ]
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
+    "kecamatan": "Menteng",
+    "kelurahan": "Cikini",
+    "nama_perpustakaan": "Perpustakaan Jakarta - Cikini",
+    "alamat": "Taman Ismail Marzuki Jl. Cikini Raya No.73 8, RT.8/RW.2",
+    "koordinat_x": -6.19026722,
+    "koordinat_y": 106.8380185,
+    "jumlah_judul": 62291,
+    "jumlah_eksemplar": 184513
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
+    "kecamatan": "Menteng",
+    "kelurahan": "Cikini",
+    "nama_perpustakaan": "Perpustakaan Jakarta - PDS HB Jassin",
+    "alamat": "Taman Ismail Marzuki Jl. Cikini Raya No.73 8, RT.8/RW.2",
+    "koordinat_x": -6.190094333,
+    "koordinat_y": 106.8382969,
+    "jumlah_judul": 9196,
+    "jumlah_eksemplar": 22235
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
+    "kecamatan": "Gambir",
+    "kelurahan": "Petojo Selatan",
+    "nama_perpustakaan": "Perpustakaan Jakarta Pusat - Petojo Enclek",
+    "alamat": "Jl. Tanah Abang I No.1, RT.11/RW.8",
+    "koordinat_x": -6.171515008,
+    "koordinat_y": 106.8196844,
+    "jumlah_judul": 18247,
+    "jumlah_eksemplar": 47389
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
+    "kecamatan": "Koja",
+    "kelurahan": "Tugu Selatan",
+    "nama_perpustakaan": "Perpustakaan Jakarta Utara - Koja",
+    "alamat": "4, Jl. Logistik No.2, RT.4/RW.4",
+    "koordinat_x": -6.130690175,
+    "koordinat_y": 106.9178703,
+    "jumlah_judul": 21652,
+    "jumlah_eksemplar": 76252
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
+    "kecamatan": "Kebon Jeruk",
+    "kelurahan": "Duri Kepa",
+    "nama_perpustakaan": "Perpustakaan Jakarta Barat - Tanjung Duren",
+    "alamat": "Jl. Tj. Duren Barat No.36 13, RT.13/RW.9",
+    "koordinat_x": -6.173682439,
+    "koordinat_y": 106.7792813,
+    "jumlah_judul": 17724,
+    "jumlah_eksemplar": 52193
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
+    "kecamatan": "Kebayoran Baru",
+    "kelurahan": "Kramat Pela",
+    "nama_perpustakaan": "Perpustakaan Jakarta Selatan - Gandaria Tengah",
+    "alamat": "Jl. Gandaria Tengah V No.3 13, RT.2/RW.1",
+    "koordinat_x": -6.24526082,
+    "koordinat_y": 106.7904395,
+    "jumlah_judul": 17020,
+    "jumlah_eksemplar": 66969
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "kecamatan": "Jatinegara",
+    "kelurahan": "Rawa Bunga",
+    "nama_perpustakaan": "Perpustakaan Jakarta Timur - Jatinegara",
+    "alamat": "JL Jatinegara Timur 3, Komplek Pendidikan Rawa Bunga, RT.8/RW.7",
+    "koordinat_x": -6.221645056,
+    "koordinat_y": 106.8719104,
+    "jumlah_judul": 15497,
+    "jumlah_eksemplar": 59642
+  }
+]
