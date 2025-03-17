@@ -1,5 +1,6 @@
 [
   {
+    "no": 1,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Gambir",
@@ -10,6 +11,7 @@
     "status": "Baik"
   },
   {
+    "no": 2,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Gambir",
@@ -20,6 +22,7 @@
     "status": "Baik"
   },
   {
+    "no": 3,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Gambir",
@@ -30,6 +33,7 @@
     "status": "Baik"
   },
   {
+    "no": 4,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Gambir",
@@ -40,6 +44,7 @@
     "status": "Baik"
   },
   {
+    "no": 5,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Gambir",
@@ -50,6 +55,7 @@
     "status": "Baik"
   },
   {
+    "no": 6,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Gambir",
@@ -60,6 +66,7 @@
     "status": "Baik"
   },
   {
+    "no": 7,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Gambir",
@@ -70,6 +77,7 @@
     "status": "Baik"
   },
   {
+    "no": 8,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Gambir",
@@ -80,6 +88,7 @@
     "status": "Baik"
   },
   {
+    "no": 9,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Gambir",
@@ -90,6 +99,7 @@
     "status": "Baik"
   },
   {
+    "no": 10,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Gambir",
@@ -100,6 +110,7 @@
     "status": "Rusak Berat"
   },
   {
+    "no": 11,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Gambir",
@@ -110,6 +121,7 @@
     "status": "Baik"
   },
   {
+    "no": 12,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Gambir",
@@ -120,6 +132,7 @@
     "status": "Rusak Ringan"
   },
   {
+    "no": 13,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Gambir",
@@ -130,6 +143,7 @@
     "status": "Baik"
   },
   {
+    "no": 14,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Gambir",
@@ -140,6 +154,7 @@
     "status": "Baik"
   },
   {
+    "no": 15,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Gambir",
@@ -150,6 +165,7 @@
     "status": "Baik"
   },
   {
+    "no": 16,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Gambir",
@@ -160,6 +176,7 @@
     "status": "Baik"
   },
   {
+    "no": 17,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Gambir",
@@ -170,6 +187,7 @@
     "status": "Baik"
   },
   {
+    "no": 18,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Gambir",
@@ -180,6 +198,7 @@
     "status": "Rusak Berat"
   },
   {
+    "no": 19,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Gambir",
@@ -190,6 +209,7 @@
     "status": "Baik"
   },
   {
+    "no": 20,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "Koja",
@@ -200,6 +220,7 @@
     "status": "Baik"
   },
   {
+    "no": 21,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "Koja",
@@ -210,6 +231,7 @@
     "status": "Baik"
   },
   {
+    "no": 22,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "Koja",
@@ -220,6 +242,7 @@
     "status": "Baik"
   },
   {
+    "no": 23,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "Koja",
@@ -230,6 +253,7 @@
     "status": "Baik"
   },
   {
+    "no": 24,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "Koja",
@@ -240,6 +264,7 @@
     "status": "Baik"
   },
   {
+    "no": 25,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "Koja",
@@ -250,6 +275,7 @@
     "status": "Baik"
   },
   {
+    "no": 26,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "Koja",
@@ -260,6 +286,7 @@
     "status": "Baik"
   },
   {
+    "no": 27,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "Koja",
@@ -270,6 +297,7 @@
     "status": "Rusak Berat"
   },
   {
+    "no": 28,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "Koja",
@@ -280,6 +308,7 @@
     "status": "Rusak Berat"
   },
   {
+    "no": 29,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "Koja",
@@ -290,6 +319,7 @@
     "status": "Rusak Berat"
   },
   {
+    "no": 30,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "Koja",
@@ -300,6 +330,7 @@
     "status": "Baik"
   },
   {
+    "no": 31,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "Koja",
@@ -310,6 +341,7 @@
     "status": "Baik"
   },
   {
+    "no": 32,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "Koja",
@@ -320,6 +352,7 @@
     "status": "Baik"
   },
   {
+    "no": 33,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "Koja",
@@ -330,6 +363,7 @@
     "status": "Baik"
   },
   {
+    "no": 34,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "Koja",
@@ -340,6 +374,7 @@
     "status": "Baik"
   },
   {
+    "no": 35,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "Koja",
@@ -350,6 +385,7 @@
     "status": "Baik"
   },
   {
+    "no": 36,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "Koja",
@@ -360,6 +396,7 @@
     "status": "Baik"
   },
   {
+    "no": 37,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "Koja",
@@ -370,6 +407,7 @@
     "status": "Rusak Ringan"
   },
   {
+    "no": 38,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "Koja",
@@ -380,6 +418,7 @@
     "status": "Rusak Berat"
   },
   {
+    "no": 39,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "Kebon Jeruk",
@@ -387,9 +426,10 @@
     "jenis_kendaraan": "Mobil - Mitsubishi T120 SS",
     "tahun_pembuatan": "",
     "nomor_polisi": "B 9394 EQ",
-    "status": "Rusak berat"
+    "status": "Rusak Berat"
   },
   {
+    "no": 40,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "Kebon Jeruk",
@@ -397,9 +437,10 @@
     "jenis_kendaraan": "Mobil - Toyota Kijang KF 6",
     "tahun_pembuatan": 2004,
     "nomor_polisi": "B 9210 EQ",
-    "status": "Rusak berat"
+    "status": "Rusak Berat"
   },
   {
+    "no": 41,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "Kebon Jeruk",
@@ -410,6 +451,7 @@
     "status": "Baik"
   },
   {
+    "no": 42,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "Kebon Jeruk",
@@ -420,6 +462,7 @@
     "status": "Baik"
   },
   {
+    "no": 43,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "Kebon Jeruk",
@@ -430,6 +473,7 @@
     "status": "Baik"
   },
   {
+    "no": 44,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "Kebon Jeruk",
@@ -440,6 +484,7 @@
     "status": "Baik"
   },
   {
+    "no": 45,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "Kebon Jeruk",
@@ -450,6 +495,7 @@
     "status": "Baik"
   },
   {
+    "no": 46,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "Kebon Jeruk",
@@ -460,6 +506,7 @@
     "status": "Baik"
   },
   {
+    "no": 47,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "Kebon Jeruk",
@@ -470,6 +517,7 @@
     "status": "Baik"
   },
   {
+    "no": 48,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "Kebon Jeruk",
@@ -480,6 +528,7 @@
     "status": "Baik"
   },
   {
+    "no": 49,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "Kebon Jeruk",
@@ -490,6 +539,7 @@
     "status": "Baik"
   },
   {
+    "no": 50,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "Kebon Jeruk",
@@ -500,6 +550,7 @@
     "status": "Baik"
   },
   {
+    "no": 51,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "Kebon Jeruk",
@@ -510,6 +561,7 @@
     "status": "Baik"
   },
   {
+    "no": 52,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "Kebon Jeruk",
@@ -520,6 +572,7 @@
     "status": "Baik"
   },
   {
+    "no": 53,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "Kebon Jeruk",
@@ -530,6 +583,7 @@
     "status": "Baik"
   },
   {
+    "no": 54,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "Kebon Jeruk",
@@ -540,6 +594,7 @@
     "status": "Baik"
   },
   {
+    "no": 55,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "Kebon Jeruk",
@@ -547,9 +602,10 @@
     "jenis_kendaraan": "Motor - Viar VR 150 SR",
     "tahun_pembuatan": 2015,
     "nomor_polisi": "B 3648 PCQ",
-    "status": "Rusak berat"
+    "status": "Rusak Berat"
   },
   {
+    "no": 56,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "Kebon Jeruk",
@@ -557,9 +613,10 @@
     "jenis_kendaraan": "Motor - Viar VR 150 SR",
     "tahun_pembuatan": 2015,
     "nomor_polisi": "B 3649 PCQ",
-    "status": "Rusak berat"
+    "status": "Rusak Berat"
   },
   {
+    "no": 57,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Kebayoran Baru",
@@ -570,6 +627,7 @@
     "status": "Baik"
   },
   {
+    "no": 58,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Kebayoran Baru",
@@ -580,6 +638,7 @@
     "status": "Baik"
   },
   {
+    "no": 59,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Kebayoran Baru",
@@ -590,6 +649,7 @@
     "status": "Baik"
   },
   {
+    "no": 60,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Kebayoran Baru",
@@ -600,6 +660,7 @@
     "status": "Baik"
   },
   {
+    "no": 61,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Kebayoran Baru",
@@ -610,6 +671,7 @@
     "status": "Rusak Ringan"
   },
   {
+    "no": 62,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Kebayoran Baru",
@@ -620,6 +682,7 @@
     "status": "Baik"
   },
   {
+    "no": 63,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Kebayoran Baru",
@@ -630,6 +693,7 @@
     "status": "Baik"
   },
   {
+    "no": 64,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Kebayoran Baru",
@@ -640,6 +704,7 @@
     "status": "Baik"
   },
   {
+    "no": 65,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Kebayoran Baru",
@@ -650,6 +715,7 @@
     "status": "Baik"
   },
   {
+    "no": 66,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Kebayoran Baru",
@@ -660,6 +726,7 @@
     "status": "Baik"
   },
   {
+    "no": 67,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Kebayoran Baru",
@@ -670,6 +737,7 @@
     "status": "Baik"
   },
   {
+    "no": 68,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Kebayoran Baru",
@@ -680,6 +748,7 @@
     "status": "Baik"
   },
   {
+    "no": 69,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Kebayoran Baru",
@@ -690,6 +759,7 @@
     "status": "Rusak Berat"
   },
   {
+    "no": 70,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Kebayoran Baru",
@@ -700,6 +770,7 @@
     "status": "Rusak Berat"
   },
   {
+    "no": 71,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Jatinegara",
@@ -710,6 +781,7 @@
     "status": "Baik"
   },
   {
+    "no": 72,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Jatinegara",
@@ -720,6 +792,7 @@
     "status": "Baik"
   },
   {
+    "no": 73,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Jatinegara",
@@ -730,6 +803,7 @@
     "status": "Baik"
   },
   {
+    "no": 74,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Jatinegara",
@@ -740,6 +814,7 @@
     "status": "Baik"
   },
   {
+    "no": 75,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Jatinegara",
@@ -750,6 +825,7 @@
     "status": "Baik"
   },
   {
+    "no": 76,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Jatinegara",
@@ -760,6 +836,7 @@
     "status": "Baik"
   },
   {
+    "no": 77,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Jatinegara",
@@ -770,6 +847,7 @@
     "status": "Baik"
   },
   {
+    "no": 78,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Jatinegara",
@@ -780,6 +858,7 @@
     "status": "Baik"
   },
   {
+    "no": 79,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Jatinegara",
@@ -790,6 +869,7 @@
     "status": "Baik"
   },
   {
+    "no": 80,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Jatinegara",
@@ -800,6 +880,7 @@
     "status": "Rusak Ringan"
   },
   {
+    "no": 81,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Jatinegara",
@@ -810,6 +891,7 @@
     "status": "Rusak Berat"
   },
   {
+    "no": 82,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Jatinegara",
@@ -820,6 +902,7 @@
     "status": "Rusak Berat"
   },
   {
+    "no": 83,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Jatinegara",
@@ -830,6 +913,7 @@
     "status": "Baik"
   },
   {
+    "no": 84,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Jatinegara",
@@ -840,6 +924,7 @@
     "status": "Baik"
   },
   {
+    "no": 85,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Jatinegara",
@@ -850,6 +935,7 @@
     "status": "Baik"
   },
   {
+    "no": 86,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Jatinegara",
@@ -860,6 +946,7 @@
     "status": "Baik"
   },
   {
+    "no": 87,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Jatinegara",
@@ -870,6 +957,7 @@
     "status": "Baik"
   },
   {
+    "no": 88,
     "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Jatinegara",

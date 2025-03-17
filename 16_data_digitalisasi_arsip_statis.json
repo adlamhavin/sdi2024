@@ -1,23 +1,23 @@
 [
   {
-    "periode_data": 2024,
-    "semester": 1,
+    "periode_data": 202412,
+    "semester": 2,
     "kegiatan": "Digitalisasi Arsip",
-    "jumlah": 497,
+    "jumlah": 587,
     "satuan": "Boks"
   },
   {
-    "periode_data": 2024,
-    "semester": 1,
+    "periode_data": 202412,
+    "semester": 2,
     "kegiatan": "Digitalisasi Arsip",
-    "jumlah": 13504,
+    "jumlah": 32942,
     "satuan": "Berkas"
   },
   {
-    "periode_data": 2024,
-    "semester": 1,
+    "periode_data": 202412,
+    "semester": 2,
     "kegiatan": "Digitalisasi Arsip",
-    "jumlah": 283335,
+    "jumlah": 664971,
     "satuan": "Lembar"
   }
 ]

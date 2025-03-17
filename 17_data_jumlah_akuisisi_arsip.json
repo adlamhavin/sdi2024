@@ -1,14 +1,62 @@
 [
   {
-    "periode_data": 2023,
-    "nama_organisasi": "Walikota Jakarta Selatan",
-    "jumlah": 21,
+    "periode_data": 2024,
+    "nama_organisasi": "Dinas Pariwisata dan Ekonomi Kreatif",
+    "jumlah": 192,
     "satuan": "berkas"
   },
   {
-    "periode_data": 2023,
-    "nama_organisasi": "Badan Pengelola Keuangan Daerah",
-    "jumlah": 4203,
+    "periode_data": 2024,
+    "nama_organisasi": "Dinas PPAPP",
+    "jumlah": 4,
+    "satuan": "berkas"
+  },
+  {
+    "periode_data": 2024,
+    "nama_organisasi": "Kota Administrasi Jakarta Pusat",
+    "jumlah": 40,
+    "satuan": "berkas"
+  },
+  {
+    "periode_data": 2024,
+    "nama_organisasi": "Kota Administrasi Jakarta Utara",
+    "jumlah": 398,
+    "satuan": "berkas"
+  },
+  {
+    "periode_data": 2024,
+    "nama_organisasi": "Kota Administrasi Jakarta Barat",
+    "jumlah": 71,
+    "satuan": "berkas"
+  },
+  {
+    "periode_data": 2024,
+    "nama_organisasi": "Kota Administrasi Jakarta Timur",
+    "jumlah": 41,
+    "satuan": "berkas"
+  },
+  {
+    "periode_data": 2024,
+    "nama_organisasi": "Kota Administrasi Jakarta Selatan",
+    "jumlah": 49,
+    "satuan": "berkas"
+  },
+  {
+    "periode_data": 2024,
+    "nama_organisasi": "Dinas Perhubungan",
+    "jumlah": 130,
+    "satuan": "berkas"
+  },
+  {
+    "periode_data": 2024,
+    "nama_organisasi": "Sekretariat DPRD",
+    "jumlah": 52,
+    "satuan": "berkas"
+  },
+  {
+    "periode_data": 2024,
+    "nama_organisasi": "Perumda Pasar Jaya",
+    "jumlah": 68,
     "satuan": "berkas"
   }
 ]
