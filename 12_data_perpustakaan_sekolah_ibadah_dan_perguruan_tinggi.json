@@ -1589,7 +1589,15 @@
     "kecamatan": "Penjaringan",
     "kelurahan": "Penjaringan",
     "nama_perpustakaan": "SD NEGERI PENJARINGAN 03",
-    "alamat": "Jl. Raya Pluit Selatan 105"
+    "alamat": ""
+  },
+  {
+    "periode_data": "",
+    "wilayah": "Jl. Raya Pluit Selatan 105",
+    "kecamatan": "",
+    "kelurahan": "",
+    "nama_perpustakaan": "",
+    "alamat": ""
   },
   {
     "periode_data": 2024,
@@ -1621,7 +1629,15 @@
     "kecamatan": "Penjaringan",
     "kelurahan": "Kapuk Muara",
     "nama_perpustakaan": "SDN KAPUK MUARA 03",
-    "alamat": "Jl. Smp 122 Rt.001/003"
+    "alamat": ""
+  },
+  {
+    "periode_data": "",
+    "wilayah": "Jl. Smp 122 Rt.001/003",
+    "kecamatan": "",
+    "kelurahan": "",
+    "nama_perpustakaan": "",
+    "alamat": ""
   },
   {
     "periode_data": 2024,
@@ -1637,7 +1653,15 @@
     "kecamatan": "Penjaringan",
     "kelurahan": "Pejagalan",
     "nama_perpustakaan": "SDN Pejagalan 05 Pg.",
-    "alamat": "Jl. Teluk Gong Rt.015/08"
+    "alamat": ""
+  },
+  {
+    "periode_data": "",
+    "wilayah": "Jl. Teluk Gong Rt.015/08",
+    "kecamatan": "",
+    "kelurahan": "",
+    "nama_perpustakaan": "",
+    "alamat": ""
   },
   {
     "periode_data": 2024,
@@ -1645,7 +1669,15 @@
     "kecamatan": "Penjaringan",
     "kelurahan": "Pluit",
     "nama_perpustakaan": "SDN Pluit 03 Pg.",
-    "alamat": "Jl. Komp. Nelayan Muara Angke"
+    "alamat": ""
+  },
+  {
+    "periode_data": "",
+    "wilayah": "Jl. Komp. Nelayan Muara Angke",
+    "kecamatan": "",
+    "kelurahan": "",
+    "nama_perpustakaan": "",
+    "alamat": ""
   },
   {
     "periode_data": 2024,
@@ -1669,7 +1701,15 @@
     "kecamatan": "Penjaringan",
     "kelurahan": "Pluit",
     "nama_perpustakaan": "SD NEGERI PLUIT 05 PG",
-    "alamat": "Komplek Nelayan Muara Angke"
+    "alamat": ""
+  },
+  {
+    "periode_data": "",
+    "wilayah": "Komplek Nelayan Muara Angke",
+    "kecamatan": "",
+    "kelurahan": "",
+    "nama_perpustakaan": "",
+    "alamat": ""
   },
   {
     "periode_data": 2024,
@@ -10073,7 +10113,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Jatinegara",
     "kelurahan": "KAMPUNG MELAYU",
     "nama_perpustakaan": "Perpustakaan Akademi Keperawatan (Akper) Hermina Manggala Husada",
@@ -10081,7 +10121,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA PUSAT",
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Senen",
     "kelurahan": "KENARI",
     "nama_perpustakaan": "Perpustakaan Akademi Terapi Wicara",
@@ -10089,7 +10129,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Kebayoran Lama",
     "kelurahan": "KEBAYORAN LAMA UTARA",
     "nama_perpustakaan": "Perpustakaan Universitas Satya Negara Indonesia (USNI)",
@@ -10097,7 +10137,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Ciracas",
     "kelurahan": "SUSUKAN",
     "nama_perpustakaan": "Perpustakaan Akademi Keperawatan Pasar Rebo",
@@ -10105,7 +10145,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA PUSAT",
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Cempaka Putih",
     "kelurahan": "CEMPAKA PUTIH TIMUR",
     "nama_perpustakaan": "Perpustakaan Politeknik STMI JAKARTA",
@@ -10113,7 +10153,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA PUSAT",
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Menteng",
     "kelurahan": "PEGANGSAAN",
     "nama_perpustakaan": "Perpustakaan Universitas Nahdlatul Ulama Indonesia",
@@ -10121,7 +10161,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA PUSAT",
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Tanah Abang",
     "kelurahan": "PETAMBURAN",
     "nama_perpustakaan": "Perpustakaan Politeknik STIA LAN Jakarta",
@@ -10129,7 +10169,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA UTARA",
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "Cilincing",
     "kelurahan": "MARUNDA",
     "nama_perpustakaan": "PERPUSTAKAAN SEKOLAH TINGGI ILMU PELAYARAN JAKARTA",
@@ -10137,7 +10177,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Jagakarsa",
     "kelurahan": "SRENGSENG SAWAH",
     "nama_perpustakaan": "Perpustakaan Politeknik Negeri Media Kreatif",
@@ -10145,7 +10185,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Pulogadung",
     "kelurahan": "RAWAMANGUN",
     "nama_perpustakaan": "Perpustakaan Universitas Negeri Jakarta",
@@ -10153,7 +10193,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA PUSAT",
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Kemayoran",
     "kelurahan": "KEMAYORAN",
     "nama_perpustakaan": "Perpustakaan Institut Teknologi Calvin",
@@ -10161,7 +10201,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA PUSAT",
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Kemayoran",
     "kelurahan": "GUNUNG SAHARI SELATAN",
     "nama_perpustakaan": "Perpustakaan Akademi Keperawatan Pelni",
@@ -10169,7 +10209,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA PUSAT",
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Cempaka Putih",
     "kelurahan": "CEMPAKA PUTIH TIMUR",
     "nama_perpustakaan": "Perpustakaan Universitas Yarsi",
@@ -10177,7 +10217,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA PUSAT",
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Johar Baru",
     "kelurahan": "GALUR",
     "nama_perpustakaan": "Perpustakaan Institut Ilmu Sosial dan Manajemen STIAMI",
@@ -10185,7 +10225,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA UTARA",
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "Tanjung Priok",
     "kelurahan": "SUNTER JAYA",
     "nama_perpustakaan": "Perpustakaan Institut Bisnis dan Informatika Kwik Kian Gie",
@@ -10193,7 +10233,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA BARAT",
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "Cengkareng",
     "kelurahan": "DURI KOSAMBI",
     "nama_perpustakaan": "Perpustakaan Institut Teknologi PLN",
@@ -10201,7 +10241,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA BARAT",
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "Cengkareng",
     "kelurahan": "KEDAUNG KALI ANGKE",
     "nama_perpustakaan": "Perpustakaan Institut Teknologi Telkom Jakarta",
@@ -10209,7 +10249,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA BARAT",
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "Grogol Petamburan",
     "kelurahan": "TANJUNG DUREN SELATAN",
     "nama_perpustakaan": "Perpustakaan Universitas Agung Podomoro",
@@ -10217,7 +10257,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA BARAT",
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "Grogol Petamburan",
     "kelurahan": "TOMANG",
     "nama_perpustakaan": "Perpustakaan Pusat Universitas Tarumanagara",
@@ -10225,7 +10265,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA BARAT",
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "Grogol Petamburan",
     "kelurahan": "GROGOL",
     "nama_perpustakaan": "Perpustakaan Universitas Trisakti",
@@ -10233,7 +10273,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA BARAT",
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "Grogol Petamburan",
     "kelurahan": "TANJUNG DUREN UTARA",
     "nama_perpustakaan": "Perpustakaan Universitas Dian Nusantara",
@@ -10241,7 +10281,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA BARAT",
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "Grogol Petamburan",
     "kelurahan": "TANJUNG DUREN UTARA",
     "nama_perpustakaan": "Perpustakaan Universitas Kristen Krida Wacana",
@@ -10249,7 +10289,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA BARAT",
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "Kebayoran Lama",
     "kelurahan": "GROGOL SELATAN",
     "nama_perpustakaan": "MS & HS Learning Centre BINUS School Simprug",
@@ -10257,7 +10297,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA BARAT",
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "Kebon Jeruk",
     "kelurahan": "DURI KEPA",
     "nama_perpustakaan": "Perpustakaan Universitas Indonusa Esa Unggul",
@@ -10265,7 +10305,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA BARAT",
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "Kembangan",
     "kelurahan": "MERUYA SELATAN",
     "nama_perpustakaan": "Perpustakaan Universitas Mercu Buana",
@@ -10273,7 +10313,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Setiabudi",
     "kelurahan": "KARET",
     "nama_perpustakaan": "Perpustakaan Universitas Bakrie",
@@ -10281,7 +10321,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Setiabudi",
     "kelurahan": "KARET SEMANGGI",
     "nama_perpustakaan": "Perpustakaan Universitas Katolik Indonesia Atma Jaya",
@@ -10289,7 +10329,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Mampang Prapatan",
     "kelurahan": "BANGKA",
     "nama_perpustakaan": "Perpustakaan Indonesia Banking School",
@@ -10297,7 +10337,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Mampang Prapatan",
     "kelurahan": "MAMPANG PRAPATAN",
     "nama_perpustakaan": "Perpustakaan Universitas Paramadina",
@@ -10305,7 +10345,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Pasar Minggu",
     "kelurahan": "RAGUNAN",
     "nama_perpustakaan": "Perpustakaan Universitas Bhayangkara Jakarta Raya",
@@ -10313,7 +10353,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Cilandak",
     "kelurahan": "CILANDAK BARAT",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Ilmu Manajemen dan Ilmu Komputer ESQ",
@@ -10321,7 +10361,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Kebayoran Lama",
     "kelurahan": "GROGOL SELATAN",
     "nama_perpustakaan": "Perpustakaan Universitas Pertamina",
@@ -10329,7 +10369,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Cilandak",
     "kelurahan": "CILANDAK BARAT",
     "nama_perpustakaan": "Tanoto Library Prasetya Mulya Business School",
@@ -10337,7 +10377,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Cilandak",
     "kelurahan": "PONDOK LABU",
     "nama_perpustakaan": "Perpustakaan Universitas Pembangunan Nasional Veteran Jakarta",
@@ -10345,7 +10385,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Kebayoran Baru",
     "kelurahan": "SELONG",
     "nama_perpustakaan": "Perpustakaan Universitas Al Azhar Indonesia",
@@ -10353,7 +10393,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Kebayoran Baru",
     "kelurahan": "KRAMAT PELA",
     "nama_perpustakaan": "Perpustakaan Universitas Muhammadiyah Prof Dr Hamka",
@@ -10361,7 +10401,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Pasar Minggu",
     "kelurahan": "JATI PADANG",
     "nama_perpustakaan": "Perpustakaan Terpadu Politeknik Kesehatan Kementerian Kesehatan Jakarta II",
@@ -10369,7 +10409,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Pancoran",
     "kelurahan": "DUREN TIGA",
     "nama_perpustakaan": "Perpustakaan Universitas Trilogi",
@@ -10377,7 +10417,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Pancoran",
     "kelurahan": "PANCORAN",
     "nama_perpustakaan": "Perpustakaan Universitas Sampoerna",
@@ -10385,7 +10425,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Jagakarsa",
     "kelurahan": "SRENGSENG SAWAH",
     "nama_perpustakaan": "Perpustakaan Institut Bisnis & Informatika Kosgoro 1957",
@@ -10393,7 +10433,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Jagakarsa",
     "kelurahan": "CIPEDAK",
     "nama_perpustakaan": "Perpustakaan Politeknik APP Jakarta",
@@ -10401,7 +10441,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Jagakarsa",
     "kelurahan": "SRENGSENG SAWAH",
     "nama_perpustakaan": "Perpustakaan Universitas Pancasila",
@@ -10409,7 +10449,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Pesanggrahan",
     "kelurahan": "PETUKANGAN UTARA",
     "nama_perpustakaan": "Perpustakaan Universitas Budi Luhur",
@@ -10417,7 +10457,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Pulogadung",
     "kelurahan": "KAYU PUTIH",
     "nama_perpustakaan": "Perpustakaan Institut Bio Scientia Internasional Indonesia",
@@ -10425,7 +10465,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Pulogadung",
     "kelurahan": "KAYU PUTIH",
     "nama_perpustakaan": "Perpustakaan Institut Teknologi dan Bisnis Kalbis",
@@ -10433,7 +10473,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Pulogadung",
     "kelurahan": "KAYU PUTIH",
     "nama_perpustakaan": "Perpustakaan Institut Bisnis dan Multimedia Asmi Jakarta",
@@ -10441,7 +10481,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Jatinegara",
     "kelurahan": "CIPINANG CEMPEDAK",
     "nama_perpustakaan": "Perpustakaan Institut Bisnis Nusantara",
@@ -10449,7 +10489,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Kramatjati",
     "kelurahan": "CAWANG",
     "nama_perpustakaan": "Perpustakaan Universitas Kristen Indonesia",
@@ -10457,7 +10497,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Kramatjati",
     "kelurahan": "DUKUH",
     "nama_perpustakaan": "Perpustakaan Universitas Mohammad Husni Thamrin Jakarta",
@@ -10465,7 +10505,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Kramatjati",
     "kelurahan": "CILILITAN",
     "nama_perpustakaan": "Perpustakaan Universitas Binawan",
@@ -10473,7 +10513,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Duren Sawit",
     "kelurahan": "PONDOK KELAPA",
     "nama_perpustakaan": "Perpustakaan Universitas Darma Persada",
@@ -10481,7 +10521,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Makasar",
     "kelurahan": "HALIM PERDANA KUSUMA",
     "nama_perpustakaan": "Perpustakaan Universitas Dirgantara Marsekal Suryadarma",
@@ -10489,7 +10529,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Pesanggrahan",
     "kelurahan": "BINTARO",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Pariwisata Trisakti",
@@ -10497,7 +10537,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA UTARA",
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "Tanjung Priok",
     "kelurahan": "SUNTER AGUNG",
     "nama_perpustakaan": "PERPUSTAKAAN AKADEMI KEPERAWATAN HUSADA KARYA JAYA (HKJ)",
@@ -10505,7 +10545,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Jagakarsa",
     "kelurahan": "LENTENG AGUNG",
     "nama_perpustakaan": "Perpustakaan Akademi Bakti Kemanusiaan Palang Merah Indonesia",
@@ -10513,7 +10553,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA PUSAT",
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Kemayoran",
     "kelurahan": "CEMPAKA BARU",
     "nama_perpustakaan": "Perpustakaan Akademi Refraksi Optisi Kartika Indera Persada",
@@ -10521,7 +10561,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Kebayoran Lama",
     "kelurahan": "PONDOK PINANG",
     "nama_perpustakaan": "Perpustakaan Akademi Perekam Medis Dan Infokes Bhumi Husada",
@@ -10529,7 +10569,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Duren Sawit",
     "kelurahan": "PONDOK BAMBU",
     "nama_perpustakaan": "Perpustakaan Akademi Pariwisata Indonesia Jakarta",
@@ -10537,7 +10577,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA UTARA",
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "Kelapa Gading",
     "kelurahan": "KELAPA GADING BARAT",
     "nama_perpustakaan": "Perpustakaan Akademi Maritim Nasional Jaya",
@@ -10545,7 +10585,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Duren Sawit",
     "kelurahan": "PONDOK KELAPA",
     "nama_perpustakaan": "Perpustakaan Akademi Kebidanan Yayasan Rumah Sakit Jakarta",
@@ -10553,7 +10593,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Ciracas",
     "kelurahan": "SUSUKAN",
     "nama_perpustakaan": "Perpustakaan Akademi Kebidanan Bhinneka Jakarta Satu",
@@ -10561,7 +10601,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Cilandak",
     "kelurahan": "PONDOK LABU",
     "nama_perpustakaan": "Perpustakaan Akademi Farmasi Bhumi Husada",
@@ -10569,7 +10609,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Makasar",
     "kelurahan": "CIPINANG MELAYU",
     "nama_perpustakaan": "Perpustakaan Akademi Telekomunikasi Indonesia Gemilang",
@@ -10577,7 +10617,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Cakung",
     "kelurahan": "UJUNG MENTENG",
     "nama_perpustakaan": "Perpustakaan Akademi Seni Rupa dan Desain ISWI (ASRIDE)",
@@ -10585,7 +10625,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Matraman",
     "kelurahan": "KEBON MANGGIS",
     "nama_perpustakaan": "Perpustakaan AMIK-ASM LAKSI 31",
@@ -10593,7 +10633,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Jatinegara",
     "kelurahan": "CIPINANG BESAR SELATAN",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Teknologi Kelautan Hatawana",
@@ -10601,7 +10641,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Makasar",
     "kelurahan": "CIPINANG MELAYU",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Ilmu Ekonomi Yayasan Swadaya",
@@ -10609,7 +10649,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Pasar Rebo",
     "kelurahan": "CIJANTUNG",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Ilmu Ekonomi Kusumanegara",
@@ -10617,7 +10657,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA PUSAT",
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Cempaka Putih",
     "kelurahan": "RAWASARI",
     "nama_perpustakaan": "Perpustakaan Akademi Teknologi Grafika Trisakti",
@@ -10625,7 +10665,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Kebayoran Baru",
     "kelurahan": "SENAYAN",
     "nama_perpustakaan": "Perpustakaan Akademi Pariwisata Jakarta Internasional Hotels",
@@ -10633,7 +10673,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA BARAT",
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "Kembangan",
     "kelurahan": "SRENGSENG",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Ilmu Kesehatan U'budiyah",
@@ -10641,7 +10681,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA BARAT",
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "Kebon Jeruk",
     "kelurahan": "DURI KEPA",
     "nama_perpustakaan": "Perpustakaan Akademi Teknologi Komunikasi dan Informasi",
@@ -10649,7 +10689,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA BARAT",
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "Grogol Petamburan",
     "kelurahan": "TOMANG",
     "nama_perpustakaan": "Perpustakaan Akademi Keperawatan Sumber Waras",
@@ -10657,7 +10697,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA PUSAT",
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Menteng",
     "kelurahan": "CIKINI",
     "nama_perpustakaan": "Perpustakaan Akademi Perawat PGI Cikini",
@@ -10665,7 +10705,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA PUSAT",
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Senen",
     "kelurahan": "KRAMAT",
     "nama_perpustakaan": "Perpustakaan Akademi Akuntansi Muhammadiyah",
@@ -10673,7 +10713,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Cilandak",
     "kelurahan": "LEBAK BULUS",
     "nama_perpustakaan": "Perpustakaan Akademi Teknologi Grafika Indonesia (ATGI)",
@@ -10681,7 +10721,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Pesanggrahan",
     "kelurahan": "PETUKANGAN UTARA",
     "nama_perpustakaan": "Perpustakaan Akademi Sekretari Budi Luhur",
@@ -10689,7 +10729,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Duren Sawit",
     "kelurahan": "PONDOK KELAPA",
     "nama_perpustakaan": "Perpustakaan Akademi Sekretaris LPK Tarakanita",
@@ -10697,7 +10737,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Pesanggrahan",
     "kelurahan": "BINTARO",
     "nama_perpustakaan": "Perpustakaan Institut Pariwisata Trisakti",
@@ -10705,7 +10745,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Jagakarsa",
     "kelurahan": "LENTENG AGUNG",
     "nama_perpustakaan": "Perpustakaan Institut Ilmu Sosial dan Ilmu Politik Jakarta",
@@ -10713,7 +10753,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Setiabudi",
     "kelurahan": "PASAR MANGGIS",
     "nama_perpustakaan": "Perpustakaan Institute Agama Buddha Nasional Divyarajya",
@@ -10721,7 +10761,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA PUSAT",
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Tanah Abang",
     "kelurahan": "KEBON KACANG",
     "nama_perpustakaan": "Perpustakaan Institut Agama Islam Jami`at Khair",
@@ -10729,7 +10769,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Duren Sawit",
     "kelurahan": "PONDOK KOPI",
     "nama_perpustakaan": "Perpustakaan Institut Teknologi Budi Utomo",
@@ -10737,7 +10777,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Cilandak",
     "kelurahan": "LEBAK BULUS",
     "nama_perpustakaan": "Perpustakaan Institut Perguruan Tinggi Ilmu Al-Qur'an Jakarta",
@@ -10745,7 +10785,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA BARAT",
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "Kebon Jeruk",
     "kelurahan": "KEDOYA SELATAN",
     "nama_perpustakaan": "Perpustakaan Institut Sains dan Teknologi Al Kamal",
@@ -10753,7 +10793,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Pulogadung",
     "kelurahan": "KAYU PUTIH",
     "nama_perpustakaan": "Perpustakaan GS-FAME Institute of Business",
@@ -10761,7 +10801,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA PUSAT",
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Menteng",
     "kelurahan": "CIKINI",
     "nama_perpustakaan": "Perpustakaan Institut Kesenian Jakarta",
@@ -10769,7 +10809,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Mampang Prapatan",
     "kelurahan": "BANGKA",
     "nama_perpustakaan": "Perpustakaan Institut Bankir Indonesia",
@@ -10777,7 +10817,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Pasar Minggu",
     "kelurahan": "CILANDAK TIMUR",
     "nama_perpustakaan": "Perpustakaan Institut Ilmu Pemerintahan",
@@ -10785,7 +10825,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Kebayoran Baru",
     "kelurahan": "KRAMAT PELA",
     "nama_perpustakaan": "Perpustakaan Institut Keguruan dan Ilmu Pendidikan Muhammadiyah",
@@ -10793,7 +10833,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Jagakarsa",
     "kelurahan": "SRENGSENG SAWAH",
     "nama_perpustakaan": "Perpustakaan Pusat Institut Sains dan Teknologi Nasional",
@@ -10801,7 +10841,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Pancoran",
     "kelurahan": "KALIBATA",
     "nama_perpustakaan": "Perpustakaan Institut Pengembangan Manajemen Indonesia",
@@ -10809,7 +10849,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA PUSAT",
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Tanah Abang",
     "kelurahan": "BENDUNGAN HILIR",
     "nama_perpustakaan": "Perpustakaan Politeknik Hang Tuah Jakarta",
@@ -10817,7 +10857,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Kebayoran Lama",
     "kelurahan": "GROGOL UTARA",
     "nama_perpustakaan": "Perpustakaan Politeknik Tempo",
@@ -10825,7 +10865,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA UTARA",
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "Tanjung Priok",
     "kelurahan": "SUNGAI BAMBU",
     "nama_perpustakaan": "Perpustakaan Politeknik Manufaktur Astra",
@@ -10833,7 +10873,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Jagakarsa",
     "kelurahan": "TANJUNG BARAT",
     "nama_perpustakaan": "Perpustakaan Politeknik Karya Husada",
@@ -10841,7 +10881,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Mampang Prapatan",
     "kelurahan": "PELA MAMPANG",
     "nama_perpustakaan": "Perpustakaan Politeknik Bisnis dan Pasar Modal",
@@ -10849,7 +10889,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Duren Sawit",
     "kelurahan": "PONDOK BAMBU",
     "nama_perpustakaan": "Perpustakaan Politeknik Bisnis Indonesia",
@@ -10857,7 +10897,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Kebayoran Lama",
     "kelurahan": "CIPULIR",
     "nama_perpustakaan": "Perpustakaan Seskoal",
@@ -10865,7 +10905,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA PUSAT",
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Kemayoran",
     "kelurahan": "HARAPAN MULIA",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Ilmu Ekonomi Jakarta International College",
@@ -10873,7 +10913,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA PUSAT",
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Menteng",
     "kelurahan": "MENTENG",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Manajemen PPM",
@@ -10881,7 +10921,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA PUSAT",
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Senen",
     "kelurahan": "KENARI",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Manajemen Informatika dan Komputer Jayakarta",
@@ -10889,7 +10929,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA UTARA",
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "Kelapa Gading",
     "kelurahan": "KELAPA GADING BARAT",
     "nama_perpustakaan": "PERPUSTAKAAN HIDROS",
@@ -10897,7 +10937,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA UTARA",
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "Kelapa Gading",
     "kelurahan": "KELAPA GADING BARAT",
     "nama_perpustakaan": "Ekumene Library Sekolah Tinggi Ekumene",
@@ -10905,7 +10945,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Pancoran",
     "kelurahan": "DUREN TIGA",
     "nama_perpustakaan": "Perpustakaan H. F. Tan",
@@ -10913,7 +10953,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA PUSAT",
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Kemayoran",
     "kelurahan": "KEMAYORAN",
     "nama_perpustakaan": "Perpustakaan Agustinus",
@@ -10921,7 +10961,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA PUSAT",
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Tanah Abang",
     "kelurahan": "KARET TENGSIN",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Desain LaSalle",
@@ -10929,7 +10969,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA BARAT",
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "Kebon Jeruk",
     "kelurahan": "KEDOYA UTARA",
     "nama_perpustakaan": "Perpustakaan Pdt. Dr. Freddy Lay",
@@ -10937,7 +10977,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Cipayung",
     "kelurahan": "LUBANG BUAYA",
     "nama_perpustakaan": "Perpustakaan Nurul Fikri Sekolah Tinggi Agama Islam Minhaajurrosyidin",
@@ -10945,7 +10985,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Pulogadung",
     "kelurahan": "KAYU PUTIH",
     "nama_perpustakaan": "Pustaka TMM",
@@ -10953,7 +10993,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA UTARA",
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "Kelapa Gading",
     "kelurahan": "KELAPA GADING BARAT",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Teologi Lintas Budaya Jakarta",
@@ -10961,7 +11001,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA PUSAT",
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Senen",
     "kelurahan": "PASEBAN",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Ilmu Ekonomi Y.A.I",
@@ -10969,7 +11009,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA UTARA",
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "Kelapa Gading",
     "kelurahan": "KELAPA GADING BARAT",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Teknologi Angkatan Laut Hidros",
@@ -10977,7 +11017,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Makasar",
     "kelurahan": "CIPINANG MELAYU",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Ilmu Ekonomi Swadaya",
@@ -10985,7 +11025,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA UTARA",
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "Pulogadung",
     "kelurahan": "KAYU PUTIH",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Ilmu Ekonomi Kampus Ungu",
@@ -10993,7 +11033,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Pancoran",
     "kelurahan": "PANCORAN",
     "nama_perpustakaan": "Perpustakaan Sampoerna School of Education STKIP Kebangkitan Nasional",
@@ -11001,7 +11041,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Kebayoran Lama",
     "kelurahan": "PONDOK PINANG",
     "nama_perpustakaan": "Perpustakaan Selapa Knowledge Center",
@@ -11009,7 +11049,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Jagakarsa",
     "kelurahan": "LENTENG AGUNG",
     "nama_perpustakaan": "PERPUSTAKAAN SEKOLAH TINGGI ILMU PEMERINTAHAN ABDI NEGARA",
@@ -11017,7 +11057,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Cakung",
     "kelurahan": "UJUNG MENTENG",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Teologi Pais Jakarta",
@@ -11025,7 +11065,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA PUSAT",
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Tanah Abang",
     "kelurahan": "PETAMBURAN",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Teologi Bethel Indonesia Jakarta",
@@ -11033,7 +11073,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA BARAT",
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "Cengkareng",
     "kelurahan": "CENGKARENG TIMUR",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Manajemen Informatikan dan Komputer Satyagama",
@@ -11041,7 +11081,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Matraman",
     "kelurahan": "KAYU MANIS",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Manajemen Informatika dan Komputer Muhammadiyah Jakarta",
@@ -11049,7 +11089,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Makasar",
     "kelurahan": "CIPINANG MELAYU",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Ilmu Kesehatan Persada Husada Indonesia",
@@ -11057,7 +11097,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Setiabudi",
     "kelurahan": "GUNTUR",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Hukum Indonesia Jentera",
@@ -11065,7 +11105,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Kramatjati",
     "kelurahan": "CILILITAN",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Ilmu Ekonomi Pengembangan Bisnis Dan Manajemen",
@@ -11073,7 +11113,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Makasar",
     "kelurahan": "CIPINANG MELAYU",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Ilmu Ekonomi Pariwisata Internasional",
@@ -11081,7 +11121,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA BARAT",
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "Grogol Petamburan",
     "kelurahan": "TANJUNG DUREN SELATAN",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Seni Musik Cantata Jakarta",
@@ -11089,7 +11129,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Duren Sawit",
     "kelurahan": "PONDOK KOPI",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Ilmu Tarbiyah INSIDA",
@@ -11097,7 +11137,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Matraman",
     "kelurahan": "UTAN KAYU UTARA",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Ilmu Syariah Al-Manar",
@@ -11105,7 +11145,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Kebayoran Baru",
     "kelurahan": "MELAWAI",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Ilmu Kepolisian",
@@ -11113,7 +11153,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Cilandak",
     "kelurahan": "CILANDAK BARAT",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Filsafat Islam Sadra Jakarta",
@@ -11121,7 +11161,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA PUSAT",
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Johar Baru",
     "kelurahan": "TANAH TINGGI",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Ekonomi dan Perbankan Islam Mr. Sjafruddin Prawiranegara",
@@ -11129,7 +11169,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Mampang Prapatan",
     "kelurahan": "PELA MAMPANG",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Desain Interstudi",
@@ -11137,7 +11177,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Pulogadung",
     "kelurahan": "RAWAMANGUN",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Agama Hindu Dharma Nusantara Jakarta",
@@ -11145,7 +11185,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Kramatjati",
     "kelurahan": "CILILITAN",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Bahasa Asing Pertiwi",
@@ -11153,7 +11193,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Pancoran",
     "kelurahan": "KALIBATA",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Ilmu Manajemen KOSGORO",
@@ -11161,7 +11201,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Kramatjati",
     "kelurahan": "CAWANG",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Ilmu Ekonomi Tunas Nusantara",
@@ -11169,7 +11209,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Jatinegara",
     "kelurahan": "CIPINANG BESAR SELATAN",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Manajemen Transpor Trisakti",
@@ -11177,7 +11217,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Kramatjati",
     "kelurahan": "CAWANG",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Teknologi Sapta Taruna",
@@ -11185,7 +11225,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Kramatjati",
     "kelurahan": "KRAMATJATI",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Ilmu Kesehatan Istara Nusantara Jakarta",
@@ -11193,7 +11233,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Pulogadung",
     "kelurahan": "KAYU PUTIH",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Manajemen Asuransi Trisakti Jakarta",
@@ -11201,7 +11241,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Pancoran",
     "kelurahan": "DUREN TIGA",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Ilmu Ekonomi Dharma Bumiputera",
@@ -11209,7 +11249,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Pancoran",
     "kelurahan": "PANCORAN",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Penerbangan Aviasi",
@@ -11217,7 +11257,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Pancoran",
     "kelurahan": "RAWAJATI",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Manajemen IPMI",
@@ -11225,7 +11265,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Kebayoran Lama",
     "kelurahan": "GROGOL UTARA",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Ilmu Sosial dan Politik Widuri",
@@ -11233,7 +11273,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Setiabudi",
     "kelurahan": "MENTENG ATAS",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Ilmu Ekonomi Muhammadiyah Jakarta",
@@ -11241,7 +11281,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA BARAT",
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "Pal Merah",
     "kelurahan": "SLIPI",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Ilmu Ekonomi IGI",
@@ -11249,7 +11289,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA BARAT",
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "Kebon Jeruk",
     "kelurahan": "SUKABUMI SELATAN",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Ilmu Ekonomi Bisnis Indonesia",
@@ -11257,7 +11297,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA BARAT",
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "Tambora",
     "kelurahan": "ROA MALAKA",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Manajemen Informatika dan Komputer Swadharma",
@@ -11265,7 +11305,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA BARAT",
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "Grogol Petamburan",
     "kelurahan": "GROGOL",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Ilmu Ekonomi Trisakti",
@@ -11273,7 +11313,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA UTARA",
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "Kelapa Gading",
     "kelurahan": "KELAPA GADING BARAT",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Teologi Rahmat Emmanuel",
@@ -11281,7 +11321,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA UTARA",
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "Pademangan",
     "kelurahan": "ANCOL",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Teknologi Angkatan Laut Hidros Jakarta",
@@ -11289,7 +11329,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Pasar Rebo",
     "kelurahan": "CIJANTUNG",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Ilmu Ekonomi Kusuma Negara",
@@ -11297,7 +11337,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Pulogadung",
     "kelurahan": "RAWAMANGUN",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Ilmu Ekonomi Indonesia Jakarta",
@@ -11305,7 +11345,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA PUSAT",
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Tanah Abang",
     "kelurahan": "PETAMBURAN",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Theologia Bethel Indonesia",
@@ -11313,7 +11353,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA PUSAT",
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Cempaka Putih",
     "kelurahan": "CEMPAKA PUTIH TIMUR",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Manajemen Industri",
@@ -11321,7 +11361,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA PUSAT",
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Senen",
     "kelurahan": "PASEBAN",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Ilmu Kesehatan Sint Carolus",
@@ -11329,7 +11369,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA PUSAT",
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Johar Baru",
     "kelurahan": "GALUR",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Ilmu Administrasi Mandala Indonesia",
@@ -11337,7 +11377,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA PUSAT",
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Kemayoran",
     "kelurahan": "GUNUNG SAHARI SELATAN",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Ilmu Ekonomi Taman Siswa Jakarta",
@@ -11345,7 +11385,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA PUSAT",
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Gambir",
     "kelurahan": "CIDENG",
     "nama_perpustakaan": "Perpustakaan STMIK Indonesia",
@@ -11353,7 +11393,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA PUSAT",
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Menteng",
     "kelurahan": "PEGANGSAAN",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Filsafat Theologi Jakarta",
@@ -11361,7 +11401,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA BARAT",
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "Kebon Jeruk",
     "kelurahan": "KEBON JERUK",
     "nama_perpustakaan": "Perpustakaan STMIK Bina Nusantara",
@@ -11369,7 +11409,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA PUSAT",
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Senen",
     "kelurahan": "KENARI",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Ilmu Ekonomi Jayakarta",
@@ -11377,7 +11417,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Jagakarsa",
     "kelurahan": "TANJUNG BARAT",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Manajemen IMMI",
@@ -11385,7 +11425,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA PUSAT",
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Cempaka Putih",
     "kelurahan": "CEMPAKA PUTIH BARAT",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Filsafat Driyarkara",
@@ -11393,7 +11433,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Kebayoran Baru",
     "kelurahan": "GANDARIA UTARA",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Manajemen Informatika Dan Komputer Jakarta",
@@ -11401,7 +11441,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Setiabudi",
     "kelurahan": "KARET KUNINGAN",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Ilmu Ekonomi Perbanas",
@@ -11409,7 +11449,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Jagakarsa",
     "kelurahan": "TANJUNG BARAT",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Ilmu Administrasi Yappann",
@@ -11417,7 +11457,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Setiabudi",
     "kelurahan": "GUNTUR",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Ilmu Manajemen Jakarta",
@@ -11425,7 +11465,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Pesanggrahan",
     "kelurahan": "PETUKANGAN SELATAN",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Ilmu Ekonomi Bhakti Pembangunan",
@@ -11433,7 +11473,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Kebayoran Baru",
     "kelurahan": "MELAWAI",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Keguruan dan Ilmu Pendidikan Purnama",
@@ -11441,7 +11481,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Kebayoran Lama",
     "kelurahan": "PONDOK PINANG",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Manajemen Informatika dan Komputer Kuwera",
@@ -11449,7 +11489,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Pasar Minggu",
     "kelurahan": "JATI PADANG",
     "nama_perpustakaan": "Perpustakaan Sekolah Tinggi Perikanan",
@@ -11457,7 +11497,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA PUSAT",
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Gambir",
     "kelurahan": "PETOJO UTARA",
     "nama_perpustakaan": "Perpustakaan Saint Marys Collage",
@@ -11465,7 +11505,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Kramatjati",
     "kelurahan": "CILILITAN",
     "nama_perpustakaan": "Perpustakaan Universitas Pertiwi Jakarta",
@@ -11473,7 +11513,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Jagakarsa",
     "kelurahan": "LENTENG AGUNG",
     "nama_perpustakaan": "Perpustakaan Indonesia Maju",
@@ -11481,7 +11521,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Makasar",
     "kelurahan": "CIPINANG MELAYU",
     "nama_perpustakaan": "Perpustakaan Universitas Borobudur",
@@ -11489,7 +11529,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Pesanggrahan",
     "kelurahan": "ULUJAMI",
     "nama_perpustakaan": "Perpustakaan Universitas Darunnajah",
@@ -11497,7 +11537,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Ciracas",
     "kelurahan": "RAMBUTAN",
     "nama_perpustakaan": "Perpustakaan FKIP UHAMKA",
@@ -11505,7 +11545,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Pesanggrahan",
     "kelurahan": "ULUJAMI",
     "nama_perpustakaan": "Perpustakaan Fakultas Ekonomi Universitas Prof. Dr. Moestopo (Beragama)",
@@ -11513,7 +11553,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Jagakarsa",
     "kelurahan": "JAGAKARSA",
     "nama_perpustakaan": "Perpustakaan Universitas Tama Jagakarsa",
@@ -11521,7 +11561,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Kramatjati",
     "kelurahan": "CAWANG",
     "nama_perpustakaan": "Perpustakaan Universitas Surapati",
@@ -11529,7 +11569,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA BARAT",
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "Cengkareng",
     "kelurahan": "CENGKARENG BARAT",
     "nama_perpustakaan": "Perpustakaan Universitas Satyagama",
@@ -11537,7 +11577,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Cipayung",
     "kelurahan": "BAMBU APUS",
     "nama_perpustakaan": "Perpustakaan Universitas Respati Indonesia",
@@ -11545,7 +11585,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA PUSAT",
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Tanah Abang",
     "kelurahan": "GELORA",
     "nama_perpustakaan": "Perpustakaan Universitas Profesor Doktor Moestopo (Beragama)",
@@ -11553,7 +11593,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Jagakarsa",
     "kelurahan": "TANJUNG BARAT",
     "nama_perpustakaan": "Perpustakaan Universitas Indraprasta PGRI",
@@ -11561,7 +11601,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Jatinegara",
     "kelurahan": "BIDARA CINA",
     "nama_perpustakaan": "Perpustakaan Universitas Azzahra",
@@ -11569,7 +11609,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Makasar",
     "kelurahan": "CIPINANG MELAYU",
     "nama_perpustakaan": "Perpustakaan Universitas Nusa Mandiri",
@@ -11577,7 +11617,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Pulogadung",
     "kelurahan": "KAYU PUTIH",
     "nama_perpustakaan": "Perpustakaan Universitas Jayabaya",
@@ -11585,7 +11625,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Matraman",
     "kelurahan": "UTAN KAYU UTARA",
     "nama_perpustakaan": "Perpustakaan Universitas Islam Jakarta",
@@ -11593,7 +11633,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Jatinegara",
     "kelurahan": "CIPINANG BESAR SELATAN",
     "nama_perpustakaan": "Perpustakaan Universitas Mpu Tantular",
@@ -11601,7 +11641,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Pulogadung",
     "kelurahan": "RAWAMANGUN",
     "nama_perpustakaan": "Perpustakaan Universitas Ibnu Chaldun",
@@ -11609,7 +11649,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Pasar Minggu",
     "kelurahan": "PEJATEN BARAT",
     "nama_perpustakaan": "Perpustakaan Universitas Nasional",
@@ -11617,7 +11657,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Tebet",
     "kelurahan": "MENTENG DALAM",
     "nama_perpustakaan": "Perpustakaan Pusat Universitas Sahid Jakarta",
@@ -11625,7 +11665,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA SELATAN",
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "Tebet",
     "kelurahan": "BUKIT DURI",
     "nama_perpustakaan": "Perpustakaan Universitas Islam Attahiriyah",
@@ -11633,7 +11673,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA UTARA",
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "Tanjung Priok",
     "kelurahan": "SUNTER AGUNG",
     "nama_perpustakaan": "Perpustakaan Universitas 17 Agustus 1945",
@@ -11641,7 +11681,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA UTARA",
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "Pademangan",
     "kelurahan": "ANCOL",
     "nama_perpustakaan": "Perpustakaan Universitas Bunda Mulia",
@@ -11649,7 +11689,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Pulogadung",
     "kelurahan": "KAYU PUTIH",
     "nama_perpustakaan": "Perpustakaan Universitas Jakarta",
@@ -11657,7 +11697,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA PUSAT",
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Menteng",
     "kelurahan": "MENTENG",
     "nama_perpustakaan": "Perpustakaan Universitas Bung Karno",
@@ -11665,7 +11705,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA TIMUR",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "Kramatjati",
     "kelurahan": "CAWANG",
     "nama_perpustakaan": "Perpustakaan Universitas Wiraswasta Indonesia",
@@ -11673,7 +11713,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA PUSAT",
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Senen",
     "kelurahan": "KENARI",
     "nama_perpustakaan": "Perpustakaan Lembaga Pendidikan Tinggi YAI",
@@ -11681,7 +11721,7 @@
   },
   {
     "periode_data": 2024,
-    "wilayah": "Kota KOTA ADM. JAKARTA PUSAT",
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "Senen",
     "kelurahan": "KWITANG",
     "nama_perpustakaan": "Perpustakaan Universitas Bina Sarana Informatika",
