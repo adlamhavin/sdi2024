@@ -1,26 +1,26 @@
 [
   {
-    "periode_data": 202501,
+    "periode_data": 202502,
     "jenis_layanan": "Layanan Arsip Statis",
-    "jumlah": 3,
+    "jumlah": 5,
     "satuan": "orang"
   },
   {
-    "periode_data": 202501,
+    "periode_data": 202502,
     "jenis_layanan": "Layanan Konsultasi Online",
-    "jumlah": 21,
+    "jumlah": 31,
     "satuan": "orang"
   },
   {
-    "periode_data": 202501,
+    "periode_data": 202502,
     "jenis_layanan": "Layanan Konsultasi Offline",
-    "jumlah": 13,
+    "jumlah": 15,
     "satuan": "orang"
   },
   {
-    "periode_data": 202501,
+    "periode_data": 202502,
     "jenis_layanan": "Layanan Kunjungan Sekolah",
-    "jumlah": 0,
+    "jumlah": 182,
     "satuan": "orang"
   }
 ]
