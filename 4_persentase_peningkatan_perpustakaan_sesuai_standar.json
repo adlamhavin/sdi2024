@@ -1,9 +1,9 @@
 [
   {
-    "periode_data": 202503,
-    "triwulan": 1,
-    "jumlah_perpustakaan_umum_snp": "N/A",
-    "jumlah_perpustakaan_umum": "N/A",
-    "persentase": "N/A"
+    "periode_data": 202506,
+    "triwulan": 2,
+    "jumlah_perpustakaan_umum_snp": 3,
+    "jumlah_perpustakaan_umum": 324,
+    "persentase": 0.93
   }
 ]

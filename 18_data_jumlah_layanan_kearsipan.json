@@ -1,30 +1,30 @@
 [
   {
-    "periode_data": 202505,
+    "periode_data": 202506,
     "jenis_layanan": "Layanan Arsip Statis",
-    "jumlah": 3,
+    "jumlah": 6,
     "satuan": "orang"
   },
   {
-    "periode_data": 202505,
+    "periode_data": 202506,
     "jenis_layanan": "Layanan Konsultasi Online",
-    "jumlah": 19,
+    "jumlah": 36,
     "satuan": "orang"
   },
   {
-    "periode_data": 202505,
+    "periode_data": 202506,
     "jenis_layanan": "Layanan Konsultasi Offline",
-    "jumlah": 14,
+    "jumlah": 11,
     "satuan": "orang"
   },
   {
-    "periode_data": 202505,
+    "periode_data": 202506,
     "jenis_layanan": "Layanan Kunjungan Sekolah",
-    "jumlah": 0,
+    "jumlah": 15,
     "satuan": "orang"
   },
   {
-    "periode_data": 202505,
+    "periode_data": 202506,
     "jenis_layanan": "Layanan Arsip Keluarga (LASIGA) atau Digitalsasi Arsip",
     "jumlah": 80,
     "satuan": "orang"
