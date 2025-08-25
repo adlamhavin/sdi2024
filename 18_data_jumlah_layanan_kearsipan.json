@@ -2,13 +2,13 @@
   {
     "periode_data": 202506,
     "jenis_layanan": "Layanan Arsip Statis",
-    "jumlah": 6,
+    "jumlah": 4,
     "satuan": "orang"
   },
   {
     "periode_data": 202506,
     "jenis_layanan": "Layanan Konsultasi Online",
-    "jumlah": 36,
+    "jumlah": 11,
     "satuan": "orang"
   },
   {
@@ -20,13 +20,13 @@
   {
     "periode_data": 202506,
     "jenis_layanan": "Layanan Kunjungan Sekolah",
-    "jumlah": 15,
+    "jumlah": 5,
     "satuan": "orang"
   },
   {
     "periode_data": 202506,
     "jenis_layanan": "Layanan Arsip Keluarga (LASIGA) atau Digitalsasi Arsip",
-    "jumlah": 80,
+    "jumlah": 280,
     "satuan": "orang"
   }
 ]
