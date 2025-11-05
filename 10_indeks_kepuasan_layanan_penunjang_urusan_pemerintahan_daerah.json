@@ -3,30 +3,30 @@
     "periode_data": 202509,
     "triwulan": 3,
     "jenis_layanan": "Layanan Administrasi Umum",
-    "nilai_indeks": 94.220
+    "nilai_indeks": "94.220"
   },
   {
     "periode_data": 202509,
     "triwulan": 3,
     "jenis_layanan": "Layanan Administrasi Keuangan",
-    "nilai_indeks": 94.400
+    "nilai_indeks": "94.400"
   },
   {
     "periode_data": 202509,
     "triwulan": 3,
     "jenis_layanan": "Layanan Pengadaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah",
-    "nilai_indeks": 94.064
+    "nilai_indeks": "94.064"
   },
   {
     "periode_data": 202509,
     "triwulan": 3,
     "jenis_layanan": "Layanan Penyediaan Jasa Penunjang Urusan Pemerintahan Daerah",
-    "nilai_indeks": 94.332
+    "nilai_indeks": "94.332"
   },
   {
     "periode_data": 202509,
     "triwulan": 3,
     "jenis_layanan": "Layanan Pemeliharaan Barang Milik Daerah Penunjang Urusan Pemerintahan Daerah",
-    "nilai_indeks": 94.086
+    "nilai_indeks": "94.086"
   }
 ]
