@@ -1,434 +1,380 @@
 [
   {
-    "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
-    "uraian": "anggota",
-    "satuan": "orang",
-    "jumlah": 46206
+    "uraian": "ANGGOTA",
+    "satuan": "ORANG",
+    "jumlah": 236839
   },
   {
-    "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
-    "uraian": "pengunjung",
-    "satuan": "orang",
-    "jumlah": "528,702"
+    "uraian": "PENGUNJUNG",
+    "satuan": "ORANG",
+    "jumlah": 293499
   },
   {
-    "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
-    "uraian": "koleksi buku",
-    "satuan": "eksemplar",
-    "jumlah": "19,001"
+    "uraian": "KOLEKSI BUKU",
+    "satuan": "EKSEMPLAR",
+    "jumlah": 195448
   },
   {
-    "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
-    "uraian": "fasilitas sistem pengelolaan perpustakaan",
-    "satuan": "sistem",
+    "uraian": "FASILITAS SISTEM PENGELOLAAN PERPUSTAKAAN",
+    "satuan": "SISTEM",
     "jumlah": 1
   },
   {
-    "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
-    "uraian": "perpustakaan berstandar internasional",
-    "satuan": "gedung",
+    "uraian": "PERPUSTAKAAN BERSTANDAR INTERNASIONAL",
+    "satuan": "GEDUNG",
     "jumlah": 0
   },
   {
-    "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
-    "uraian": "perpustakaan berbasis teknologi",
-    "satuan": "perpustakaan",
+    "uraian": "PERPUSTAKAAN BERBASIS TEKNOLOGI",
+    "satuan": "PERPUSTAKAAN",
     "jumlah": 1
   },
   {
-    "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
-    "uraian": "komunitas perpustakaan",
-    "satuan": "organisasi",
-    "jumlah": 0
+    "uraian": "KOMUNITAS PERPUSTAKAAN",
+    "satuan": "ORGANISASI",
+    "jumlah": 3
   },
   {
-    "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
-    "uraian": "taman bacaan masyarakat",
-    "satuan": "sanggar",
+    "uraian": "TAMAN BACAAN MASYARAKAT",
+    "satuan": "SANGGAR",
     "jumlah": 10
   },
   {
-    "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
-    "uraian": "pengguna jasa perpustakaan keliling",
-    "satuan": "orang",
-    "jumlah": "200,937"
+    "uraian": "PENGGUNA JASA PERPUSTAKAAN KELILING",
+    "satuan": "ORANG",
+    "jumlah": 267415
   },
   {
-    "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
-    "uraian": "anggota",
-    "satuan": "orang",
-    "jumlah": "33,112"
+    "uraian": "ANGGOTA",
+    "satuan": "ORANG",
+    "jumlah": 236839
   },
   {
-    "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
-    "uraian": "pengunjung",
-    "satuan": "orang",
-    "jumlah": "567,362"
+    "uraian": "PENGUNJUNG",
+    "satuan": "ORANG",
+    "jumlah": 165975
   },
   {
-    "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
-    "uraian": "koleksi buku",
-    "satuan": "eksemplar",
-    "jumlah": "156,912"
+    "uraian": "KOLEKSI BUKU",
+    "satuan": "EKSEMPLAR",
+    "jumlah": 175912
   },
   {
-    "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
-    "uraian": "fasilitas sistem pengelolaan perpustakaan",
-    "satuan": "sistem",
+    "uraian": "FASILITAS SISTEM PENGELOLAAN PERPUSTAKAAN",
+    "satuan": "SISTEM",
     "jumlah": 1
   },
   {
-    "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
-    "uraian": "perpustakaan berstandar internasional",
-    "satuan": "gedung",
+    "uraian": "PERPUSTAKAAN BERSTANDAR INTERNASIONAL",
+    "satuan": "GEDUNG",
     "jumlah": 0
   },
   {
-    "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
-    "uraian": "perpustakaan berbasis teknologi",
-    "satuan": "perpustakaan",
+    "uraian": "PERPUSTAKAAN BERBASIS TEKNOLOGI",
+    "satuan": "PERPUSTAKAAN",
     "jumlah": 1
   },
   {
-    "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
-    "uraian": "komunitas perpustakaan",
-    "satuan": "organisasi",
+    "uraian": "KOMUNITAS PERPUSTAKAAN",
+    "satuan": "ORGANISASI",
     "jumlah": 3
   },
   {
-    "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
-    "uraian": "taman bacaan masyarakat",
-    "satuan": "sanggar",
-    "jumlah": 16
+    "uraian": "TAMAN BACAAN MASYARAKAT",
+    "satuan": "SANGGAR",
+    "jumlah": 22
   },
   {
-    "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
-    "uraian": "pengguna jasa perpustakaan keliling",
-    "satuan": "orang",
-    "jumlah": "144,991"
+    "uraian": "PENGGUNA JASA PERPUSTAKAAN KELILING",
+    "satuan": "ORANG",
+    "jumlah": 132584
   },
   {
-    "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
-    "uraian": "anggota",
-    "satuan": "orang",
-    "jumlah": "37,712"
+    "uraian": "ANGGOTA",
+    "satuan": "ORANG",
+    "jumlah": 236839
   },
   {
-    "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
-    "uraian": "pengunjung",
-    "satuan": "orang",
-    "jumlah": "650,048"
+    "uraian": "PENGUNJUNG",
+    "satuan": "ORANG",
+    "jumlah": 201891
   },
   {
-    "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
-    "uraian": "koleksi buku",
-    "satuan": "eksemplar",
-    "jumlah": "173,865"
+    "uraian": "KOLEKSI BUKU",
+    "satuan": "EKSEMPLAR",
+    "jumlah": 192865
   },
   {
-    "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
-    "uraian": "fasilitas sistem pengelolaan perpustakaan",
-    "satuan": "sistem",
+    "uraian": "FASILITAS SISTEM PENGELOLAAN PERPUSTAKAAN",
+    "satuan": "SISTEM",
     "jumlah": 1
   },
   {
-    "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
-    "uraian": "perpustakaan berstandar internasional",
-    "satuan": "gedung",
+    "uraian": "PERPUSTAKAAN BERSTANDAR INTERNASIONAL",
+    "satuan": "GEDUNG",
     "jumlah": 0
   },
   {
-    "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
-    "uraian": "perpustakaan berbasis teknologi",
-    "satuan": "perpustakaan",
+    "uraian": "PERPUSTAKAAN BERBASIS TEKNOLOGI",
+    "satuan": "PERPUSTAKAAN",
     "jumlah": 1
   },
   {
-    "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
-    "uraian": "komunitas perpustakaan",
-    "satuan": "organisasi",
-    "jumlah": 1
-  },
-  {
-    "periode_data": 2024,
-    "wilayah": "KOTA ADM. JAKARTA BARAT",
-    "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
-    "uraian": "taman bacaan masyarakat",
-    "satuan": "sanggar",
-    "jumlah": 12
-  },
-  {
-    "periode_data": 2024,
-    "wilayah": "KOTA ADM. JAKARTA BARAT",
-    "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
-    "uraian": "pengguna jasa perpustakaan keliling",
-    "satuan": "orang",
-    "jumlah": "141,179"
-  },
-  {
-    "periode_data": 2024,
-    "wilayah": "KOTA ADM. JAKARTA SELATAN",
-    "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
-    "uraian": "anggota",
-    "satuan": "orang",
-    "jumlah": "51,569"
-  },
-  {
-    "periode_data": 2024,
-    "wilayah": "KOTA ADM. JAKARTA SELATAN",
-    "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
-    "uraian": "pengunjung",
-    "satuan": "orang",
-    "jumlah": "521,089"
-  },
-  {
-    "periode_data": 2024,
-    "wilayah": "KOTA ADM. JAKARTA SELATAN",
-    "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
-    "uraian": "koleksi buku",
-    "satuan": "eksemplar",
-    "jumlah": "19,101"
-  },
-  {
-    "periode_data": 2024,
-    "wilayah": "KOTA ADM. JAKARTA SELATAN",
-    "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
-    "uraian": "fasilitas sistem pengelolaan perpustakaan",
-    "satuan": "sistem",
-    "jumlah": 1
-  },
-  {
-    "periode_data": 2024,
-    "wilayah": "KOTA ADM. JAKARTA SELATAN",
-    "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
-    "uraian": "perpustakaan berstandar internasional",
-    "satuan": "gedung",
-    "jumlah": 0
-  },
-  {
-    "periode_data": 2024,
-    "wilayah": "KOTA ADM. JAKARTA SELATAN",
-    "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
-    "uraian": "perpustakaan berbasis teknologi",
-    "satuan": "perpustakaan",
-    "jumlah": 0
-  },
-  {
-    "periode_data": 2024,
-    "wilayah": "KOTA ADM. JAKARTA SELATAN",
-    "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
-    "uraian": "komunitas perpustakaan",
-    "satuan": "organisasi",
-    "jumlah": 6
-  },
-  {
-    "periode_data": 2024,
-    "wilayah": "KOTA ADM. JAKARTA SELATAN",
-    "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
-    "uraian": "taman bacaan masyarakat",
-    "satuan": "sanggar",
-    "jumlah": 16
-  },
-  {
-    "periode_data": 2024,
-    "wilayah": "KOTA ADM. JAKARTA SELATAN",
-    "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
-    "uraian": "pengguna jasa perpustakaan keliling",
-    "satuan": "orang",
-    "jumlah": "119,298"
-  },
-  {
-    "periode_data": 2024,
-    "wilayah": "KOTA ADM. JAKARTA TIMUR",
-    "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
-    "uraian": "anggota",
-    "satuan": "orang",
-    "jumlah": "75,243"
-  },
-  {
-    "periode_data": 2024,
-    "wilayah": "KOTA ADM. JAKARTA TIMUR",
-    "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
-    "uraian": "pengunjung",
-    "satuan": "orang",
-    "jumlah": "1,498,400"
-  },
-  {
-    "periode_data": 2024,
-    "wilayah": "KOTA ADM. JAKARTA TIMUR",
-    "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
-    "uraian": "koleksi buku",
-    "satuan": "eksemplar",
-    "jumlah": "151,588"
-  },
-  {
-    "periode_data": 2024,
-    "wilayah": "KOTA ADM. JAKARTA TIMUR",
-    "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
-    "uraian": "fasilitas sistem pengelolaan perpustakaan",
-    "satuan": "sistem",
-    "jumlah": 1
-  },
-  {
-    "periode_data": 2024,
-    "wilayah": "KOTA ADM. JAKARTA TIMUR",
-    "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
-    "uraian": "perpustakaan berstandar internasional",
-    "satuan": "gedung",
-    "jumlah": 0
-  },
-  {
-    "periode_data": 2024,
-    "wilayah": "KOTA ADM. JAKARTA TIMUR",
-    "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
-    "uraian": "perpustakaan berbasis teknologi",
-    "satuan": "perpustakaan",
+    "uraian": "KOMUNITAS PERPUSTAKAAN",
+    "satuan": "ORGANISASI",
     "jumlah": 3
   },
   {
-    "periode_data": 2024,
-    "wilayah": "KOTA ADM. JAKARTA TIMUR",
-    "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
-    "uraian": "komunitas perpustakaan",
-    "satuan": "organisasi",
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
+    "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
+    "uraian": "TAMAN BACAAN MASYARAKAT",
+    "satuan": "SANGGAR",
+    "jumlah": 13
+  },
+  {
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
+    "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
+    "uraian": "PENGGUNA JASA PERPUSTAKAAN KELILING",
+    "satuan": "ORANG",
+    "jumlah": 158567
+  },
+  {
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
+    "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
+    "uraian": "ANGGOTA",
+    "satuan": "ORANG",
+    "jumlah": 236839
+  },
+  {
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
+    "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
+    "uraian": "PENGUNJUNG",
+    "satuan": "ORANG",
+    "jumlah": 165367
+  },
+  {
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
+    "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
+    "uraian": "KOLEKSI BUKU",
+    "satuan": "EKSEMPLAR",
+    "jumlah": 231678
+  },
+  {
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
+    "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
+    "uraian": "FASILITAS SISTEM PENGELOLAAN PERPUSTAKAAN",
+    "satuan": "SISTEM",
+    "jumlah": 1
+  },
+  {
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
+    "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
+    "uraian": "PERPUSTAKAAN BERSTANDAR INTERNASIONAL",
+    "satuan": "GEDUNG",
+    "jumlah": 0
+  },
+  {
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
+    "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
+    "uraian": "PERPUSTAKAAN BERBASIS TEKNOLOGI",
+    "satuan": "PERPUSTAKAAN",
+    "jumlah": 1
+  },
+  {
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
+    "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
+    "uraian": "KOMUNITAS PERPUSTAKAAN",
+    "satuan": "ORGANISASI",
     "jumlah": 6
   },
   {
-    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
+    "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
+    "uraian": "TAMAN BACAAN MASYARAKAT",
+    "satuan": "SANGGAR",
+    "jumlah": 33
+  },
+  {
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
+    "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
+    "uraian": "PENGGUNA JASA PERPUSTAKAAN KELILING",
+    "satuan": "ORANG",
+    "jumlah": 144043
+  },
+  {
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
-    "uraian": "taman bacaan masyarakat",
-    "satuan": "sanggar",
-    "jumlah": 14
+    "uraian": "ANGGOTA",
+    "satuan": "ORANG",
+    "jumlah": 236839
   },
   {
-    "periode_data": 2024,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
-    "uraian": "pengguna jasa perpustakaan keliling",
-    "satuan": "orang",
-    "jumlah": "172,288"
+    "uraian": "PENGUNJUNG",
+    "satuan": "ORANG",
+    "jumlah": 309226
   },
   {
-    "periode_data": 2024,
-    "wilayah": "KAB. ADM. KEP. SERIBU",
-    "nama_perpustakaan": "KABUPATEN KEPULAUAN SERIBU",
-    "uraian": "anggota",
-    "satuan": "orang",
-    "jumlah": 5341
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
+    "uraian": "KOLEKSI BUKU",
+    "satuan": "EKSEMPLAR",
+    "jumlah": 170588
   },
   {
-    "periode_data": 2024,
-    "wilayah": "KAB. ADM. KEP. SERIBU",
-    "nama_perpustakaan": "KABUPATEN KEPULAUAN SERIBU",
-    "uraian": "pengunjung",
-    "satuan": "orang",
-    "jumlah": "62,886"
-  },
-  {
-    "periode_data": 2024,
-    "wilayah": "KAB. ADM. KEP. SERIBU",
-    "nama_perpustakaan": "KABUPATEN KEPULAUAN SERIBU",
-    "uraian": "koleksi buku",
-    "satuan": "eksemplar",
-    "jumlah": "39,127"
-  },
-  {
-    "periode_data": 2024,
-    "wilayah": "KAB. ADM. KEP. SERIBU",
-    "nama_perpustakaan": "KABUPATEN KEPULAUAN SERIBU",
-    "uraian": "fasilitas sistem pengelolaan perpustakaan",
-    "satuan": "sistem",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
+    "uraian": "FASILITAS SISTEM PENGELOLAAN PERPUSTAKAAN",
+    "satuan": "SISTEM",
     "jumlah": 1
   },
   {
-    "periode_data": 2024,
-    "wilayah": "KAB. ADM. KEP. SERIBU",
-    "nama_perpustakaan": "KABUPATEN KEPULAUAN SERIBU",
-    "uraian": "perpustakaan berstandar internasional",
-    "satuan": "gedung",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
+    "uraian": "PERPUSTAKAAN BERSTANDAR INTERNASIONAL",
+    "satuan": "GEDUNG",
     "jumlah": 0
   },
   {
-    "periode_data": 2024,
-    "wilayah": "KAB. ADM. KEP. SERIBU",
-    "nama_perpustakaan": "KABUPATEN KEPULAUAN SERIBU",
-    "uraian": "perpustakaan berbasis teknologi",
-    "satuan": "perpustakaan",
-    "jumlah": 0
-  },
-  {
-    "periode_data": 2024,
-    "wilayah": "KAB. ADM. KEP. SERIBU",
-    "nama_perpustakaan": "KABUPATEN KEPULAUAN SERIBU",
-    "uraian": "komunitas perpustakaan",
-    "satuan": "organisasi",
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
+    "uraian": "PERPUSTAKAAN BERBASIS TEKNOLOGI",
+    "satuan": "PERPUSTAKAAN",
     "jumlah": 1
   },
   {
-    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
+    "uraian": "KOMUNITAS PERPUSTAKAAN",
+    "satuan": "ORGANISASI",
+    "jumlah": 6
+  },
+  {
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
+    "uraian": "TAMAN BACAAN MASYARAKAT",
+    "satuan": "SANGGAR",
+    "jumlah": 35
+  },
+  {
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
+    "uraian": "PENGGUNA JASA PERPUSTAKAAN KELILING",
+    "satuan": "ORANG",
+    "jumlah": 225324
+  },
+  {
     "wilayah": "KAB. ADM. KEP. SERIBU",
     "nama_perpustakaan": "KABUPATEN KEPULAUAN SERIBU",
-    "uraian": "taman bacaan masyarakat",
-    "satuan": "sanggar",
+    "uraian": "ANGGOTA",
+    "satuan": "ORANG",
+    "jumlah": 5539
+  },
+  {
+    "wilayah": "KAB. ADM. KEP. SERIBU",
+    "nama_perpustakaan": "KABUPATEN KEPULAUAN SERIBU",
+    "uraian": "PENGUNJUNG",
+    "satuan": "ORANG",
+    "jumlah": 62980
+  },
+  {
+    "wilayah": "KAB. ADM. KEP. SERIBU",
+    "nama_perpustakaan": "KABUPATEN KEPULAUAN SERIBU",
+    "uraian": "KOLEKSI BUKU",
+    "satuan": "EKSEMPLAR",
+    "jumlah": 37077
+  },
+  {
+    "wilayah": "KAB. ADM. KEP. SERIBU",
+    "nama_perpustakaan": "KABUPATEN KEPULAUAN SERIBU",
+    "uraian": "FASILITAS SISTEM PENGELOLAAN PERPUSTAKAAN",
+    "satuan": "SISTEM",
+    "jumlah": 1
+  },
+  {
+    "wilayah": "KAB. ADM. KEP. SERIBU",
+    "nama_perpustakaan": "KABUPATEN KEPULAUAN SERIBU",
+    "uraian": "PERPUSTAKAAN BERSTANDAR INTERNASIONAL",
+    "satuan": "GEDUNG",
+    "jumlah": 0
+  },
+  {
+    "wilayah": "KAB. ADM. KEP. SERIBU",
+    "nama_perpustakaan": "KABUPATEN KEPULAUAN SERIBU",
+    "uraian": "PERPUSTAKAAN BERBASIS TEKNOLOGI",
+    "satuan": "PERPUSTAKAAN",
+    "jumlah": 0
+  },
+  {
+    "wilayah": "KAB. ADM. KEP. SERIBU",
+    "nama_perpustakaan": "KABUPATEN KEPULAUAN SERIBU",
+    "uraian": "KOMUNITAS PERPUSTAKAAN",
+    "satuan": "ORGANISASI",
+    "jumlah": 1
+  },
+  {
+    "wilayah": "KAB. ADM. KEP. SERIBU",
+    "nama_perpustakaan": "KABUPATEN KEPULAUAN SERIBU",
+    "uraian": "TAMAN BACAAN MASYARAKAT",
+    "satuan": "SANGGAR",
     "jumlah": 2
   },
   {
-    "periode_data": 2024,
     "wilayah": "KAB. ADM. KEP. SERIBU",
     "nama_perpustakaan": "KABUPATEN KEPULAUAN SERIBU",
-    "uraian": "pengguna jasa perpustakaan keliling",
-    "satuan": "orang",
-    "jumlah": "43,750"
+    "uraian": "PENGGUNA JASA PERPUSTAKAAN KELILING",
+    "satuan": "ORANG",
+    "jumlah": 63627
   }
 ]
