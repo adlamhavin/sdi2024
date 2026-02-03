@@ -1,9 +1,9 @@
 [
   {
-    "periode_data": 2024,
-    "nilai_pengawasan_internal": 37.86,
-    "nilai_pengawasan_eksternal": 55.25,
-    "nilai_akhir": 93.11,
+    "periode_data": 2025,
+    "nilai_pengawasan_internal": "n/a",
+    "nilai_pengawasan_eksternal": "n/a",
+    "nilai_akhir": 94.36,
     "kategori_nilai": "AA"
   }
 ]
