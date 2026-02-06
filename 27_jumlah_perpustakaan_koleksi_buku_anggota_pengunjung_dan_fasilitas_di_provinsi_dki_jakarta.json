@@ -1,377 +1,539 @@
 [
   {
+    "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
+    "kecamatan": "GAMBIR",
+    "kelurahan": "PETOJO SELATAN",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
     "uraian": "ANGGOTA",
     "satuan": "ORANG",
     "jumlah": 236839
   },
   {
+    "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
+    "kecamatan": "GAMBIR",
+    "kelurahan": "PETOJO SELATAN",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
     "uraian": "PENGUNJUNG",
     "satuan": "ORANG",
     "jumlah": 293499
   },
   {
+    "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
+    "kecamatan": "GAMBIR",
+    "kelurahan": "PETOJO SELATAN",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
     "uraian": "KOLEKSI BUKU",
     "satuan": "EKSEMPLAR",
     "jumlah": 195448
   },
   {
+    "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
+    "kecamatan": "GAMBIR",
+    "kelurahan": "PETOJO SELATAN",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
     "uraian": "FASILITAS SISTEM PENGELOLAAN PERPUSTAKAAN",
     "satuan": "SISTEM",
     "jumlah": 1
   },
   {
+    "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
+    "kecamatan": "GAMBIR",
+    "kelurahan": "PETOJO SELATAN",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
     "uraian": "PERPUSTAKAAN BERSTANDAR INTERNASIONAL",
     "satuan": "GEDUNG",
     "jumlah": 0
   },
   {
+    "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
+    "kecamatan": "GAMBIR",
+    "kelurahan": "PETOJO SELATAN",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
     "uraian": "PERPUSTAKAAN BERBASIS TEKNOLOGI",
     "satuan": "PERPUSTAKAAN",
     "jumlah": 1
   },
   {
+    "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
+    "kecamatan": "GAMBIR",
+    "kelurahan": "PETOJO SELATAN",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
     "uraian": "KOMUNITAS PERPUSTAKAAN",
     "satuan": "ORGANISASI",
     "jumlah": 3
   },
   {
+    "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
+    "kecamatan": "GAMBIR",
+    "kelurahan": "PETOJO SELATAN",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
     "uraian": "TAMAN BACAAN MASYARAKAT",
     "satuan": "SANGGAR",
     "jumlah": 10
   },
   {
+    "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
+    "kecamatan": "GAMBIR",
+    "kelurahan": "PETOJO SELATAN",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
     "uraian": "PENGGUNA JASA PERPUSTAKAAN KELILING",
     "satuan": "ORANG",
     "jumlah": 267415
   },
   {
+    "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA UTARA",
+    "kecamatan": "KOJA",
+    "kelurahan": "TUGU SELATAN",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
     "uraian": "ANGGOTA",
     "satuan": "ORANG",
     "jumlah": 236839
   },
   {
+    "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA UTARA",
+    "kecamatan": "KOJA",
+    "kelurahan": "TUGU SELATAN",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
     "uraian": "PENGUNJUNG",
     "satuan": "ORANG",
     "jumlah": 165975
   },
   {
+    "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA UTARA",
+    "kecamatan": "KOJA",
+    "kelurahan": "TUGU SELATAN",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
     "uraian": "KOLEKSI BUKU",
     "satuan": "EKSEMPLAR",
     "jumlah": 175912
   },
   {
+    "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA UTARA",
+    "kecamatan": "KOJA",
+    "kelurahan": "TUGU SELATAN",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
     "uraian": "FASILITAS SISTEM PENGELOLAAN PERPUSTAKAAN",
     "satuan": "SISTEM",
     "jumlah": 1
   },
   {
+    "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA UTARA",
+    "kecamatan": "KOJA",
+    "kelurahan": "TUGU SELATAN",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
     "uraian": "PERPUSTAKAAN BERSTANDAR INTERNASIONAL",
     "satuan": "GEDUNG",
     "jumlah": 0
   },
   {
+    "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA UTARA",
+    "kecamatan": "KOJA",
+    "kelurahan": "TUGU SELATAN",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
     "uraian": "PERPUSTAKAAN BERBASIS TEKNOLOGI",
     "satuan": "PERPUSTAKAAN",
     "jumlah": 1
   },
   {
+    "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA UTARA",
+    "kecamatan": "KOJA",
+    "kelurahan": "TUGU SELATAN",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
     "uraian": "KOMUNITAS PERPUSTAKAAN",
     "satuan": "ORGANISASI",
     "jumlah": 3
   },
   {
+    "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA UTARA",
+    "kecamatan": "KOJA",
+    "kelurahan": "TUGU SELATAN",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
     "uraian": "TAMAN BACAAN MASYARAKAT",
     "satuan": "SANGGAR",
     "jumlah": 22
   },
   {
+    "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA UTARA",
+    "kecamatan": "KOJA",
+    "kelurahan": "TUGU SELATAN",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
     "uraian": "PENGGUNA JASA PERPUSTAKAAN KELILING",
     "satuan": "ORANG",
     "jumlah": 132584
   },
   {
+    "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
+    "kecamatan": "KEBON JERUK",
+    "kelurahan": "DURI KEPA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
     "uraian": "ANGGOTA",
     "satuan": "ORANG",
     "jumlah": 236839
   },
   {
+    "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
+    "kecamatan": "KEBON JERUK",
+    "kelurahan": "DURI KEPA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
     "uraian": "PENGUNJUNG",
     "satuan": "ORANG",
     "jumlah": 201891
   },
   {
+    "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
+    "kecamatan": "KEBON JERUK",
+    "kelurahan": "DURI KEPA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
     "uraian": "KOLEKSI BUKU",
     "satuan": "EKSEMPLAR",
     "jumlah": 192865
   },
   {
+    "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
+    "kecamatan": "KEBON JERUK",
+    "kelurahan": "DURI KEPA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
     "uraian": "FASILITAS SISTEM PENGELOLAAN PERPUSTAKAAN",
     "satuan": "SISTEM",
     "jumlah": 1
   },
   {
+    "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
+    "kecamatan": "KEBON JERUK",
+    "kelurahan": "DURI KEPA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
     "uraian": "PERPUSTAKAAN BERSTANDAR INTERNASIONAL",
     "satuan": "GEDUNG",
     "jumlah": 0
   },
   {
+    "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
+    "kecamatan": "KEBON JERUK",
+    "kelurahan": "DURI KEPA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
     "uraian": "PERPUSTAKAAN BERBASIS TEKNOLOGI",
     "satuan": "PERPUSTAKAAN",
     "jumlah": 1
   },
   {
+    "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
+    "kecamatan": "KEBON JERUK",
+    "kelurahan": "DURI KEPA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
     "uraian": "KOMUNITAS PERPUSTAKAAN",
     "satuan": "ORGANISASI",
     "jumlah": 3
   },
   {
+    "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
+    "kecamatan": "KEBON JERUK",
+    "kelurahan": "DURI KEPA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
     "uraian": "TAMAN BACAAN MASYARAKAT",
     "satuan": "SANGGAR",
     "jumlah": 13
   },
   {
+    "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
+    "kecamatan": "KEBON JERUK",
+    "kelurahan": "DURI KEPA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
     "uraian": "PENGGUNA JASA PERPUSTAKAAN KELILING",
     "satuan": "ORANG",
     "jumlah": 158567
   },
   {
+    "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
+    "kecamatan": "KEBAYORAN BARU",
+    "kelurahan": "KRAMAT PELA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
     "uraian": "ANGGOTA",
     "satuan": "ORANG",
     "jumlah": 236839
   },
   {
+    "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
+    "kecamatan": "KEBAYORAN BARU",
+    "kelurahan": "KRAMAT PELA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
     "uraian": "PENGUNJUNG",
     "satuan": "ORANG",
     "jumlah": 165367
   },
   {
+    "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
+    "kecamatan": "KEBAYORAN BARU",
+    "kelurahan": "KRAMAT PELA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
     "uraian": "KOLEKSI BUKU",
     "satuan": "EKSEMPLAR",
     "jumlah": 231678
   },
   {
+    "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
+    "kecamatan": "KEBAYORAN BARU",
+    "kelurahan": "KRAMAT PELA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
     "uraian": "FASILITAS SISTEM PENGELOLAAN PERPUSTAKAAN",
     "satuan": "SISTEM",
     "jumlah": 1
   },
   {
+    "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
+    "kecamatan": "KEBAYORAN BARU",
+    "kelurahan": "KRAMAT PELA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
     "uraian": "PERPUSTAKAAN BERSTANDAR INTERNASIONAL",
     "satuan": "GEDUNG",
     "jumlah": 0
   },
   {
+    "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
+    "kecamatan": "KEBAYORAN BARU",
+    "kelurahan": "KRAMAT PELA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
     "uraian": "PERPUSTAKAAN BERBASIS TEKNOLOGI",
     "satuan": "PERPUSTAKAAN",
     "jumlah": 1
   },
   {
+    "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
+    "kecamatan": "KEBAYORAN BARU",
+    "kelurahan": "KRAMAT PELA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
     "uraian": "KOMUNITAS PERPUSTAKAAN",
     "satuan": "ORGANISASI",
     "jumlah": 6
   },
   {
+    "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
+    "kecamatan": "KEBAYORAN BARU",
+    "kelurahan": "KRAMAT PELA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
     "uraian": "TAMAN BACAAN MASYARAKAT",
     "satuan": "SANGGAR",
     "jumlah": 33
   },
   {
+    "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
+    "kecamatan": "KEBAYORAN BARU",
+    "kelurahan": "KRAMAT PELA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
     "uraian": "PENGGUNA JASA PERPUSTAKAAN KELILING",
     "satuan": "ORANG",
     "jumlah": 144043
   },
   {
+    "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "kecamatan": "JATINEGARA",
+    "kelurahan": "RAWA BUNGA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
     "uraian": "ANGGOTA",
     "satuan": "ORANG",
     "jumlah": 236839
   },
   {
+    "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "kecamatan": "JATINEGARA",
+    "kelurahan": "RAWA BUNGA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
     "uraian": "PENGUNJUNG",
     "satuan": "ORANG",
     "jumlah": 309226
   },
   {
+    "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "kecamatan": "JATINEGARA",
+    "kelurahan": "RAWA BUNGA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
     "uraian": "KOLEKSI BUKU",
     "satuan": "EKSEMPLAR",
     "jumlah": 170588
   },
   {
+    "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "kecamatan": "JATINEGARA",
+    "kelurahan": "RAWA BUNGA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
     "uraian": "FASILITAS SISTEM PENGELOLAAN PERPUSTAKAAN",
     "satuan": "SISTEM",
     "jumlah": 1
   },
   {
+    "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "kecamatan": "JATINEGARA",
+    "kelurahan": "RAWA BUNGA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
     "uraian": "PERPUSTAKAAN BERSTANDAR INTERNASIONAL",
     "satuan": "GEDUNG",
     "jumlah": 0
   },
   {
+    "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "kecamatan": "JATINEGARA",
+    "kelurahan": "RAWA BUNGA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
     "uraian": "PERPUSTAKAAN BERBASIS TEKNOLOGI",
     "satuan": "PERPUSTAKAAN",
     "jumlah": 1
   },
   {
+    "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "kecamatan": "JATINEGARA",
+    "kelurahan": "RAWA BUNGA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
     "uraian": "KOMUNITAS PERPUSTAKAAN",
     "satuan": "ORGANISASI",
     "jumlah": 6
   },
   {
+    "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "kecamatan": "JATINEGARA",
+    "kelurahan": "RAWA BUNGA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
     "uraian": "TAMAN BACAAN MASYARAKAT",
     "satuan": "SANGGAR",
     "jumlah": 35
   },
   {
+    "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "kecamatan": "JATINEGARA",
+    "kelurahan": "RAWA BUNGA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
     "uraian": "PENGGUNA JASA PERPUSTAKAAN KELILING",
     "satuan": "ORANG",
     "jumlah": 225324
   },
   {
+    "periode_data": 2025,
     "wilayah": "KAB. ADM. KEP. SERIBU",
+    "kecamatan": "KEPULAUAN SERIBU UTARA",
+    "kelurahan": "PULAU PANGGANG",
     "nama_perpustakaan": "KABUPATEN KEPULAUAN SERIBU",
     "uraian": "ANGGOTA",
     "satuan": "ORANG",
     "jumlah": 5539
   },
   {
+    "periode_data": 2025,
     "wilayah": "KAB. ADM. KEP. SERIBU",
+    "kecamatan": "KEPULAUAN SERIBU UTARA",
+    "kelurahan": "PULAU PANGGANG",
     "nama_perpustakaan": "KABUPATEN KEPULAUAN SERIBU",
     "uraian": "PENGUNJUNG",
     "satuan": "ORANG",
     "jumlah": 62980
   },
   {
+    "periode_data": 2025,
     "wilayah": "KAB. ADM. KEP. SERIBU",
+    "kecamatan": "KEPULAUAN SERIBU UTARA",
+    "kelurahan": "PULAU PANGGANG",
     "nama_perpustakaan": "KABUPATEN KEPULAUAN SERIBU",
     "uraian": "KOLEKSI BUKU",
     "satuan": "EKSEMPLAR",
     "jumlah": 37077
   },
   {
+    "periode_data": 2025,
     "wilayah": "KAB. ADM. KEP. SERIBU",
+    "kecamatan": "KEPULAUAN SERIBU UTARA",
+    "kelurahan": "PULAU PANGGANG",
     "nama_perpustakaan": "KABUPATEN KEPULAUAN SERIBU",
     "uraian": "FASILITAS SISTEM PENGELOLAAN PERPUSTAKAAN",
     "satuan": "SISTEM",
     "jumlah": 1
   },
   {
+    "periode_data": 2025,
     "wilayah": "KAB. ADM. KEP. SERIBU",
+    "kecamatan": "KEPULAUAN SERIBU UTARA",
+    "kelurahan": "PULAU PANGGANG",
     "nama_perpustakaan": "KABUPATEN KEPULAUAN SERIBU",
     "uraian": "PERPUSTAKAAN BERSTANDAR INTERNASIONAL",
     "satuan": "GEDUNG",
     "jumlah": 0
   },
   {
+    "periode_data": 2025,
     "wilayah": "KAB. ADM. KEP. SERIBU",
+    "kecamatan": "KEPULAUAN SERIBU UTARA",
+    "kelurahan": "PULAU PANGGANG",
     "nama_perpustakaan": "KABUPATEN KEPULAUAN SERIBU",
     "uraian": "PERPUSTAKAAN BERBASIS TEKNOLOGI",
     "satuan": "PERPUSTAKAAN",
     "jumlah": 0
   },
   {
+    "periode_data": 2025,
     "wilayah": "KAB. ADM. KEP. SERIBU",
+    "kecamatan": "KEPULAUAN SERIBU UTARA",
+    "kelurahan": "PULAU PANGGANG",
     "nama_perpustakaan": "KABUPATEN KEPULAUAN SERIBU",
     "uraian": "KOMUNITAS PERPUSTAKAAN",
     "satuan": "ORGANISASI",
     "jumlah": 1
   },
   {
+    "periode_data": 2025,
     "wilayah": "KAB. ADM. KEP. SERIBU",
+    "kecamatan": "KEPULAUAN SERIBU UTARA",
+    "kelurahan": "PULAU PANGGANG",
     "nama_perpustakaan": "KABUPATEN KEPULAUAN SERIBU",
     "uraian": "TAMAN BACAAN MASYARAKAT",
     "satuan": "SANGGAR",
     "jumlah": 2
   },
   {
+    "periode_data": 2025,
     "wilayah": "KAB. ADM. KEP. SERIBU",
+    "kecamatan": "KEPULAUAN SERIBU UTARA",
+    "kelurahan": "PULAU PANGGANG",
     "nama_perpustakaan": "KABUPATEN KEPULAUAN SERIBU",
     "uraian": "PENGGUNA JASA PERPUSTAKAAN KELILING",
     "satuan": "ORANG",
