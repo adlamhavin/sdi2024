@@ -5,6 +5,7 @@
     "kecamatan": "GAMBIR",
     "kelurahan": "PETOJO SELATAN",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
+    "alamat": "JL. TANAH ABANG I NO.1, RT.11/RW.8",
     "uraian": "ANGGOTA",
     "satuan": "ORANG",
     "jumlah": 236839
@@ -15,6 +16,7 @@
     "kecamatan": "GAMBIR",
     "kelurahan": "PETOJO SELATAN",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
+    "alamat": "JL. TANAH ABANG I NO.1, RT.11/RW.8",
     "uraian": "PENGUNJUNG",
     "satuan": "ORANG",
     "jumlah": 293499
@@ -25,6 +27,7 @@
     "kecamatan": "GAMBIR",
     "kelurahan": "PETOJO SELATAN",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
+    "alamat": "JL. TANAH ABANG I NO.1, RT.11/RW.8",
     "uraian": "KOLEKSI BUKU",
     "satuan": "EKSEMPLAR",
     "jumlah": 195448
@@ -35,6 +38,7 @@
     "kecamatan": "GAMBIR",
     "kelurahan": "PETOJO SELATAN",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
+    "alamat": "JL. TANAH ABANG I NO.1, RT.11/RW.8",
     "uraian": "FASILITAS SISTEM PENGELOLAAN PERPUSTAKAAN",
     "satuan": "SISTEM",
     "jumlah": 1
@@ -45,6 +49,7 @@
     "kecamatan": "GAMBIR",
     "kelurahan": "PETOJO SELATAN",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
+    "alamat": "JL. TANAH ABANG I NO.1, RT.11/RW.8",
     "uraian": "PERPUSTAKAAN BERSTANDAR INTERNASIONAL",
     "satuan": "GEDUNG",
     "jumlah": 0
@@ -55,6 +60,7 @@
     "kecamatan": "GAMBIR",
     "kelurahan": "PETOJO SELATAN",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
+    "alamat": "JL. TANAH ABANG I NO.1, RT.11/RW.8",
     "uraian": "PERPUSTAKAAN BERBASIS TEKNOLOGI",
     "satuan": "PERPUSTAKAAN",
     "jumlah": 1
@@ -65,6 +71,7 @@
     "kecamatan": "GAMBIR",
     "kelurahan": "PETOJO SELATAN",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
+    "alamat": "JL. TANAH ABANG I NO.1, RT.11/RW.8",
     "uraian": "KOMUNITAS PERPUSTAKAAN",
     "satuan": "ORGANISASI",
     "jumlah": 3
@@ -75,6 +82,7 @@
     "kecamatan": "GAMBIR",
     "kelurahan": "PETOJO SELATAN",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
+    "alamat": "JL. TANAH ABANG I NO.1, RT.11/RW.8",
     "uraian": "TAMAN BACAAN MASYARAKAT",
     "satuan": "SANGGAR",
     "jumlah": 10
@@ -85,6 +93,7 @@
     "kecamatan": "GAMBIR",
     "kelurahan": "PETOJO SELATAN",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA PUSAT",
+    "alamat": "JL. TANAH ABANG I NO.1, RT.11/RW.8",
     "uraian": "PENGGUNA JASA PERPUSTAKAAN KELILING",
     "satuan": "ORANG",
     "jumlah": 267415
@@ -95,6 +104,7 @@
     "kecamatan": "KOJA",
     "kelurahan": "TUGU SELATAN",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
+    "alamat": "JL. LOGISTIK NO.2, RT.4/RW.4",
     "uraian": "ANGGOTA",
     "satuan": "ORANG",
     "jumlah": 236839
@@ -105,6 +115,7 @@
     "kecamatan": "KOJA",
     "kelurahan": "TUGU SELATAN",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
+    "alamat": "JL. LOGISTIK NO.2, RT.4/RW.4",
     "uraian": "PENGUNJUNG",
     "satuan": "ORANG",
     "jumlah": 165975
@@ -115,6 +126,7 @@
     "kecamatan": "KOJA",
     "kelurahan": "TUGU SELATAN",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
+    "alamat": "JL. LOGISTIK NO.2, RT.4/RW.4",
     "uraian": "KOLEKSI BUKU",
     "satuan": "EKSEMPLAR",
     "jumlah": 175912
@@ -125,6 +137,7 @@
     "kecamatan": "KOJA",
     "kelurahan": "TUGU SELATAN",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
+    "alamat": "JL. LOGISTIK NO.2, RT.4/RW.4",
     "uraian": "FASILITAS SISTEM PENGELOLAAN PERPUSTAKAAN",
     "satuan": "SISTEM",
     "jumlah": 1
@@ -135,6 +148,7 @@
     "kecamatan": "KOJA",
     "kelurahan": "TUGU SELATAN",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
+    "alamat": "JL. LOGISTIK NO.2, RT.4/RW.4",
     "uraian": "PERPUSTAKAAN BERSTANDAR INTERNASIONAL",
     "satuan": "GEDUNG",
     "jumlah": 0
@@ -145,6 +159,7 @@
     "kecamatan": "KOJA",
     "kelurahan": "TUGU SELATAN",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
+    "alamat": "JL. LOGISTIK NO.2, RT.4/RW.4",
     "uraian": "PERPUSTAKAAN BERBASIS TEKNOLOGI",
     "satuan": "PERPUSTAKAAN",
     "jumlah": 1
@@ -155,6 +170,7 @@
     "kecamatan": "KOJA",
     "kelurahan": "TUGU SELATAN",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
+    "alamat": "JL. LOGISTIK NO.2, RT.4/RW.4",
     "uraian": "KOMUNITAS PERPUSTAKAAN",
     "satuan": "ORGANISASI",
     "jumlah": 3
@@ -165,6 +181,7 @@
     "kecamatan": "KOJA",
     "kelurahan": "TUGU SELATAN",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
+    "alamat": "JL. LOGISTIK NO.2, RT.4/RW.4",
     "uraian": "TAMAN BACAAN MASYARAKAT",
     "satuan": "SANGGAR",
     "jumlah": 22
@@ -175,6 +192,7 @@
     "kecamatan": "KOJA",
     "kelurahan": "TUGU SELATAN",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA UTARA",
+    "alamat": "JL. LOGISTIK NO.2, RT.4/RW.4",
     "uraian": "PENGGUNA JASA PERPUSTAKAAN KELILING",
     "satuan": "ORANG",
     "jumlah": 132584
@@ -185,6 +203,7 @@
     "kecamatan": "KEBON JERUK",
     "kelurahan": "DURI KEPA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
+    "alamat": "JL. TJ. DUREN BARAT NO.36 13, RT.13/RW.9",
     "uraian": "ANGGOTA",
     "satuan": "ORANG",
     "jumlah": 236839
@@ -195,6 +214,7 @@
     "kecamatan": "KEBON JERUK",
     "kelurahan": "DURI KEPA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
+    "alamat": "JL. TJ. DUREN BARAT NO.36 13, RT.13/RW.9",
     "uraian": "PENGUNJUNG",
     "satuan": "ORANG",
     "jumlah": 201891
@@ -205,6 +225,7 @@
     "kecamatan": "KEBON JERUK",
     "kelurahan": "DURI KEPA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
+    "alamat": "JL. TJ. DUREN BARAT NO.36 13, RT.13/RW.9",
     "uraian": "KOLEKSI BUKU",
     "satuan": "EKSEMPLAR",
     "jumlah": 192865
@@ -215,6 +236,7 @@
     "kecamatan": "KEBON JERUK",
     "kelurahan": "DURI KEPA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
+    "alamat": "JL. TJ. DUREN BARAT NO.36 13, RT.13/RW.9",
     "uraian": "FASILITAS SISTEM PENGELOLAAN PERPUSTAKAAN",
     "satuan": "SISTEM",
     "jumlah": 1
@@ -225,6 +247,7 @@
     "kecamatan": "KEBON JERUK",
     "kelurahan": "DURI KEPA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
+    "alamat": "JL. TJ. DUREN BARAT NO.36 13, RT.13/RW.9",
     "uraian": "PERPUSTAKAAN BERSTANDAR INTERNASIONAL",
     "satuan": "GEDUNG",
     "jumlah": 0
@@ -235,6 +258,7 @@
     "kecamatan": "KEBON JERUK",
     "kelurahan": "DURI KEPA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
+    "alamat": "JL. TJ. DUREN BARAT NO.36 13, RT.13/RW.9",
     "uraian": "PERPUSTAKAAN BERBASIS TEKNOLOGI",
     "satuan": "PERPUSTAKAAN",
     "jumlah": 1
@@ -245,6 +269,7 @@
     "kecamatan": "KEBON JERUK",
     "kelurahan": "DURI KEPA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
+    "alamat": "JL. TJ. DUREN BARAT NO.36 13, RT.13/RW.9",
     "uraian": "KOMUNITAS PERPUSTAKAAN",
     "satuan": "ORGANISASI",
     "jumlah": 3
@@ -255,6 +280,7 @@
     "kecamatan": "KEBON JERUK",
     "kelurahan": "DURI KEPA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
+    "alamat": "JL. TJ. DUREN BARAT NO.36 13, RT.13/RW.9",
     "uraian": "TAMAN BACAAN MASYARAKAT",
     "satuan": "SANGGAR",
     "jumlah": 13
@@ -265,6 +291,7 @@
     "kecamatan": "KEBON JERUK",
     "kelurahan": "DURI KEPA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
+    "alamat": "JL. TJ. DUREN BARAT NO.36 13, RT.13/RW.9",
     "uraian": "PENGGUNA JASA PERPUSTAKAAN KELILING",
     "satuan": "ORANG",
     "jumlah": 158567
@@ -275,6 +302,7 @@
     "kecamatan": "KEBAYORAN BARU",
     "kelurahan": "KRAMAT PELA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
+    "alamat": "JL. GANDARIA TENGAH V NO.3 13, RT.2/RW.1",
     "uraian": "ANGGOTA",
     "satuan": "ORANG",
     "jumlah": 236839
@@ -285,6 +313,7 @@
     "kecamatan": "KEBAYORAN BARU",
     "kelurahan": "KRAMAT PELA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
+    "alamat": "JL. GANDARIA TENGAH V NO.3 13, RT.2/RW.1",
     "uraian": "PENGUNJUNG",
     "satuan": "ORANG",
     "jumlah": 165367
@@ -295,6 +324,7 @@
     "kecamatan": "KEBAYORAN BARU",
     "kelurahan": "KRAMAT PELA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
+    "alamat": "JL. GANDARIA TENGAH V NO.3 13, RT.2/RW.1",
     "uraian": "KOLEKSI BUKU",
     "satuan": "EKSEMPLAR",
     "jumlah": 231678
@@ -305,6 +335,7 @@
     "kecamatan": "KEBAYORAN BARU",
     "kelurahan": "KRAMAT PELA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
+    "alamat": "JL. GANDARIA TENGAH V NO.3 13, RT.2/RW.1",
     "uraian": "FASILITAS SISTEM PENGELOLAAN PERPUSTAKAAN",
     "satuan": "SISTEM",
     "jumlah": 1
@@ -315,6 +346,7 @@
     "kecamatan": "KEBAYORAN BARU",
     "kelurahan": "KRAMAT PELA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
+    "alamat": "JL. GANDARIA TENGAH V NO.3 13, RT.2/RW.1",
     "uraian": "PERPUSTAKAAN BERSTANDAR INTERNASIONAL",
     "satuan": "GEDUNG",
     "jumlah": 0
@@ -325,6 +357,7 @@
     "kecamatan": "KEBAYORAN BARU",
     "kelurahan": "KRAMAT PELA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
+    "alamat": "JL. GANDARIA TENGAH V NO.3 13, RT.2/RW.1",
     "uraian": "PERPUSTAKAAN BERBASIS TEKNOLOGI",
     "satuan": "PERPUSTAKAAN",
     "jumlah": 1
@@ -335,6 +368,7 @@
     "kecamatan": "KEBAYORAN BARU",
     "kelurahan": "KRAMAT PELA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
+    "alamat": "JL. GANDARIA TENGAH V NO.3 13, RT.2/RW.1",
     "uraian": "KOMUNITAS PERPUSTAKAAN",
     "satuan": "ORGANISASI",
     "jumlah": 6
@@ -345,6 +379,7 @@
     "kecamatan": "KEBAYORAN BARU",
     "kelurahan": "KRAMAT PELA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
+    "alamat": "JL. GANDARIA TENGAH V NO.3 13, RT.2/RW.1",
     "uraian": "TAMAN BACAAN MASYARAKAT",
     "satuan": "SANGGAR",
     "jumlah": 33
@@ -355,6 +390,7 @@
     "kecamatan": "KEBAYORAN BARU",
     "kelurahan": "KRAMAT PELA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA SELATAN",
+    "alamat": "JL. GANDARIA TENGAH V NO.3 13, RT.2/RW.1",
     "uraian": "PENGGUNA JASA PERPUSTAKAAN KELILING",
     "satuan": "ORANG",
     "jumlah": 144043
@@ -365,6 +401,7 @@
     "kecamatan": "JATINEGARA",
     "kelurahan": "RAWA BUNGA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
+    "alamat": "JL. JATINEGARA TIMUR 3, KOMPLEK PENDIDIKAN RAWA BUNGA, RT.8/RW.7",
     "uraian": "ANGGOTA",
     "satuan": "ORANG",
     "jumlah": 236839
@@ -375,6 +412,7 @@
     "kecamatan": "JATINEGARA",
     "kelurahan": "RAWA BUNGA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
+    "alamat": "JL. JATINEGARA TIMUR 3, KOMPLEK PENDIDIKAN RAWA BUNGA, RT.8/RW.7",
     "uraian": "PENGUNJUNG",
     "satuan": "ORANG",
     "jumlah": 309226
@@ -385,6 +423,7 @@
     "kecamatan": "JATINEGARA",
     "kelurahan": "RAWA BUNGA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
+    "alamat": "JL. JATINEGARA TIMUR 3, KOMPLEK PENDIDIKAN RAWA BUNGA, RT.8/RW.7",
     "uraian": "KOLEKSI BUKU",
     "satuan": "EKSEMPLAR",
     "jumlah": 170588
@@ -395,6 +434,7 @@
     "kecamatan": "JATINEGARA",
     "kelurahan": "RAWA BUNGA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
+    "alamat": "JL. JATINEGARA TIMUR 3, KOMPLEK PENDIDIKAN RAWA BUNGA, RT.8/RW.7",
     "uraian": "FASILITAS SISTEM PENGELOLAAN PERPUSTAKAAN",
     "satuan": "SISTEM",
     "jumlah": 1
@@ -405,6 +445,7 @@
     "kecamatan": "JATINEGARA",
     "kelurahan": "RAWA BUNGA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
+    "alamat": "JL. JATINEGARA TIMUR 3, KOMPLEK PENDIDIKAN RAWA BUNGA, RT.8/RW.7",
     "uraian": "PERPUSTAKAAN BERSTANDAR INTERNASIONAL",
     "satuan": "GEDUNG",
     "jumlah": 0
@@ -415,6 +456,7 @@
     "kecamatan": "JATINEGARA",
     "kelurahan": "RAWA BUNGA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
+    "alamat": "JL. JATINEGARA TIMUR 3, KOMPLEK PENDIDIKAN RAWA BUNGA, RT.8/RW.7",
     "uraian": "PERPUSTAKAAN BERBASIS TEKNOLOGI",
     "satuan": "PERPUSTAKAAN",
     "jumlah": 1
@@ -425,6 +467,7 @@
     "kecamatan": "JATINEGARA",
     "kelurahan": "RAWA BUNGA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
+    "alamat": "JL. JATINEGARA TIMUR 3, KOMPLEK PENDIDIKAN RAWA BUNGA, RT.8/RW.7",
     "uraian": "KOMUNITAS PERPUSTAKAAN",
     "satuan": "ORGANISASI",
     "jumlah": 6
@@ -435,6 +478,7 @@
     "kecamatan": "JATINEGARA",
     "kelurahan": "RAWA BUNGA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
+    "alamat": "JL. JATINEGARA TIMUR 3, KOMPLEK PENDIDIKAN RAWA BUNGA, RT.8/RW.7",
     "uraian": "TAMAN BACAAN MASYARAKAT",
     "satuan": "SANGGAR",
     "jumlah": 35
@@ -445,6 +489,7 @@
     "kecamatan": "JATINEGARA",
     "kelurahan": "RAWA BUNGA",
     "nama_perpustakaan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN JAKARTA TIMUR",
+    "alamat": "JL. JATINEGARA TIMUR 3, KOMPLEK PENDIDIKAN RAWA BUNGA, RT.8/RW.7",
     "uraian": "PENGGUNA JASA PERPUSTAKAAN KELILING",
     "satuan": "ORANG",
     "jumlah": 225324
@@ -455,6 +500,7 @@
     "kecamatan": "KEPULAUAN SERIBU UTARA",
     "kelurahan": "PULAU PANGGANG",
     "nama_perpustakaan": "KABUPATEN KEPULAUAN SERIBU",
+    "alamat": "JL IKAN BARAKUDA NOMOR 14, PULAU PRAMUKA",
     "uraian": "ANGGOTA",
     "satuan": "ORANG",
     "jumlah": 5539
@@ -465,6 +511,7 @@
     "kecamatan": "KEPULAUAN SERIBU UTARA",
     "kelurahan": "PULAU PANGGANG",
     "nama_perpustakaan": "KABUPATEN KEPULAUAN SERIBU",
+    "alamat": "JL IKAN BARAKUDA NOMOR 14, PULAU PRAMUKA",
     "uraian": "PENGUNJUNG",
     "satuan": "ORANG",
     "jumlah": 62980
@@ -475,6 +522,7 @@
     "kecamatan": "KEPULAUAN SERIBU UTARA",
     "kelurahan": "PULAU PANGGANG",
     "nama_perpustakaan": "KABUPATEN KEPULAUAN SERIBU",
+    "alamat": "JL IKAN BARAKUDA NOMOR 14, PULAU PRAMUKA",
     "uraian": "KOLEKSI BUKU",
     "satuan": "EKSEMPLAR",
     "jumlah": 37077
@@ -485,6 +533,7 @@
     "kecamatan": "KEPULAUAN SERIBU UTARA",
     "kelurahan": "PULAU PANGGANG",
     "nama_perpustakaan": "KABUPATEN KEPULAUAN SERIBU",
+    "alamat": "JL IKAN BARAKUDA NOMOR 14, PULAU PRAMUKA",
     "uraian": "FASILITAS SISTEM PENGELOLAAN PERPUSTAKAAN",
     "satuan": "SISTEM",
     "jumlah": 1
@@ -495,6 +544,7 @@
     "kecamatan": "KEPULAUAN SERIBU UTARA",
     "kelurahan": "PULAU PANGGANG",
     "nama_perpustakaan": "KABUPATEN KEPULAUAN SERIBU",
+    "alamat": "JL IKAN BARAKUDA NOMOR 14, PULAU PRAMUKA",
     "uraian": "PERPUSTAKAAN BERSTANDAR INTERNASIONAL",
     "satuan": "GEDUNG",
     "jumlah": 0
@@ -505,6 +555,7 @@
     "kecamatan": "KEPULAUAN SERIBU UTARA",
     "kelurahan": "PULAU PANGGANG",
     "nama_perpustakaan": "KABUPATEN KEPULAUAN SERIBU",
+    "alamat": "JL IKAN BARAKUDA NOMOR 14, PULAU PRAMUKA",
     "uraian": "PERPUSTAKAAN BERBASIS TEKNOLOGI",
     "satuan": "PERPUSTAKAAN",
     "jumlah": 0
@@ -515,6 +566,7 @@
     "kecamatan": "KEPULAUAN SERIBU UTARA",
     "kelurahan": "PULAU PANGGANG",
     "nama_perpustakaan": "KABUPATEN KEPULAUAN SERIBU",
+    "alamat": "JL IKAN BARAKUDA NOMOR 14, PULAU PRAMUKA",
     "uraian": "KOMUNITAS PERPUSTAKAAN",
     "satuan": "ORGANISASI",
     "jumlah": 1
@@ -525,6 +577,7 @@
     "kecamatan": "KEPULAUAN SERIBU UTARA",
     "kelurahan": "PULAU PANGGANG",
     "nama_perpustakaan": "KABUPATEN KEPULAUAN SERIBU",
+    "alamat": "JL IKAN BARAKUDA NOMOR 14, PULAU PRAMUKA",
     "uraian": "TAMAN BACAAN MASYARAKAT",
     "satuan": "SANGGAR",
     "jumlah": 2
@@ -535,6 +588,7 @@
     "kecamatan": "KEPULAUAN SERIBU UTARA",
     "kelurahan": "PULAU PANGGANG",
     "nama_perpustakaan": "KABUPATEN KEPULAUAN SERIBU",
+    "alamat": "JL IKAN BARAKUDA NOMOR 14, PULAU PRAMUKA",
     "uraian": "PENGGUNA JASA PERPUSTAKAAN KELILING",
     "satuan": "ORANG",
     "jumlah": 63627
