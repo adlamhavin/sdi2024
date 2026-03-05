@@ -1,32 +1,32 @@
 [
   {
-    "periode_data": 202512,
+    "periode_data": 202601,
     "jenis_layanan": "LAYANAN ARSIP STATIS",
-    "jumlah": 4,
-    "satuan": "ORANG"
-  },
-  {
-    "periode_data": 202512,
-    "jenis_layanan": "LAYANAN KONSULTASI ONLINE",
-    "jumlah": 30,
-    "satuan": "ORANG"
-  },
-  {
-    "periode_data": 202512,
-    "jenis_layanan": "LAYANAN KONSULTASI OFFLINE",
-    "jumlah": 3,
-    "satuan": "ORANG"
-  },
-  {
-    "periode_data": 202512,
-    "jenis_layanan": "LAYANAN KUNJUNGAN SEKOLAH",
     "jumlah": 5,
-    "satuan": "ORANG"
+    "satuan": "orang"
   },
   {
-    "periode_data": 202512,
-    "jenis_layanan": "LAYANAN ARSIP KELUARGA (LASIGA) ATAU DIGITALISASI ARSIP",
+    "periode_data": 202601,
+    "jenis_layanan": "LAYANAN KONSULTASI ONLINE",
+    "jumlah": 23,
+    "satuan": "orang"
+  },
+  {
+    "periode_data": 202601,
+    "jenis_layanan": "LAYANAN KONSULTASI OFFLINE",
+    "jumlah": 10,
+    "satuan": "orang"
+  },
+  {
+    "periode_data": 202601,
+    "jenis_layanan": "LAYANAN KUNJUNGAN SEKOLAH",
+    "jumlah": 13,
+    "satuan": "orang"
+  },
+  {
+    "periode_data": 202601,
+    "jenis_layanan": "LAYANAN ARSIP KELUARGA (LASIGA) ATAU DIGITALSASI ARSIP",
     "jumlah": 0,
-    "satuan": "ORANG"
+    "satuan": "orang"
   }
 ]

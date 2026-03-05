@@ -1,20 +1,20 @@
 [
   {
-    "periode_data": 2024,
+    "periode_data": 2025,
     "jenis_profesi": "Pustakawan",
-    "jumlah": 46,
+    "jumlah": 47,
     "jumlah_bersertifikat": 0,
     "persentase": 0
   },
   {
-    "periode_data": 2024,
+    "periode_data": 2025,
     "jenis_profesi": "Tenaga teknis",
-    "jumlah": 196,
-    "jumlah_bersertifikat": 81,
-    "persentase": 41.33
+    "jumlah": 100,
+    "jumlah_bersertifikat": 20,
+    "persentase": 20
   },
   {
-    "periode_data": 2024,
+    "periode_data": 2025,
     "jenis_profesi": "Penilai",
     "jumlah": 0,
     "jumlah_bersertifikat": 0,
