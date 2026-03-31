@@ -1,0 +1,882 @@
+[
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
+    "kecamatan": "GAMBIR",
+    "kelurahan": "PETOJO SELATAN",
+    "jenis_kendaraan": "MOBIL RODA 4 ISUZU PANTHER",
+    "tahun_pembuatan": 2018,
+    "nomor_polisi": "B 9092 PQW",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
+    "kecamatan": "GAMBIR",
+    "kelurahan": "PETOJO SELATAN",
+    "jenis_kendaraan": "MOBIL RODA 4 ISUZU TRAGA",
+    "tahun_pembuatan": 2019,
+    "nomor_polisi": "B 9258 PQW",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
+    "kecamatan": "GAMBIR",
+    "kelurahan": "PETOJO SELATAN",
+    "jenis_kendaraan": "MOBIL RODA 4 ISUZU TRAGA",
+    "tahun_pembuatan": 2019,
+    "nomor_polisi": "B 9225 PQW",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
+    "kecamatan": "GAMBIR",
+    "kelurahan": "PETOJO SELATAN",
+    "jenis_kendaraan": "MOBIL RODA 4 TOYOTA KIJANG",
+    "tahun_pembuatan": 2003,
+    "nomor_polisi": "B 9468 PQ",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
+    "kecamatan": "GAMBIR",
+    "kelurahan": "PETOJO SELATAN",
+    "jenis_kendaraan": "MOBIL RODA 4 ISUZU TRAGA",
+    "tahun_pembuatan": 2019,
+    "nomor_polisi": "B 9219 PQW",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
+    "kecamatan": "GAMBIR",
+    "kelurahan": "PETOJO SELATAN",
+    "jenis_kendaraan": "MOBIL RODA 4 DAIHATSU",
+    "tahun_pembuatan": 2010,
+    "nomor_polisi": "B 9116 PQU",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
+    "kecamatan": "GAMBIR",
+    "kelurahan": "PETOJO SELATAN",
+    "jenis_kendaraan": "MOBIL RODA 4 ISUZU PANTHER",
+    "tahun_pembuatan": 2018,
+    "nomor_polisi": "B 9091 PQW",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
+    "kecamatan": "GAMBIR",
+    "kelurahan": "PETOJO SELATAN",
+    "jenis_kendaraan": "MOBIL RODA 4 ISUZU PANTHER",
+    "tahun_pembuatan": 2018,
+    "nomor_polisi": "B 9089 PQW",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
+    "kecamatan": "GAMBIR",
+    "kelurahan": "PETOJO SELATAN",
+    "jenis_kendaraan": "MOBIL RODA 4 SUZUKI APV",
+    "tahun_pembuatan": 2012,
+    "nomor_polisi": "B 9543 PQU",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
+    "kecamatan": "GAMBIR",
+    "kelurahan": "PETOJO SELATAN",
+    "jenis_kendaraan": "MOBIL RODA 4 MITSUBITSHI",
+    "tahun_pembuatan": 2002,
+    "nomor_polisi": "B 9392 EQ",
+    "status": "RUSAK BERAT"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
+    "kecamatan": "GAMBIR",
+    "kelurahan": "PETOJO SELATAN",
+    "jenis_kendaraan": "MOBIL RODA 4 TOYOTA KIJANG",
+    "tahun_pembuatan": 2004,
+    "nomor_polisi": "B 9211 EQ",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
+    "kecamatan": "GAMBIR",
+    "kelurahan": "PETOJO SELATAN",
+    "jenis_kendaraan": "MOBIL RODA 4 ISUZU",
+    "tahun_pembuatan": 2013,
+    "nomor_polisi": "B 7157 PPA",
+    "status": "RUSAK RINGAN"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
+    "kecamatan": "GAMBIR",
+    "kelurahan": "PETOJO SELATAN",
+    "jenis_kendaraan": "MOTOR RODA 2 YAMAHA X RIDE",
+    "tahun_pembuatan": 2014,
+    "nomor_polisi": "B 6103 PYQ",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
+    "kecamatan": "GAMBIR",
+    "kelurahan": "PETOJO SELATAN",
+    "jenis_kendaraan": "MOTOR RODA 3 VIAR",
+    "tahun_pembuatan": 2015,
+    "nomor_polisi": "B 3646 PCQ",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
+    "kecamatan": "GAMBIR",
+    "kelurahan": "PETOJO SELATAN",
+    "jenis_kendaraan": "MOTOR RODA 2 YAMAHA X RIDE",
+    "tahun_pembuatan": "N/A",
+    "nomor_polisi": "B 6102 PYQ",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
+    "kecamatan": "GAMBIR",
+    "kelurahan": "PETOJO SELATAN",
+    "jenis_kendaraan": "MOBIL RODA 4 DAIHATSU",
+    "tahun_pembuatan": 2023,
+    "nomor_polisi": "B 9646 PQW",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
+    "kecamatan": "GAMBIR",
+    "kelurahan": "PETOJO SELATAN",
+    "jenis_kendaraan": "MOBIL RODA 4 DAIHATSU",
+    "tahun_pembuatan": 2023,
+    "nomor_polisi": "B 9654 PQW",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
+    "kecamatan": "GAMBIR",
+    "kelurahan": "PETOJO SELATAN",
+    "jenis_kendaraan": "MOTOR RODA 3 VIAR",
+    "tahun_pembuatan": 2015,
+    "nomor_polisi": "B 3647 PCQ",
+    "status": "RUSAK BERAT"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA PUSAT",
+    "kecamatan": "GAMBIR",
+    "kelurahan": "PETOJO SELATAN",
+    "jenis_kendaraan": "MOBIL RODA 4 NISAN EVALIA",
+    "tahun_pembuatan": "N/A",
+    "nomor_polisi": "B 1726 PQR",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
+    "kecamatan": "KOJA",
+    "kelurahan": "TUGU SELATAN",
+    "jenis_kendaraan": "ISUZU PANTER",
+    "tahun_pembuatan": 2018,
+    "nomor_polisi": "B 9084 PQW",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
+    "kecamatan": "KOJA",
+    "kelurahan": "TUGU SELATAN",
+    "jenis_kendaraan": "ISUZU PANTER",
+    "tahun_pembuatan": 2018,
+    "nomor_polisi": "B 9097 PQW",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
+    "kecamatan": "KOJA",
+    "kelurahan": "TUGU SELATAN",
+    "jenis_kendaraan": "ISUZU PANTER",
+    "tahun_pembuatan": 2018,
+    "nomor_polisi": "B 9085 PQW",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
+    "kecamatan": "KOJA",
+    "kelurahan": "TUGU SELATAN",
+    "jenis_kendaraan": "ISUZU TRAGA",
+    "tahun_pembuatan": 2019,
+    "nomor_polisi": "B 9221 PQW",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
+    "kecamatan": "KOJA",
+    "kelurahan": "TUGU SELATAN",
+    "jenis_kendaraan": "ISUZU TRAGA",
+    "tahun_pembuatan": 2019,
+    "nomor_polisi": "B 9252 PQW",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
+    "kecamatan": "KOJA",
+    "kelurahan": "TUGU SELATAN",
+    "jenis_kendaraan": "ISUZU TRAGA",
+    "tahun_pembuatan": 2019,
+    "nomor_polisi": "B 9250 PQW",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
+    "kecamatan": "KOJA",
+    "kelurahan": "TUGU SELATAN",
+    "jenis_kendaraan": "ELF",
+    "tahun_pembuatan": 2013,
+    "nomor_polisi": "B 7158 PPA",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
+    "kecamatan": "KOJA",
+    "kelurahan": "TUGU SELATAN",
+    "jenis_kendaraan": "DAIHATSU S402RP-PMRF JJ KJ",
+    "tahun_pembuatan": 2012,
+    "nomor_polisi": "B 9544 PQU",
+    "status": "RUSAK BERAT"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
+    "kecamatan": "KOJA",
+    "kelurahan": "TUGU SELATAN",
+    "jenis_kendaraan": "TOYOTA KIJANG KF60 STD",
+    "tahun_pembuatan": "N/A",
+    "nomor_polisi": "B 9466 PQ",
+    "status": "RUSAK BERAT"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
+    "kecamatan": "KOJA",
+    "kelurahan": "TUGU SELATAN",
+    "jenis_kendaraan": "TOYOTA KIJANG KF60 STD",
+    "tahun_pembuatan": "N/A",
+    "nomor_polisi": "B 9212 EQ",
+    "status": "RUSAK BERAT"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
+    "kecamatan": "KOJA",
+    "kelurahan": "TUGU SELATAN",
+    "jenis_kendaraan": "SUZUKI GC415T 4X2 MT",
+    "tahun_pembuatan": 2011,
+    "nomor_polisi": "B 9325 PQU",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
+    "kecamatan": "KOJA",
+    "kelurahan": "TUGU SELATAN",
+    "jenis_kendaraan": "HONDA REVO",
+    "tahun_pembuatan": 2012,
+    "nomor_polisi": "B 6745 PTQ",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
+    "kecamatan": "KOJA",
+    "kelurahan": "TUGU SELATAN",
+    "jenis_kendaraan": "HONDA REVO",
+    "tahun_pembuatan": 2012,
+    "nomor_polisi": "B 6748 PTQ",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
+    "kecamatan": "KOJA",
+    "kelurahan": "TUGU SELATAN",
+    "jenis_kendaraan": "HONDA REVO",
+    "tahun_pembuatan": 2012,
+    "nomor_polisi": "B 6747 PTQ",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
+    "kecamatan": "KOJA",
+    "kelurahan": "TUGU SELATAN",
+    "jenis_kendaraan": "HONDA REVO",
+    "tahun_pembuatan": 2012,
+    "nomor_polisi": "B 6746 PTQ",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
+    "kecamatan": "KOJA",
+    "kelurahan": "TUGU SELATAN",
+    "jenis_kendaraan": "HONDA REVO",
+    "tahun_pembuatan": 2012,
+    "nomor_polisi": "B 6749 PTQ",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
+    "kecamatan": "KOJA",
+    "kelurahan": "TUGU SELATAN",
+    "jenis_kendaraan": "HONDA REVO",
+    "tahun_pembuatan": 2012,
+    "nomor_polisi": "B 6750 PTQ",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
+    "kecamatan": "KOJA",
+    "kelurahan": "TUGU SELATAN",
+    "jenis_kendaraan": "VIAR",
+    "tahun_pembuatan": 2015,
+    "nomor_polisi": "B 3644 PCQ",
+    "status": "RUSAK RINGAN"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
+    "kecamatan": "KOJA",
+    "kelurahan": "TUGU SELATAN",
+    "jenis_kendaraan": "VIAR",
+    "tahun_pembuatan": 2015,
+    "nomor_polisi": "B 3645 PCQ",
+    "status": "RUSAK BERAT"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
+    "kecamatan": "KEBON JERUK",
+    "kelurahan": "DURI KEPA",
+    "jenis_kendaraan": "MOBIL - MITSUBISHI T120 SS",
+    "tahun_pembuatan": "N/A",
+    "nomor_polisi": "B 9394 EQ",
+    "status": "RUSAK BERAT"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
+    "kecamatan": "KEBON JERUK",
+    "kelurahan": "DURI KEPA",
+    "jenis_kendaraan": "MOBIL - TOYOTA KIJANG KF 6",
+    "tahun_pembuatan": 2004,
+    "nomor_polisi": "B 9210 EQ",
+    "status": "RUSAK BERAT"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
+    "kecamatan": "KEBON JERUK",
+    "kelurahan": "DURI KEPA",
+    "jenis_kendaraan": "MOBIL - DAIHATSU GRANDMAX",
+    "tahun_pembuatan": 2010,
+    "nomor_polisi": "B 1648 PQN",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
+    "kecamatan": "KEBON JERUK",
+    "kelurahan": "DURI KEPA",
+    "jenis_kendaraan": "MOBIL - DAIHATSU GRANDMAX",
+    "tahun_pembuatan": 2010,
+    "nomor_polisi": "B 1008 PQO",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
+    "kecamatan": "KEBON JERUK",
+    "kelurahan": "DURI KEPA",
+    "jenis_kendaraan": "MOBIL - DAIHATSU GRANDMAX",
+    "tahun_pembuatan": 2011,
+    "nomor_polisi": "B 9323 PQN",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
+    "kecamatan": "KEBON JERUK",
+    "kelurahan": "DURI KEPA",
+    "jenis_kendaraan": "MOBIL - DAIHATSU GRANDMAX",
+    "tahun_pembuatan": 2011,
+    "nomor_polisi": "B 9324 PQU",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
+    "kecamatan": "KEBON JERUK",
+    "kelurahan": "DURI KEPA",
+    "jenis_kendaraan": "MOBIL - TOYOTA HILUX",
+    "tahun_pembuatan": 2008,
+    "nomor_polisi": "B 9633 LQ",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
+    "kecamatan": "KEBON JERUK",
+    "kelurahan": "DURI KEPA",
+    "jenis_kendaraan": "MOBIL - ISUZU TRAGA",
+    "tahun_pembuatan": 2019,
+    "nomor_polisi": "B 9215 PQW",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
+    "kecamatan": "KEBON JERUK",
+    "kelurahan": "DURI KEPA",
+    "jenis_kendaraan": "MOBIL - ISUZU TRAGA",
+    "tahun_pembuatan": 2019,
+    "nomor_polisi": "B 9217 PQW",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
+    "kecamatan": "KEBON JERUK",
+    "kelurahan": "DURI KEPA",
+    "jenis_kendaraan": "MOBIL - ISUZU TRAGA",
+    "tahun_pembuatan": 2019,
+    "nomor_polisi": "B 9227 PQW",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
+    "kecamatan": "KEBAYORAN BARU",
+    "kelurahan": "KRAMAT PELA",
+    "jenis_kendaraan": "ISUZU TRAGA",
+    "tahun_pembuatan": "N/A",
+    "nomor_polisi": "B 9254 PQW",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
+    "kecamatan": "KEBAYORAN BARU",
+    "kelurahan": "KRAMAT PELA",
+    "jenis_kendaraan": "ISUZU TRAGA",
+    "tahun_pembuatan": "N/A",
+    "nomor_polisi": "B 9223 PQW",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
+    "kecamatan": "KEBAYORAN BARU",
+    "kelurahan": "KRAMAT PELA",
+    "jenis_kendaraan": "ISUZU PANTHER",
+    "tahun_pembuatan": "N/A",
+    "nomor_polisi": "B 9086 PQW",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
+    "kecamatan": "KEBAYORAN BARU",
+    "kelurahan": "KRAMAT PELA",
+    "jenis_kendaraan": "ISUZU PANTHER",
+    "tahun_pembuatan": "N/A",
+    "nomor_polisi": "B 9087 PQW",
+    "status": "RUSAK RINGAN"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
+    "kecamatan": "KEBAYORAN BARU",
+    "kelurahan": "KRAMAT PELA",
+    "jenis_kendaraan": "ISUZU PANTHER",
+    "tahun_pembuatan": "N/A",
+    "nomor_polisi": "B 9100 PQW",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
+    "kecamatan": "KEBAYORAN BARU",
+    "kelurahan": "KRAMAT PELA",
+    "jenis_kendaraan": "DAIHATSU GRAND MAX",
+    "tahun_pembuatan": "N/A",
+    "nomor_polisi": "B 9981 PQU",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
+    "kecamatan": "KEBAYORAN BARU",
+    "kelurahan": "KRAMAT PELA",
+    "jenis_kendaraan": "DAIHATSU GRAND MAX",
+    "tahun_pembuatan": "N/A",
+    "nomor_polisi": "B 9982 PQU",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
+    "kecamatan": "KEBAYORAN BARU",
+    "kelurahan": "KRAMAT PELA",
+    "jenis_kendaraan": "DAIHATSU GRAND MAX",
+    "tahun_pembuatan": "N/A",
+    "nomor_polisi": "B 9584 PQU",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
+    "kecamatan": "KEBAYORAN BARU",
+    "kelurahan": "KRAMAT PELA",
+    "jenis_kendaraan": "DAIHATSU GRAND MAX",
+    "tahun_pembuatan": "N/A",
+    "nomor_polisi": "B 9166 PCK",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
+    "kecamatan": "KEBAYORAN BARU",
+    "kelurahan": "KRAMAT PELA",
+    "jenis_kendaraan": "ISUZU NLR85U EAYIN1",
+    "tahun_pembuatan": "N/A",
+    "nomor_polisi": "B 9620 PQW",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
+    "kecamatan": "KEBAYORAN BARU",
+    "kelurahan": "KRAMAT PELA",
+    "jenis_kendaraan": "ISUZU NLR85U EAYIN1",
+    "tahun_pembuatan": "N/A",
+    "nomor_polisi": "B 9675 PQW",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
+    "kecamatan": "KEBAYORAN BARU",
+    "kelurahan": "KRAMAT PELA",
+    "jenis_kendaraan": "VIAR 150 SR",
+    "tahun_pembuatan": "N/A",
+    "nomor_polisi": "B 3651 PCQ",
+    "status": "RUSAK BERAT"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
+    "kecamatan": "KEBAYORAN BARU",
+    "kelurahan": "KRAMAT PELA",
+    "jenis_kendaraan": "VIAR 150 SR",
+    "tahun_pembuatan": "N/A",
+    "nomor_polisi": "B 3650 PCQ",
+    "status": "RUSAK BERAT"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "kecamatan": "JATINEGARA",
+    "kelurahan": "RAWA BUNGA",
+    "jenis_kendaraan": "ISUZU TRAGA",
+    "tahun_pembuatan": "N/A",
+    "nomor_polisi": "B 9248 PQW",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "kecamatan": "JATINEGARA",
+    "kelurahan": "RAWA BUNGA",
+    "jenis_kendaraan": "ISUZU TRAGA",
+    "tahun_pembuatan": "N/A",
+    "nomor_polisi": "B 9213 PQW",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "kecamatan": "JATINEGARA",
+    "kelurahan": "RAWA BUNGA",
+    "jenis_kendaraan": "ISUZU TRAGA",
+    "tahun_pembuatan": "N/A",
+    "nomor_polisi": "B 9231 PQW",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "kecamatan": "JATINEGARA",
+    "kelurahan": "RAWA BUNGA",
+    "jenis_kendaraan": "ISUZU PANTHER",
+    "tahun_pembuatan": "N/A",
+    "nomor_polisi": "B 9095 PQW",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "kecamatan": "JATINEGARA",
+    "kelurahan": "RAWA BUNGA",
+    "jenis_kendaraan": "ISUZU PANTHER",
+    "tahun_pembuatan": "N/A",
+    "nomor_polisi": "B 9096 PQW",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "kecamatan": "JATINEGARA",
+    "kelurahan": "RAWA BUNGA",
+    "jenis_kendaraan": "ISUZU PANTHER",
+    "tahun_pembuatan": "N/A",
+    "nomor_polisi": "B 9094 PQW",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "kecamatan": "JATINEGARA",
+    "kelurahan": "RAWA BUNGA",
+    "jenis_kendaraan": "ISUZU ELF",
+    "tahun_pembuatan": "N/A",
+    "nomor_polisi": "B 9012 TQU",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "kecamatan": "JATINEGARA",
+    "kelurahan": "RAWA BUNGA",
+    "jenis_kendaraan": "ISUZU ELF",
+    "tahun_pembuatan": "N/A",
+    "nomor_polisi": "B 9216 TQU",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "kecamatan": "JATINEGARA",
+    "kelurahan": "RAWA BUNGA",
+    "jenis_kendaraan": "VIAR",
+    "tahun_pembuatan": "N/A",
+    "nomor_polisi": "B 3642 PCQ",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "kecamatan": "JATINEGARA",
+    "kelurahan": "RAWA BUNGA",
+    "jenis_kendaraan": "VIAR",
+    "tahun_pembuatan": "N/A",
+    "nomor_polisi": "B 3643 PCQ",
+    "status": "RUSAK RINGAN"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "kecamatan": "JATINEGARA",
+    "kelurahan": "RAWA BUNGA",
+    "jenis_kendaraan": "TOYOTA KIJANG",
+    "tahun_pembuatan": 2003,
+    "nomor_polisi": "B 9457 PQ",
+    "status": "RUSAK BERAT"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "kecamatan": "JATINEGARA",
+    "kelurahan": "RAWA BUNGA",
+    "jenis_kendaraan": "TOYOTA KIJANG",
+    "tahun_pembuatan": "N/A",
+    "nomor_polisi": "B 9214 EQ",
+    "status": "RUSAK BERAT"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "kecamatan": "JATINEGARA",
+    "kelurahan": "RAWA BUNGA",
+    "jenis_kendaraan": "DAIHATSU GRAND MAX",
+    "tahun_pembuatan": "N/A",
+    "nomor_polisi": "B 9216 PQU",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "kecamatan": "JATINEGARA",
+    "kelurahan": "RAWA BUNGA",
+    "jenis_kendaraan": "DAIHATSU GRAND MAX",
+    "tahun_pembuatan": "N/A",
+    "nomor_polisi": "B 9217 PQU",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "kecamatan": "JATINEGARA",
+    "kelurahan": "RAWA BUNGA",
+    "jenis_kendaraan": "DAIHATSU GRAND MAX",
+    "tahun_pembuatan": "N/A",
+    "nomor_polisi": "B 9219 PQU",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "kecamatan": "JATINEGARA",
+    "kelurahan": "RAWA BUNGA",
+    "jenis_kendaraan": "ISUZU",
+    "tahun_pembuatan": 2023,
+    "nomor_polisi": "B 9671 PQW",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "kecamatan": "JATINEGARA",
+    "kelurahan": "RAWA BUNGA",
+    "jenis_kendaraan": "ISUZU",
+    "tahun_pembuatan": 2023,
+    "nomor_polisi": "B 9667 PQW",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "kecamatan": "JATINEGARA",
+    "kelurahan": "RAWA BUNGA",
+    "jenis_kendaraan": "ISUZU",
+    "tahun_pembuatan": 2023,
+    "nomor_polisi": "B 9665 PQW",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
+    "kecamatan": "KEBON JERUK",
+    "kelurahan": "DURI KEPA",
+    "jenis_kendaraan": "MOBIL - ISUZU PANTHER",
+    "tahun_pembuatan": 2018,
+    "nomor_polisi": "B 9099 PQW",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
+    "kecamatan": "KEBON JERUK",
+    "kelurahan": "DURI KEPA",
+    "jenis_kendaraan": "MOBIL - ISUZU PANTHER",
+    "tahun_pembuatan": 2018,
+    "nomor_polisi": "B 9093 PQW",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
+    "kecamatan": "KEBON JERUK",
+    "kelurahan": "DURI KEPA",
+    "jenis_kendaraan": "MOBIL - ISUZU PANTHER",
+    "tahun_pembuatan": 2018,
+    "nomor_polisi": "B 9088 PQW",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
+    "kecamatan": "KEBON JERUK",
+    "kelurahan": "DURI KEPA",
+    "jenis_kendaraan": "MOBIL - ISUZU ELF NLR 55",
+    "tahun_pembuatan": "N/A",
+    "nomor_polisi": "B 9661 PQW",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
+    "kecamatan": "KEBON JERUK",
+    "kelurahan": "DURI KEPA",
+    "jenis_kendaraan": "MOBIL - ISUZU ELF NLR 55",
+    "tahun_pembuatan": "N/A",
+    "nomor_polisi": "B 9614 PQW",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
+    "kecamatan": "KEBON JERUK",
+    "kelurahan": "DURI KEPA",
+    "jenis_kendaraan": "MOBIL - ISUZU ELF NLR 55",
+    "tahun_pembuatan": "N/A",
+    "nomor_polisi": "B 9663 PQW",
+    "status": "BAIK"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
+    "kecamatan": "KEBON JERUK",
+    "kelurahan": "DURI KEPA",
+    "jenis_kendaraan": "MOTOR - VIAR VR 150 SR",
+    "tahun_pembuatan": 2015,
+    "nomor_polisi": "B 3648 PCQ",
+    "status": "RUSAK BERAT"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA BARAT",
+    "kecamatan": "KEBON JERUK",
+    "kelurahan": "DURI KEPA",
+    "jenis_kendaraan": "MOTOR - VIAR VR 150 SR",
+    "tahun_pembuatan": 2015,
+    "nomor_polisi": "B 3649 PCQ",
+    "status": "RUSAK BERAT"
+  },
+  {
+    "periode_data": 2024,
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
+    "kecamatan": "KEBAYORAN BARU",
+    "kelurahan": "KRAMAT PELA",
+    "jenis_kendaraan": "ISUZU TRAGA",
+    "tahun_pembuatan": "N/A",
+    "nomor_polisi": "B 9256 PQW",
+    "status": "BAIK"
+  }
+]
