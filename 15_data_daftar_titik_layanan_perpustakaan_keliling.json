@@ -12700,17 +12700,6 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "CILINCING",
     "kelurahan": "SUKAPURA",
-    "lokasi": "SDN SUKAPURA 01 PG.",
-    "koordinat_x": 106.9219,
-    "koordinat_y": -6.1508
-  },
-  {
-    "periode_data": 2025,
-    "bulan": 12,
-    "tanggal": "2025-12-31",
-    "wilayah": "KOTA ADM. JAKARTA UTARA",
-    "kecamatan": "CILINCING",
-    "kelurahan": "SUKAPURA",
     "lokasi": "TK MAWAR II",
     "koordinat_x": 106.9166337,
     "koordinat_y": -6.145802752
@@ -17096,13 +17085,13 @@
   {
     "periode_data": 2025,
     "bulan": 12,
-    "tanggal": "2025-12-16",
-    "wilayah": "KOTA ADM. JAKARTA TIMUR",
-    "kecamatan": "CAKUNG",
-    "kelurahan": "PULO GEBANG",
-    "lokasi": "RUSUN RAWA BEBEK",
-    "koordinat_x": "-",
-    "koordinat_y": "-"
+    "tanggal": "2025-12-31",
+    "wilayah": "KOTA ADM. JAKARTA UTARA",
+    "kecamatan": "CILINCING",
+    "kelurahan": "SUKAPURA",
+    "lokasi": "SDN SUKAPURA 01 PG.",
+    "koordinat_x": 106.9219,
+    "koordinat_y": -6.1508
   },
   {
     "periode_data": 2025,
