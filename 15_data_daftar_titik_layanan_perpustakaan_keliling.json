@@ -11799,8 +11799,8 @@
     "kecamatan": "KEBON JERUK",
     "kelurahan": "KEDOYA UTARA",
     "lokasi": "RPTRA KEDOYA UTARA",
-    "koordinat_x": "106°766' BT",
-    "koordinat_y": "6°164' LS"
+    "koordinat_x": "N/A",
+    "koordinat_y": "N/A"
   },
   {
     "periode_data": 2025,
@@ -15561,8 +15561,8 @@
     "kecamatan": "KELAPA GADING",
     "kelurahan": "PEGANGSAAN DUA",
     "lokasi": "HAIDAR MASHURY",
-    "koordinat_x": "106.9108879E",
-    "koordinat_y": "6.1442131S"
+    "koordinat_x": 106.9108879,
+    "koordinat_y": 6.1442131
   },
   {
     "periode_data": 2025,
@@ -20137,8 +20137,8 @@
     "kecamatan": "JATINEGARA",
     "kelurahan": "RAWA BUNGA",
     "lokasi": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN KOTA ADMINISTRASI JAKARTA TIMUR",
-    "koordinat_x": "106.8733376E",
-    "koordinat_y": "6.2219103S"
+    "koordinat_x": 106.8733376,
+    "koordinat_y": 6.2219103
   },
   {
     "periode_data": 2025,
@@ -21567,8 +21567,8 @@
     "kecamatan": "KELAPA GADING",
     "kelurahan": "PEGANGSAAN DUA",
     "lokasi": "RPTRA H. OYAR",
-    "koordinat_x": "106.9172375E",
-    "koordinat_y": "6.1779329S"
+    "koordinat_x": 106.9172375,
+    "koordinat_y": 6.1779329
   },
   {
     "periode_data": 2025,
@@ -22569,7 +22569,7 @@
     "kelurahan": "DURI KOSAMBI",
     "lokasi": "RPTRA MAWAR DURI KOSAMBI",
     "koordinat_x": 106.7156211,
-    "koordinat_y": "-61,680,127"
+    "koordinat_y": -6.1680127
   },
   {
     "periode_data": 2025,
@@ -25857,8 +25857,8 @@
     "kecamatan": "KOJA",
     "kelurahan": "RAWA BADAK UTARA",
     "lokasi": "RPTRA RAWA BADAK UTARA",
-    "koordinat_x": "106.8966347E",
-    "koordinat_y": "-6.1168178S"
+    "koordinat_x": 106.8966347,
+    "koordinat_y": -6.1168178
   },
   {
     "periode_data": 2025,
