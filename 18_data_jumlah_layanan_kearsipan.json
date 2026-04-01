@@ -22,5 +22,11 @@
     "jenis_layanan": "LAYANAN KUNJUNGAN SEKOLAH",
     "jumlah": 0,
     "satuan": "ORANG"
+  },
+  {
+    "periode_data": 202602,
+    "jenis_layanan": "LAYANAN ARSIP KELUARGA (LASIGA) ATAU DIGITALISASI ARSIP",
+    "jumlah": 0,
+    "satuan": "ORANG"
   }
 ]
