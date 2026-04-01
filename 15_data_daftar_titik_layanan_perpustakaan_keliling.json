@@ -8708,8 +8708,8 @@
     "kecamatan": "CAKUNG",
     "kelurahan": "CAKUNG BARAT",
     "lokasi": "MIS UMDATUR RASIKHIEN",
-    "koordinat_x": "RWQJ+PR9 West Cakung, East Jakarta City, Jakarta",
-    "koordinat_y": "6°09'38.5\"S 106°55'55.6\"E"
+    "koordinat_x": "N/A",
+    "koordinat_y": "N/A"
   },
   {
     "periode_data": 2025,
@@ -14758,8 +14758,8 @@
     "kecamatan": "CENGKARENG",
     "kelurahan": "RAWA BUAYA",
     "lokasi": "TAMAN JERUK BOJONG",
-    "koordinat_x": "106.7366707,17",
-    "koordinat_y": "-6.1619934g"
+    "koordinat_x": 106.7366707,
+    "koordinat_y": -6.1619934
   },
   {
     "periode_data": 2025,
@@ -14989,7 +14989,7 @@
     "kecamatan": "KEBON JERUK",
     "kelurahan": "SUKABUMI UTARA",
     "lokasi": "SDN SUKUT 05",
-    "koordinat_x": "6°12'11.5\"S 106°46'48.4\"E",
+    "koordinat_x": "N/A",
     "koordinat_y": "N/A"
   },
   {
@@ -22568,7 +22568,7 @@
     "kecamatan": "CENGKARENG",
     "kelurahan": "DURI KOSAMBI",
     "lokasi": "RPTRA MAWAR DURI KOSAMBI",
-    "koordinat_x": "1,067,156,211",
+    "koordinat_x": 106.7156211,
     "koordinat_y": "-61,680,127"
   },
   {
@@ -25989,8 +25989,8 @@
     "kecamatan": "KEMAYORAN",
     "kelurahan": "SUMUR BATU",
     "lokasi": "RPTRA MUTIARA SUMUR BATU",
-    "koordinat_x": "106°52'6,42061",
-    "koordinat_y": "-6°164372"
+    "koordinat_x": "N/A",
+    "koordinat_y": "N/A"
   },
   {
     "periode_data": 2025,
@@ -28068,8 +28068,8 @@
     "kecamatan": "CEMPAKA PUTIH",
     "kelurahan": "CEMPAKA PUTIH TIMUR",
     "lokasi": "RPTRA BERINGIN",
-    "koordinat_x": "Cempaka Putih Kota Adm Jakarta Pusat",
-    "koordinat_y": "Jalan Rawasari Barat XNo. 30A RT 010 RW 01"
+    "koordinat_x": "N/A",
+    "koordinat_y": "N/A"
   },
   {
     "periode_data": 2025,
