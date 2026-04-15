@@ -20,7 +20,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "PESANGGRAHAN",
     "kelurahan": "PESANGGRAHAN",
-    "lokasi_kegiatan": "RPTRA Bhinneka",
+    "lokasi_kegiatan": "RPTRA BHINNEKA",
     "jumlah_peserta": 100
   },
   {
@@ -28,7 +28,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "KEBAYORAN LAMA",
     "kelurahan": "KEBAYORAN LAMA UTARA",
-    "lokasi_kegiatan": "TK Aisyiyah 4",
+    "lokasi_kegiatan": "TK AISYIYAH 4",
     "jumlah_peserta": 45
   },
   {
@@ -36,7 +36,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "CIRACAS",
     "kelurahan": "CIBUBUR",
-    "lokasi_kegiatan": "RPTRA Cibubur Berseri",
+    "lokasi_kegiatan": "RPTRA CIBUBUR BERSERI",
     "jumlah_peserta": 65
   },
   {
@@ -44,7 +44,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "DUREN SAWIT",
     "kelurahan": "PONDOK BAMBU",
-    "lokasi_kegiatan": "BKB PAUD ABC Melati V",
+    "lokasi_kegiatan": "BKB PAUD ABC MELATI V",
     "jumlah_peserta": 30
   },
   {
@@ -52,7 +52,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "CIRACAS",
     "kelurahan": "CIBUBUR",
-    "lokasi_kegiatan": "SDN Cibubur 04",
+    "lokasi_kegiatan": "SDN CIBUBUR 04",
     "jumlah_peserta": 500
   },
   {
@@ -60,7 +60,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "CIRACAS",
     "kelurahan": "CIRACAS",
-    "lokasi_kegiatan": "SDN Ciracas 11",
+    "lokasi_kegiatan": "SDN CIRACAS 11",
     "jumlah_peserta": 358
   },
   {
@@ -68,7 +68,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "DUREN SAWIT",
     "kelurahan": "PONDOK KELAPA",
-    "lokasi_kegiatan": "SDN Pondok Kelapa 01",
+    "lokasi_kegiatan": "SDN PONDOK KELAPA 01",
     "jumlah_peserta": 250
   },
   {
@@ -76,7 +76,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "CIRACAS",
     "kelurahan": "CIBUBUR",
-    "lokasi_kegiatan": "SDN Cibubur 01",
+    "lokasi_kegiatan": "SDN CIBUBUR 01",
     "jumlah_peserta": 740
   },
   {
@@ -84,7 +84,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "CIPAYUNG",
     "kelurahan": "CEGER",
-    "lokasi_kegiatan": "SDN Ceger 02",
+    "lokasi_kegiatan": "SDN CEGER 02",
     "jumlah_peserta": 235
   },
   {
@@ -92,7 +92,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "PASAR REBO",
     "kelurahan": "PEKAYON",
-    "lokasi_kegiatan": "SDN Pekayon 03",
+    "lokasi_kegiatan": "SDN PEKAYON 03",
     "jumlah_peserta": 440
   },
   {
@@ -100,7 +100,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "CAKUNG",
     "kelurahan": "CAKUNG BARAT",
-    "lokasi_kegiatan": "SDN Cakung Barat 04",
+    "lokasi_kegiatan": "SDN CAKUNG BARAT 04",
     "jumlah_peserta": 608
   },
   {
@@ -108,7 +108,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "CAKUNG",
     "kelurahan": "PENGGILINGAN",
-    "lokasi_kegiatan": "SDN Penggilingan 09",
+    "lokasi_kegiatan": "SDN PENGGILINGAN 09",
     "jumlah_peserta": 300
   },
   {
@@ -116,7 +116,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "MATRAMAN",
     "kelurahan": "PISANGAN BARU",
-    "lokasi_kegiatan": "SDN Pisangan Baru 13",
+    "lokasi_kegiatan": "SDN PISANGAN BARU 13",
     "jumlah_peserta": 194
   },
   {
@@ -124,7 +124,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "KRAMATJATI",
     "kelurahan": "BATU AMPAR",
-    "lokasi_kegiatan": "SDN Batu Ampar 12",
+    "lokasi_kegiatan": "SDN BATU AMPAR 12",
     "jumlah_peserta": 340
   },
   {
@@ -132,7 +132,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "JATINEGARA",
     "kelurahan": "CIPINANG MUARA",
-    "lokasi_kegiatan": "SDN Cipinang Muara 14",
+    "lokasi_kegiatan": "SDN CIPINANG MUARA 14",
     "jumlah_peserta": 400
   },
   {
@@ -140,7 +140,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "PULOGADUNG",
     "kelurahan": "RAWAMANGUN",
-    "lokasi_kegiatan": "HBKB Rwamangun",
+    "lokasi_kegiatan": "HBKB RWAMANGUN",
     "jumlah_peserta": 38
   },
   {
@@ -148,7 +148,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "MAKASAR",
     "kelurahan": "CIPINANG MELAYU",
-    "lokasi_kegiatan": "SDN Cipinang Melayu 09",
+    "lokasi_kegiatan": "SDN CIPINANG MELAYU 09",
     "jumlah_peserta": 320
   },
   {
@@ -156,7 +156,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "KRAMATJATI",
     "kelurahan": "BATU AMPAR",
-    "lokasi_kegiatan": "SDN Batu Ampar 13",
+    "lokasi_kegiatan": "SDN BATU AMPAR 13",
     "jumlah_peserta": 318
   },
   {
@@ -164,7 +164,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "KRAMATJATI",
     "kelurahan": "CILILITAN",
-    "lokasi_kegiatan": "SDI Cililitan II",
+    "lokasi_kegiatan": "SDI CILILITAN II",
     "jumlah_peserta": 108
   },
   {
@@ -172,7 +172,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "CAKUNG",
     "kelurahan": "PULO GEBANG",
-    "lokasi_kegiatan": "SDN Pulo Gebang 11",
+    "lokasi_kegiatan": "SDN PULO GEBANG 11",
     "jumlah_peserta": 620
   },
   {
@@ -180,7 +180,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "DUREN SAWIT",
     "kelurahan": "MALAKA SARI",
-    "lokasi_kegiatan": "BKB PAUD Delima RW 05 Malaka Sari",
+    "lokasi_kegiatan": "BKB PAUD DELIMA RW 05 MALAKA SARI",
     "jumlah_peserta": 80
   },
   {
@@ -212,7 +212,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "JATINEGARA",
     "kelurahan": "CIPINANG BESAR SELATAN",
-    "lokasi_kegiatan": "SDN Cipinang Besar Selatan 15 Pagi",
+    "lokasi_kegiatan": "SDN CIPINANG BESAR SELATAN 15 PAGI",
     "jumlah_peserta": 376
   },
   {
@@ -236,7 +236,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "KRAMATJATI",
     "kelurahan": "DUKUH",
-    "lokasi_kegiatan": "SMPN 209 Jakarta",
+    "lokasi_kegiatan": "SMPN 209 JAKARTA",
     "jumlah_peserta": 150
   },
   {
@@ -244,7 +244,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "DUREN SAWIT",
     "kelurahan": "PONDOK BAMBU",
-    "lokasi_kegiatan": "SMPN 135 Jakarta",
+    "lokasi_kegiatan": "SMPN 135 JAKARTA",
     "jumlah_peserta": 150
   },
   {
@@ -260,7 +260,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "JATINEGARA",
     "kelurahan": "CIPINANG MUARA",
-    "lokasi_kegiatan": "SD Juara",
+    "lokasi_kegiatan": "SD JUARA",
     "jumlah_peserta": 150
   },
   {
@@ -268,7 +268,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "CIRACAS",
     "kelurahan": "CIBUBUR",
-    "lokasi_kegiatan": "SMPN 25 Jakarta",
+    "lokasi_kegiatan": "SMPN 25 JAKARTA",
     "jumlah_peserta": 150
   },
   {
@@ -276,7 +276,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "CAKUNG",
     "kelurahan": "PULO GEBANG",
-    "lokasi_kegiatan": "SDN Pulo Gebang 04",
+    "lokasi_kegiatan": "SDN PULO GEBANG 04",
     "jumlah_peserta": 150
   },
   {
@@ -284,7 +284,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "CIPAYUNG",
     "kelurahan": "PONDOK RANGGON",
-    "lokasi_kegiatan": "SDN Pondok Ranggon 04",
+    "lokasi_kegiatan": "SDN PONDOK RANGGON 04",
     "jumlah_peserta": 150
   },
   {
@@ -292,7 +292,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "CIPAYUNG",
     "kelurahan": "PONDOK RANGGON",
-    "lokasi_kegiatan": "SDN Pondok Ranggon 01",
+    "lokasi_kegiatan": "SDN PONDOK RANGGON 01",
     "jumlah_peserta": 150
   },
   {
@@ -300,7 +300,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "PULOGADUNG",
     "kelurahan": "JATINEGARA",
-    "lokasi_kegiatan": "SMPN 275 Jakarta",
+    "lokasi_kegiatan": "SMPN 275 JAKARTA",
     "jumlah_peserta": 150
   },
   {
@@ -308,7 +308,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "CAKUNG",
     "kelurahan": "PULO GEBANG",
-    "lokasi_kegiatan": "SMPN 172 Jakarta",
+    "lokasi_kegiatan": "SMPN 172 JAKARTA",
     "jumlah_peserta": 150
   },
   {
@@ -316,7 +316,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "CAKUNG",
     "kelurahan": "PULO GEBANG",
-    "lokasi_kegiatan": "SMP Daqta",
+    "lokasi_kegiatan": "SMP DAQTA",
     "jumlah_peserta": 75
   },
   {
@@ -324,7 +324,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "MATRAMAN",
     "kelurahan": "PISANGAN BARU",
-    "lokasi_kegiatan": "SDN Pisangan Baru 05",
+    "lokasi_kegiatan": "SDN PISANGAN BARU 05",
     "jumlah_peserta": 150
   },
   {
@@ -332,7 +332,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "KRAMATJATI",
     "kelurahan": "TENGAH",
-    "lokasi_kegiatan": "SMPN 257 Jakarta",
+    "lokasi_kegiatan": "SMPN 257 JAKARTA",
     "jumlah_peserta": 150
   },
   {
@@ -340,7 +340,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "PASAR REBO",
     "kelurahan": "KALISARI",
-    "lokasi_kegiatan": "SDIT Insan Mandiri",
+    "lokasi_kegiatan": "SDIT INSAN MANDIRI",
     "jumlah_peserta": 100
   },
   {
@@ -348,7 +348,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "DUREN SAWIT",
     "kelurahan": "MALAKA SARI",
-    "lokasi_kegiatan": "SDN Malaka Sari 02",
+    "lokasi_kegiatan": "SDN MALAKA SARI 02",
     "jumlah_peserta": 150
   },
   {
@@ -356,7 +356,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "MAKASAR",
     "kelurahan": "MAKASAR",
-    "lokasi_kegiatan": "SDN Makasar 05",
+    "lokasi_kegiatan": "SDN MAKASAR 05",
     "jumlah_peserta": 435
   },
   {
@@ -364,7 +364,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "CIPAYUNG",
     "kelurahan": "CEGER",
-    "lokasi_kegiatan": "SMPN 256 Jakarta",
+    "lokasi_kegiatan": "SMPN 256 JAKARTA",
     "jumlah_peserta": 150
   },
   {
@@ -404,7 +404,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "MAKASAR",
     "kelurahan": "HALIM PERDANA KUSUMA",
-    "lokasi_kegiatan": "SDS Angkasa 7",
+    "lokasi_kegiatan": "SDS ANGKASA 7",
     "jumlah_peserta": 30
   },
   {
@@ -412,7 +412,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "CAKUNG",
     "kelurahan": "UJUNG MENTENG",
-    "lokasi_kegiatan": "Sekolah Al-Wildan Islamic School 10 Jakarta",
+    "lokasi_kegiatan": "SEKOLAH AL-WILDAN ISLAMIC SCHOOL 10 JAKARTA",
     "jumlah_peserta": 115
   },
   {
@@ -420,7 +420,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "DUREN SAWIT",
     "kelurahan": "PONDOK KOPI",
-    "lokasi_kegiatan": "TK Al Istiqomah",
+    "lokasi_kegiatan": "TK AL ISTIQOMAH",
     "jumlah_peserta": 30
   },
   {
@@ -428,7 +428,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "DUREN SAWIT",
     "kelurahan": "PONDOK KELAPA",
-    "lokasi_kegiatan": "Whoppy Daycare & Play School",
+    "lokasi_kegiatan": "WHOPPY DAYCARE & PLAY SCHOOL",
     "jumlah_peserta": 20
   },
   {
@@ -436,7 +436,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "JATINEGARA",
     "kelurahan": "RAWA BUNGA",
-    "lokasi_kegiatan": "Zoom meeting",
+    "lokasi_kegiatan": "ZOOM MEETING",
     "jumlah_peserta": 75
   },
   {
@@ -444,7 +444,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "JATINEGARA",
     "kelurahan": "RAWA BUNGA",
-    "lokasi_kegiatan": "Instagram",
+    "lokasi_kegiatan": "INSTAGRAM",
     "jumlah_peserta": 22490
   },
   {
@@ -452,7 +452,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "GAMBIR",
     "kelurahan": "PETOJO SELATAN",
-    "lokasi_kegiatan": "Perpustakaan Jakarta Pusat",
+    "lokasi_kegiatan": "PERPUSTAKAAN JAKARTA PUSAT",
     "jumlah_peserta": 1098
   },
   {
@@ -460,7 +460,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "CILINCING",
     "kelurahan": "SEMPER BARAT",
-    "lokasi_kegiatan": "RPTRA Satria Biru",
+    "lokasi_kegiatan": "RPTRA SATRIA BIRU",
     "jumlah_peserta": 130
   },
   {
@@ -468,7 +468,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "TANJUNG PRIOK",
     "kelurahan": "WARAKAS",
-    "lokasi_kegiatan": "SDN Warakas 07",
+    "lokasi_kegiatan": "SDN WARAKAS 07",
     "jumlah_peserta": 80
   },
   {
@@ -476,7 +476,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "CILINCING",
     "kelurahan": "ROROTAN",
-    "lokasi_kegiatan": "SMPN 84 Jakarta",
+    "lokasi_kegiatan": "SMPN 84 JAKARTA",
     "jumlah_peserta": 80
   },
   {
@@ -484,7 +484,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "TANJUNG PRIOK",
     "kelurahan": "TANJUNG PRIOK",
-    "lokasi_kegiatan": "SDN Tanjung Priok 01",
+    "lokasi_kegiatan": "SDN TANJUNG PRIOK 01",
     "jumlah_peserta": 80
   },
   {
@@ -492,7 +492,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "KOJA",
     "kelurahan": "RAWA BADAK UTARA",
-    "lokasi_kegiatan": "SDN Rawa Badak Utara 15",
+    "lokasi_kegiatan": "SDN RAWA BADAK UTARA 15",
     "jumlah_peserta": 80
   },
   {
@@ -500,7 +500,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "PENJARINGAN",
     "kelurahan": "KAMAL MUARA",
-    "lokasi_kegiatan": "SMPN 120 Jakarta",
+    "lokasi_kegiatan": "SMPN 120 JAKARTA",
     "jumlah_peserta": 80
   },
   {
@@ -508,7 +508,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "TANJUNG PRIOK",
     "kelurahan": "KEBON BAWANG",
-    "lokasi_kegiatan": "Kantor Walikota Jakarta Utara",
+    "lokasi_kegiatan": "KANTOR WALIKOTA JAKARTA UTARA",
     "jumlah_peserta": 1304
   },
   {
@@ -516,7 +516,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "SENEN",
     "kelurahan": "SENEN",
-    "lokasi_kegiatan": "RPTRA Planet Senen",
+    "lokasi_kegiatan": "RPTRA PLANET SENEN",
     "jumlah_peserta": 100
   },
   {
@@ -524,7 +524,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "JOHAR BARU",
     "kelurahan": "JOHAR BARU",
-    "lokasi_kegiatan": "SDN Johar Baru 04",
+    "lokasi_kegiatan": "SDN JOHAR BARU 04",
     "jumlah_peserta": 70
   },
   {
@@ -532,7 +532,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "GAMBIR",
     "kelurahan": "KEBON KELAPA",
-    "lokasi_kegiatan": "SDN Kebon Kelapa 02",
+    "lokasi_kegiatan": "SDN KEBON KELAPA 02",
     "jumlah_peserta": 340
   },
   {
@@ -540,7 +540,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "TANAH ABANG",
     "kelurahan": "GELORA",
-    "lokasi_kegiatan": "RPTRA Annur",
+    "lokasi_kegiatan": "RPTRA ANNUR",
     "jumlah_peserta": 51
   },
   {
@@ -548,7 +548,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "CILINCING",
     "kelurahan": "MARUNDA",
-    "lokasi_kegiatan": "RPTRA Mutiara Marunda",
+    "lokasi_kegiatan": "RPTRA MUTIARA MARUNDA",
     "jumlah_peserta": 130
   },
   {
@@ -556,7 +556,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "TANAH ABANG",
     "kelurahan": "BENDUNGAN HILIR",
-    "lokasi_kegiatan": "RPTRA Rusun Benhil 2",
+    "lokasi_kegiatan": "RPTRA RUSUN BENHIL 2",
     "jumlah_peserta": 90
   },
   {
@@ -564,7 +564,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "TANAH ABANG",
     "kelurahan": "KEBON MELATI",
-    "lokasi_kegiatan": "RPTRA Kebon Melati",
+    "lokasi_kegiatan": "RPTRA KEBON MELATI",
     "jumlah_peserta": 84
   },
   {
@@ -572,7 +572,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "MATRAMAN",
     "kelurahan": "UTAN KAYU SELATAN",
-    "lokasi_kegiatan": "SDN Utan Kayu Selatan 01",
+    "lokasi_kegiatan": "SDN UTAN KAYU SELATAN 01",
     "jumlah_peserta": 300
   },
   {
@@ -588,7 +588,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "MENTENG",
     "kelurahan": "PEGANGSAAN",
-    "lokasi_kegiatan": "SLB Negeri 3 Jakarta",
+    "lokasi_kegiatan": "SLB NEGERI 3 JAKARTA",
     "jumlah_peserta": 100
   },
   {
@@ -596,7 +596,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "GAMBIR",
     "kelurahan": "PETOJO SELATAN",
-    "lokasi_kegiatan": "Zoom",
+    "lokasi_kegiatan": "ZOOM",
     "jumlah_peserta": 85
   },
   {
@@ -604,7 +604,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "TANJUNG PRIOK",
     "kelurahan": "KEBON BAWANG",
-    "lokasi_kegiatan": "Balai Yos Sudarso",
+    "lokasi_kegiatan": "BALAI YOS SUDARSO",
     "jumlah_peserta": 6663
   },
   {
@@ -612,7 +612,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "KELAPA GADING",
     "kelurahan": "PEGANGSAAN DUA",
-    "lokasi_kegiatan": "SDN Pegangsaan Dua 07",
+    "lokasi_kegiatan": "SDN PEGANGSAAN DUA 07",
     "jumlah_peserta": 390
   },
   {
@@ -620,7 +620,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "CILINCING",
     "kelurahan": "SEMPER BARAT",
-    "lokasi_kegiatan": "SDN Semper Barat 15",
+    "lokasi_kegiatan": "SDN SEMPER BARAT 15",
     "jumlah_peserta": 300
   },
   {
@@ -628,7 +628,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "CILINCING",
     "kelurahan": "SEMPER BARAT",
-    "lokasi_kegiatan": "SDN Semper Barat 03",
+    "lokasi_kegiatan": "SDN SEMPER BARAT 03",
     "jumlah_peserta": 450
   },
   {
@@ -636,7 +636,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "JOHAR BARU",
     "kelurahan": "TANAH TINGGI",
-    "lokasi_kegiatan": "RPTRA Pandawa",
+    "lokasi_kegiatan": "RPTRA PANDAWA",
     "jumlah_peserta": 65
   },
   {
@@ -644,7 +644,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "MENTENG",
     "kelurahan": "KEBON SIRIH",
-    "lokasi_kegiatan": "RPTRA Kebon Sirih",
+    "lokasi_kegiatan": "RPTRA KEBON SIRIH",
     "jumlah_peserta": 41
   },
   {
@@ -652,7 +652,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "GAMBIR",
     "kelurahan": "CIDENG",
-    "lokasi_kegiatan": "SDN Cideng 02",
+    "lokasi_kegiatan": "SDN CIDENG 02",
     "jumlah_peserta": 125
   },
   {
@@ -660,7 +660,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "PADEMANGAN",
     "kelurahan": "PADEMANGAN TIMUR",
-    "lokasi_kegiatan": "TKN Pademangan 02",
+    "lokasi_kegiatan": "TKN PADEMANGAN 02",
     "jumlah_peserta": 50
   },
   {
@@ -668,7 +668,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "TANJUNG PRIOK",
     "kelurahan": "SUNTER AGUNG",
-    "lokasi_kegiatan": "SMAN 41 Jakarta",
+    "lokasi_kegiatan": "SMAN 41 JAKARTA",
     "jumlah_peserta": 150
   },
   {
@@ -676,7 +676,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "KOJA",
     "kelurahan": "TUGU UTARA",
-    "lokasi_kegiatan": "SDN Tugu Utara 13",
+    "lokasi_kegiatan": "SDN TUGU UTARA 13",
     "jumlah_peserta": 70
   },
   {
@@ -684,7 +684,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "KOJA",
     "kelurahan": "TUGU UTARA",
-    "lokasi_kegiatan": "SDN Tugu Utara 17",
+    "lokasi_kegiatan": "SDN TUGU UTARA 17",
     "jumlah_peserta": 70
   },
   {
@@ -692,7 +692,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "TANJUNG PRIOK",
     "kelurahan": "SUNTER AGUNG",
-    "lokasi_kegiatan": "SMAN 15 Jakarta",
+    "lokasi_kegiatan": "SMAN 15 JAKARTA",
     "jumlah_peserta": 70
   },
   {
@@ -700,7 +700,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "CILINCING",
     "kelurahan": "SEMPER BARAT",
-    "lokasi_kegiatan": "SDS Advent IX, Semper Barat",
+    "lokasi_kegiatan": "SDS ADVENT IX, SEMPER BARAT",
     "jumlah_peserta": 70
   },
   {
@@ -708,7 +708,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "KOJA",
     "kelurahan": "RAWA BADAK SELATAN",
-    "lokasi_kegiatan": "SDN Rawa Badak Selatan 03",
+    "lokasi_kegiatan": "SDN RAWA BADAK SELATAN 03",
     "jumlah_peserta": 520
   },
   {
@@ -716,7 +716,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "CILINCING",
     "kelurahan": "ROROTAN",
-    "lokasi_kegiatan": "MI Al Wathoniyah 43",
+    "lokasi_kegiatan": "MI AL WATHONIYAH 43",
     "jumlah_peserta": 70
   },
   {
@@ -724,7 +724,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "CILINCING",
     "kelurahan": "KALIBARU",
-    "lokasi_kegiatan": "SDN Kalibaru 01",
+    "lokasi_kegiatan": "SDN KALIBARU 01",
     "jumlah_peserta": 70
   },
   {
@@ -732,7 +732,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "CILINCING",
     "kelurahan": "MARUNDA",
-    "lokasi_kegiatan": "SMKN 49 Jakarta",
+    "lokasi_kegiatan": "SMKN 49 JAKARTA",
     "jumlah_peserta": 70
   },
   {
@@ -740,7 +740,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "KELAPA GADING",
     "kelurahan": "KELAPA GADING TIMUR",
-    "lokasi_kegiatan": "SMKN 33 Jakarta",
+    "lokasi_kegiatan": "SMKN 33 JAKARTA",
     "jumlah_peserta": 70
   },
   {
@@ -748,7 +748,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "KOJA",
     "kelurahan": "LAGOA",
-    "lokasi_kegiatan": "SDS Strada Santo Ignatius",
+    "lokasi_kegiatan": "SDS STRADA SANTO IGNATIUS",
     "jumlah_peserta": 70
   },
   {
@@ -756,7 +756,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "CILINCING",
     "kelurahan": "MARUNDA",
-    "lokasi_kegiatan": "RPTRA Si Pitung",
+    "lokasi_kegiatan": "RPTRA SI PITUNG",
     "jumlah_peserta": 205
   },
   {
@@ -764,7 +764,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "CILINCING",
     "kelurahan": "SEMPER BARAT",
-    "lokasi_kegiatan": "SMPN 123 Jakarta",
+    "lokasi_kegiatan": "SMPN 123 JAKARTA",
     "jumlah_peserta": 80
   },
   {
@@ -772,7 +772,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "SAWAH BESAR",
     "kelurahan": "PASAR BARU",
-    "lokasi_kegiatan": "Pasar Baru",
+    "lokasi_kegiatan": "PASAR BARU",
     "jumlah_peserta": 40
   },
   {
@@ -780,7 +780,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "KOJA",
     "kelurahan": "RAWA BADAK UTARA",
-    "lokasi_kegiatan": "SMPN 162 Jakarta",
+    "lokasi_kegiatan": "SMPN 162 JAKARTA",
     "jumlah_peserta": 160
   },
   {
@@ -788,7 +788,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "GAMBIR",
     "kelurahan": "PETOJO SELATAN",
-    "lokasi_kegiatan": "Aula Perpustakaan Jakarta Pusat",
+    "lokasi_kegiatan": "AULA PERPUSTAKAAN JAKARTA PUSAT",
     "jumlah_peserta": 214
   },
   {
@@ -796,7 +796,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "CILINCING",
     "kelurahan": "SEMPER BARAT",
-    "lokasi_kegiatan": "SMP Plus Al-Fudhola Semper Barat",
+    "lokasi_kegiatan": "SMP PLUS AL-FUDHOLA SEMPER BARAT",
     "jumlah_peserta": 80
   },
   {
@@ -804,7 +804,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "KEMAYORAN",
     "kelurahan": "SUMUR BATU",
-    "lokasi_kegiatan": "RPTRA Mutiara Sumur Batu",
+    "lokasi_kegiatan": "RPTRA MUTIARA SUMUR BATU",
     "jumlah_peserta": 50
   },
   {
@@ -812,7 +812,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "JOHAR BARU",
     "kelurahan": "KAMPUNG RAWA",
-    "lokasi_kegiatan": "RPTRA Rawa Indah ceria",
+    "lokasi_kegiatan": "RPTRA RAWA INDAH CERIA",
     "jumlah_peserta": 61
   },
   {
@@ -820,7 +820,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "PADEMANGAN",
     "kelurahan": "PADEMANGAN BARAT",
-    "lokasi_kegiatan": "SMPN 112 Jakarta",
+    "lokasi_kegiatan": "SMPN 112 JAKARTA",
     "jumlah_peserta": 80
   },
   {
@@ -828,7 +828,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "GAMBIR",
     "kelurahan": "PETOJO SELATAN",
-    "lokasi_kegiatan": "Aula Jakarta Pusat",
+    "lokasi_kegiatan": "AULA JAKARTA PUSAT",
     "jumlah_peserta": 155
   },
   {
@@ -836,7 +836,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "TANJUNG PRIOK",
     "kelurahan": "KEBON BAWANG",
-    "lokasi_kegiatan": "Gazebo, Kantor Walikota Jakarta Utara",
+    "lokasi_kegiatan": "GAZEBO, KANTOR WALIKOTA JAKARTA UTARA",
     "jumlah_peserta": 135
   },
   {
@@ -844,7 +844,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "TANJUNG PRIOK",
     "kelurahan": "KEBON BAWANG",
-    "lokasi_kegiatan": "Pojok Baca Digital, Kantor Walikota Jakarta Utara",
+    "lokasi_kegiatan": "POJOK BACA DIGITAL, KANTOR WALIKOTA JAKARTA UTARA",
     "jumlah_peserta": 50
   },
   {
@@ -852,7 +852,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "JATINEGARA",
     "kelurahan": "RAWA BUNGA",
-    "lokasi_kegiatan": "Perpustakaan Jakarta Timur",
+    "lokasi_kegiatan": "PERPUSTAKAAN JAKARTA TIMUR",
     "jumlah_peserta": 313
   },
   {
@@ -860,7 +860,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "KELAPA GADING",
     "kelurahan": "KELAPA GADING BARAT",
-    "lokasi_kegiatan": "SD Plus Hang Tuah 6 KGB",
+    "lokasi_kegiatan": "SD PLUS HANG TUAH 6 KGB",
     "jumlah_peserta": 80
   },
   {
@@ -868,7 +868,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "KOJA",
     "kelurahan": "TUGU UTARA",
-    "lokasi_kegiatan": "RPTRA Walang Baru",
+    "lokasi_kegiatan": "RPTRA WALANG BARU",
     "jumlah_peserta": 130
   },
   {
@@ -876,7 +876,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "TANJUNG PRIOK",
     "kelurahan": "WARAKAS",
-    "lokasi_kegiatan": "SDN Warakas 03",
+    "lokasi_kegiatan": "SDN WARAKAS 03",
     "jumlah_peserta": 80
   },
   {
@@ -884,7 +884,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "CILINCING",
     "kelurahan": "MARUNDA",
-    "lokasi_kegiatan": "RPTRA Sirih Kuning",
+    "lokasi_kegiatan": "RPTRA SIRIH KUNING",
     "jumlah_peserta": 130
   },
   {
@@ -892,7 +892,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "JATINEGARA",
     "kelurahan": "RAWA BUNGA",
-    "lokasi_kegiatan": "Wilayah JT 2 (Kecamatan Cipayung, Ciracas, Kramat Jati, Makasar, Pasar Rebo)",
+    "lokasi_kegiatan": "WILAYAH JT 2 (KECAMATAN CIPAYUNG, CIRACAS, KRAMAT JATI, MAKASAR, PASAR REBO)",
     "jumlah_peserta": 3081
   },
   {
@@ -900,7 +900,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "KEBON JERUK",
     "kelurahan": "DURI KEPA",
-    "lokasi_kegiatan": "Kelurahan Keagungan\nKelurahan Kelapa Dua\nKelurahan Semanan\nKelurahan Srengseng\nKelurahan Sukabumi Selatan",
+    "lokasi_kegiatan": "KELURAHAN KEAGUNGAN\nKELURAHAN KELAPA DUA\nKELURAHAN SEMANAN\nKELURAHAN SRENGSENG\nKELURAHAN SUKABUMI SELATAN",
     "jumlah_peserta": 6651
   },
   {
@@ -908,7 +908,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "KEMBANGAN",
     "kelurahan": "KEMBANGAN SELATAN",
-    "lokasi_kegiatan": "Jalan Puri Indah Raya, Kembangan Selatan, Kembangan, Jakarta Barat",
+    "lokasi_kegiatan": "JALAN PURI INDAH RAYA, KEMBANGAN SELATAN, KEMBANGAN, JAKARTA BARAT",
     "jumlah_peserta": 1130
   },
   {
@@ -916,7 +916,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "KEBON JERUK",
     "kelurahan": "DURI KEPA",
-    "lokasi_kegiatan": "Ruang Layanan Anak Lantai 1 Kantor Perpustakaan Jakarta Barat",
+    "lokasi_kegiatan": "RUANG LAYANAN ANAK LANTAI 1 KANTOR PERPUSTAKAAN JAKARTA BARAT",
     "jumlah_peserta": 672
   },
   {
@@ -924,7 +924,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "CIPAYUNG",
     "kelurahan": "PONDOK RANGGON",
-    "lokasi_kegiatan": "SDN Pondok Ranggon 03",
+    "lokasi_kegiatan": "SDN PONDOK RANGGON 03",
     "jumlah_peserta": 640
   },
   {
@@ -932,7 +932,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "CILANDAK",
     "kelurahan": "LEBAK BULUS",
-    "lokasi_kegiatan": "SLBN 02 Jakarta",
+    "lokasi_kegiatan": "SLBN 02 JAKARTA",
     "jumlah_peserta": 300
   },
   {
@@ -940,7 +940,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "KEBAYORAN BARU",
     "kelurahan": "PETOGOGAN",
-    "lokasi_kegiatan": "Ruang Antasari Kantor Walikota Kota Administrasi Jakarta Selatan",
+    "lokasi_kegiatan": "RUANG ANTASARI KANTOR WALIKOTA KOTA ADMINISTRASI JAKARTA SELATAN",
     "jumlah_peserta": 400
   },
   {
@@ -948,7 +948,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "GROGOL PETAMBURAN",
     "kelurahan": "WIJAYA KUSUMA",
-    "lokasi_kegiatan": "RPTRA Wijaya Kusuma",
+    "lokasi_kegiatan": "RPTRA WIJAYA KUSUMA",
     "jumlah_peserta": 50
   },
   {
@@ -956,7 +956,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "KEBON JERUK",
     "kelurahan": "KEDOYA UTARA",
-    "lokasi_kegiatan": "RPTRA Kedoya Utara",
+    "lokasi_kegiatan": "RPTRA KEDOYA UTARA",
     "jumlah_peserta": 30
   },
   {
@@ -964,7 +964,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "TAMAN SARI",
     "kelurahan": "GLODOK",
-    "lokasi_kegiatan": "Pecinan Glodog Jakarta Barat",
+    "lokasi_kegiatan": "PECINAN GLODOG JAKARTA BARAT",
     "jumlah_peserta": 30
   },
   {
@@ -972,7 +972,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "CENGKARENG",
     "kelurahan": "CENGKARENG TIMUR",
-    "lokasi_kegiatan": "Sekolah Malika Center Jakarta",
+    "lokasi_kegiatan": "SEKOLAH MALIKA CENTER JAKARTA",
     "jumlah_peserta": 35
   },
   {
@@ -980,7 +980,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "CENGKARENG",
     "kelurahan": "KAPUK",
-    "lokasi_kegiatan": "RPTRA Pedongkelan",
+    "lokasi_kegiatan": "RPTRA PEDONGKELAN",
     "jumlah_peserta": 30
   },
   {
@@ -988,7 +988,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "KEMBANGAN",
     "kelurahan": "KEMBANGAN SELATAN",
-    "lokasi_kegiatan": "Perpustakaan Jakarta Barat",
+    "lokasi_kegiatan": "PERPUSTAKAAN JAKARTA BARAT",
     "jumlah_peserta": 50
   },
   {
@@ -996,7 +996,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "PAL MERAH",
     "kelurahan": "PALMERAH",
-    "lokasi_kegiatan": "TBM Edelweid",
+    "lokasi_kegiatan": "TBM EDELWEID",
     "jumlah_peserta": 40
   },
   {
@@ -1004,7 +1004,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "CENGKARENG",
     "kelurahan": "CENGKARENG TIMUR",
-    "lokasi_kegiatan": "MIN 7 Cengkareng Timur",
+    "lokasi_kegiatan": "MIN 7 CENGKARENG TIMUR",
     "jumlah_peserta": 110
   },
   {
@@ -1012,7 +1012,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "KEBON JERUK",
     "kelurahan": "MERUYA UTARA",
-    "lokasi_kegiatan": "SMPN 215 Jakarta",
+    "lokasi_kegiatan": "SMPN 215 JAKARTA",
     "jumlah_peserta": 260
   },
   {
@@ -1020,7 +1020,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "KALIDERES",
     "kelurahan": "KALIDERES",
-    "lokasi_kegiatan": "SDN Kalideres 07",
+    "lokasi_kegiatan": "SDN KALIDERES 07",
     "jumlah_peserta": 110
   },
   {
@@ -1028,7 +1028,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "KEMBANGAN",
     "kelurahan": "MERUYA SELATAN",
-    "lokasi_kegiatan": "SMPN 206 Jakarta",
+    "lokasi_kegiatan": "SMPN 206 JAKARTA",
     "jumlah_peserta": 110
   },
   {
@@ -1036,7 +1036,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "KEBON JERUK",
     "kelurahan": "KELAPA DUA",
-    "lokasi_kegiatan": "SD IT Citra Azzahra",
+    "lokasi_kegiatan": "SD IT CITRA AZZAHRA",
     "jumlah_peserta": 110
   },
   {
@@ -1044,7 +1044,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "CENGKARENG",
     "kelurahan": "SEMANAN",
-    "lokasi_kegiatan": "SMPN 205 Jakarta",
+    "lokasi_kegiatan": "SMPN 205 JAKARTA",
     "jumlah_peserta": 110
   },
   {
@@ -1052,7 +1052,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "KEMBANGAN",
     "kelurahan": "KEMBANGAN SELATAN",
-    "lokasi_kegiatan": "Ruang Aula Lantai 2, Kantor Sudin Perpustakaan dan Kearsipan Jakarta Barat",
+    "lokasi_kegiatan": "RUANG AULA LANTAI 2, KANTOR SUDIN PERPUSTAKAAN DAN KEARSIPAN JAKARTA BARAT",
     "jumlah_peserta": 368
   },
   {
@@ -1068,7 +1068,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "KEMBANGAN",
     "kelurahan": "KEMBANGAN SELATAN",
-    "lokasi_kegiatan": "Lobby Perpustakaan Jakarta Barat",
+    "lokasi_kegiatan": "LOBBY PERPUSTAKAAN JAKARTA BARAT",
     "jumlah_peserta": 30
   },
   {
@@ -1076,7 +1076,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "CIRACAS",
     "kelurahan": "RAMBUTAN",
-    "lokasi_kegiatan": "SDN Rambutan 03",
+    "lokasi_kegiatan": "SDN RAMBUTAN 03",
     "jumlah_peserta": 670
   },
   {
@@ -1084,7 +1084,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "JATINEGARA",
     "kelurahan": "CIPINANG BESAR SELATAN",
-    "lokasi_kegiatan": "SDN Cipinang Besar Selatan 12",
+    "lokasi_kegiatan": "SDN CIPINANG BESAR SELATAN 12",
     "jumlah_peserta": 367
   },
   {
@@ -1092,7 +1092,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "KALIDERES",
     "kelurahan": "PEGADUNGAN",
-    "lokasi_kegiatan": "RPTRA Pegadungan",
+    "lokasi_kegiatan": "RPTRA PEGADUNGAN",
     "jumlah_peserta": 25
   },
   {
@@ -1100,7 +1100,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "TAMAN SARI",
     "kelurahan": "MAPHAR",
-    "lokasi_kegiatan": "RPTRA Maphar",
+    "lokasi_kegiatan": "RPTRA MAPHAR",
     "jumlah_peserta": 25
   },
   {
@@ -1108,7 +1108,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "KEMBANGAN",
     "kelurahan": "SRENGSENG",
-    "lokasi_kegiatan": "MTs Negeri 8 Jakarta",
+    "lokasi_kegiatan": "MTS NEGERI 8 JAKARTA",
     "jumlah_peserta": 90
   },
   {
@@ -1116,7 +1116,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "PULOGADUNG",
     "kelurahan": "PULO GADUNG",
-    "lokasi_kegiatan": "SDN Pulogadung 07",
+    "lokasi_kegiatan": "SDN PULOGADUNG 07",
     "jumlah_peserta": 210
   },
   {
@@ -1124,7 +1124,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "TAMBORA",
     "kelurahan": "ANGKE",
-    "lokasi_kegiatan": "Rusun Tambora",
+    "lokasi_kegiatan": "RUSUN TAMBORA",
     "jumlah_peserta": 105
   },
   {
@@ -1132,7 +1132,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "DUREN SAWIT",
     "kelurahan": "KLENDER",
-    "lokasi_kegiatan": "SDN Klender 01",
+    "lokasi_kegiatan": "SDN KLENDER 01",
     "jumlah_peserta": 247
   },
   {
@@ -1140,7 +1140,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "JATINEGARA",
     "kelurahan": "CIPINANG BESAR UTARA",
-    "lokasi_kegiatan": "SDN Cipinang Besar Utara 11",
+    "lokasi_kegiatan": "SDN CIPINANG BESAR UTARA 11",
     "jumlah_peserta": 428
   },
   {
@@ -1148,7 +1148,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "KEMBANGAN",
     "kelurahan": "MERUYA SELATAN",
-    "lokasi_kegiatan": "RPTRA Mahkota",
+    "lokasi_kegiatan": "RPTRA MAHKOTA",
     "jumlah_peserta": 25
   },
   {
@@ -1156,7 +1156,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "JATINEGARA",
     "kelurahan": "CIPINANG BESAR SELATAN",
-    "lokasi_kegiatan": "SDN Cipinang Besar Selatan 16",
+    "lokasi_kegiatan": "SDN CIPINANG BESAR SELATAN 16",
     "jumlah_peserta": 196
   },
   {
@@ -1164,7 +1164,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "TAMBORA",
     "kelurahan": "ROA MALAKA",
-    "lokasi_kegiatan": "RPTRA Serasi",
+    "lokasi_kegiatan": "RPTRA SERASI",
     "jumlah_peserta": 25
   },
   {
@@ -1172,7 +1172,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "KEMBANGAN",
     "kelurahan": "KEMBANGAN SELATAN",
-    "lokasi_kegiatan": "Ruang Layanan Anak, Lantai 1 Perpustakaan Jakarta Barat",
+    "lokasi_kegiatan": "RUANG LAYANAN ANAK, LANTAI 1 PERPUSTAKAAN JAKARTA BARAT",
     "jumlah_peserta": 851
   },
   {
@@ -1180,7 +1180,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "CILANDAK",
     "kelurahan": "CILANDAK BARAT",
-    "lokasi_kegiatan": "TKN Cilandak 01",
+    "lokasi_kegiatan": "TKN CILANDAK 01",
     "jumlah_peserta": 80
   },
   {
@@ -1188,7 +1188,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "PASAR MINGGU",
     "kelurahan": "PEJATEN TIMUR",
-    "lokasi_kegiatan": "RPTRA Kemuning",
+    "lokasi_kegiatan": "RPTRA KEMUNING",
     "jumlah_peserta": 100
   },
   {
@@ -1196,7 +1196,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "CILANDAK",
     "kelurahan": "PONDOK LABU",
-    "lokasi_kegiatan": "SDN Pondok Labu 14",
+    "lokasi_kegiatan": "SDN PONDOK LABU 14",
     "jumlah_peserta": 75
   },
   {
@@ -1204,7 +1204,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "CIRACAS",
     "kelurahan": "RAMBUTAN",
-    "lokasi_kegiatan": "SDN Rambutan 02",
+    "lokasi_kegiatan": "SDN RAMBUTAN 02",
     "jumlah_peserta": 330
   },
   {
@@ -1212,7 +1212,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "TEBET",
     "kelurahan": "MENTENG DALAM",
-    "lokasi_kegiatan": "SDN Menteng Dalam 05",
+    "lokasi_kegiatan": "SDN MENTENG DALAM 05",
     "jumlah_peserta": 200
   },
   {
@@ -1220,7 +1220,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "KEBAYORAN BARU",
     "kelurahan": "PETOGOGAN",
-    "lokasi_kegiatan": "Kantor Walikota Kota Administrasi Jakarta Selatan",
+    "lokasi_kegiatan": "KANTOR WALIKOTA KOTA ADMINISTRASI JAKARTA SELATAN",
     "jumlah_peserta": 123
   },
   {
@@ -1228,7 +1228,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "JATINEGARA",
     "kelurahan": "RAWA BUNGA",
-    "lokasi_kegiatan": "Suku Dinas Perpustakaan dan Kearsipan Kota Administrasi Jakarta Timur",
+    "lokasi_kegiatan": "SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN KOTA ADMINISTRASI JAKARTA TIMUR",
     "jumlah_peserta": 1618
   },
   {
@@ -1236,7 +1236,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "CIPAYUNG",
     "kelurahan": "PONDOK RANGGON",
-    "lokasi_kegiatan": "RPTRA Ranggon Kusuma Baru",
+    "lokasi_kegiatan": "RPTRA RANGGON KUSUMA BARU",
     "jumlah_peserta": 60
   },
   {
@@ -1244,7 +1244,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "JATINEGARA",
     "kelurahan": "BIDARA CINA",
-    "lokasi_kegiatan": "SD Santo Antonius",
+    "lokasi_kegiatan": "SD SANTO ANTONIUS",
     "jumlah_peserta": 220
   },
   {
@@ -1252,7 +1252,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "PULOGADUNG",
     "kelurahan": "JATI",
-    "lokasi_kegiatan": "Taman Nilam Jati, Pulo Gadung",
+    "lokasi_kegiatan": "TAMAN NILAM JATI, PULO GADUNG",
     "jumlah_peserta": 150
   },
   {
@@ -1268,7 +1268,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "CAKUNG",
     "kelurahan": "PULO GEBANG",
-    "lokasi_kegiatan": "BKB PAUD Islam At-Taqwa",
+    "lokasi_kegiatan": "BKB PAUD ISLAM AT-TAQWA",
     "jumlah_peserta": 103
   },
   {
@@ -1276,7 +1276,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "JATINEGARA",
     "kelurahan": "CIPINANG BESAR SELATAN",
-    "lokasi_kegiatan": "SDN Cipinang Besar Selatan 13 Pagi",
+    "lokasi_kegiatan": "SDN CIPINANG BESAR SELATAN 13 PAGI",
     "jumlah_peserta": 300
   },
   {
@@ -1284,7 +1284,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "KRAMATJATI",
     "kelurahan": "CAWANG",
-    "lokasi_kegiatan": "SMA Muhammadiyah 4 Jakarta",
+    "lokasi_kegiatan": "SMA MUHAMMADIYAH 4 JAKARTA",
     "jumlah_peserta": 50
   },
   {
@@ -1292,7 +1292,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "MAKASAR",
     "kelurahan": "PINANGRANTI",
-    "lokasi_kegiatan": "RPTRA Kampung Pulo Asri",
+    "lokasi_kegiatan": "RPTRA KAMPUNG PULO ASRI",
     "jumlah_peserta": 80
   },
   {
@@ -1300,7 +1300,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "PASAR REBO",
     "kelurahan": "CIJANTUNG",
-    "lokasi_kegiatan": "SDN Cijantung 06",
+    "lokasi_kegiatan": "SDN CIJANTUNG 06",
     "jumlah_peserta": 480
   },
   {
@@ -1308,7 +1308,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "DUREN SAWIT",
     "kelurahan": "PONDOK KELAPA",
-    "lokasi_kegiatan": "TPA Baby Fun Club",
+    "lokasi_kegiatan": "TPA BABY FUN CLUB",
     "jumlah_peserta": 35
   },
   {
@@ -1316,7 +1316,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "CIRACAS",
     "kelurahan": "KELAPA DUA WETAN",
-    "lokasi_kegiatan": "SDN Kepala Dua Wetan 01",
+    "lokasi_kegiatan": "SDN KEPALA DUA WETAN 01",
     "jumlah_peserta": 350
   },
   {
@@ -1332,7 +1332,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "SAWAH BESAR",
     "kelurahan": "PASAR BARU",
-    "lokasi_kegiatan": "FLONA Jakarta",
+    "lokasi_kegiatan": "FLONA JAKARTA",
     "jumlah_peserta": 40
   },
   {
@@ -1340,7 +1340,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "JATINEGARA",
     "kelurahan": "CIPINANG MUARA",
-    "lokasi_kegiatan": "SDN Cipinang Muara12",
+    "lokasi_kegiatan": "SDN CIPINANG MUARA12",
     "jumlah_peserta": 200
   },
   {
@@ -1348,7 +1348,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "JATINEGARA",
     "kelurahan": "CIPINANG BESAR SELATAN",
-    "lokasi_kegiatan": "SDN Cipinang Besar Selatan 04",
+    "lokasi_kegiatan": "SDN CIPINANG BESAR SELATAN 04",
     "jumlah_peserta": 218
   },
   {
@@ -1356,7 +1356,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "DUREN SAWIT",
     "kelurahan": "MALAKA JAYA",
-    "lokasi_kegiatan": "SDN Malaka Jaya 12",
+    "lokasi_kegiatan": "SDN MALAKA JAYA 12",
     "jumlah_peserta": 250
   },
   {
@@ -1364,7 +1364,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "CAKUNG",
     "kelurahan": "PULO GEBANG",
-    "lokasi_kegiatan": "SDN Pulo Gebang 24",
+    "lokasi_kegiatan": "SDN PULO GEBANG 24",
     "jumlah_peserta": 250
   },
   {
@@ -1372,7 +1372,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "CAKUNG",
     "kelurahan": "PULO GEBANG",
-    "lokasi_kegiatan": "SDN Pulo Gebang 20",
+    "lokasi_kegiatan": "SDN PULO GEBANG 20",
     "jumlah_peserta": 265
   },
   {
@@ -1380,7 +1380,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "JATINEGARA",
     "kelurahan": "CIPINANG BESAR SELATAN",
-    "lokasi_kegiatan": "SDN Cipinang Besar Selatan 01",
+    "lokasi_kegiatan": "SDN CIPINANG BESAR SELATAN 01",
     "jumlah_peserta": 351
   },
   {
@@ -1388,7 +1388,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "JATINEGARA",
     "kelurahan": "CIPINANG CEMPEDAK",
-    "lokasi_kegiatan": "Kids Republic School",
+    "lokasi_kegiatan": "KIDS REPUBLIC SCHOOL",
     "jumlah_peserta": 120
   },
   {
@@ -1396,7 +1396,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "CIRACAS",
     "kelurahan": "CIRACAS",
-    "lokasi_kegiatan": "SDN Ciracas 09",
+    "lokasi_kegiatan": "SDN CIRACAS 09",
     "jumlah_peserta": 364
   },
   {
@@ -1412,7 +1412,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "DUREN SAWIT",
     "kelurahan": "KLENDER",
-    "lokasi_kegiatan": "SDN Klender 15",
+    "lokasi_kegiatan": "SDN KLENDER 15",
     "jumlah_peserta": 120
   },
   {
@@ -1420,7 +1420,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "DUREN SAWIT",
     "kelurahan": "PONDOK KELAPA",
-    "lokasi_kegiatan": "SDN Pondok Kelapa 10",
+    "lokasi_kegiatan": "SDN PONDOK KELAPA 10",
     "jumlah_peserta": 120
   },
   {
@@ -1428,7 +1428,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "JATINEGARA",
     "kelurahan": "CIPINANG MUARA",
-    "lokasi_kegiatan": "SMPN 44 Jakarta",
+    "lokasi_kegiatan": "SMPN 44 JAKARTA",
     "jumlah_peserta": 120
   },
   {
@@ -1436,7 +1436,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "CAKUNG",
     "kelurahan": "CAKUNG BARAT",
-    "lokasi_kegiatan": "SMP YP IPPI Cakung",
+    "lokasi_kegiatan": "SMP YP IPPI CAKUNG",
     "jumlah_peserta": 150
   },
   {
@@ -1452,7 +1452,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "DUREN SAWIT",
     "kelurahan": "PONDOK KELAPA",
-    "lokasi_kegiatan": "SDN Pondok Kelapa 07",
+    "lokasi_kegiatan": "SDN PONDOK KELAPA 07",
     "jumlah_peserta": 150
   },
   {
@@ -1468,7 +1468,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "CIRACAS",
     "kelurahan": "CIBUBUR",
-    "lokasi_kegiatan": "SDN Cibubur 03",
+    "lokasi_kegiatan": "SDN CIBUBUR 03",
     "jumlah_peserta": 150
   },
   {
@@ -1476,7 +1476,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "DUREN SAWIT",
     "kelurahan": "DUREN SAWIT",
-    "lokasi_kegiatan": "SDN Duren Sawit 08",
+    "lokasi_kegiatan": "SDN DUREN SAWIT 08",
     "jumlah_peserta": 150
   },
   {
@@ -1484,7 +1484,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "DUREN SAWIT",
     "kelurahan": "MALAKA JAYA",
-    "lokasi_kegiatan": "SMPN 213 Jakarta",
+    "lokasi_kegiatan": "SMPN 213 JAKARTA",
     "jumlah_peserta": 150
   },
   {
@@ -1492,7 +1492,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "JATINEGARA",
     "kelurahan": "RAWA BUNGA",
-    "lokasi_kegiatan": "SDN Rawa Bunga 11",
+    "lokasi_kegiatan": "SDN RAWA BUNGA 11",
     "jumlah_peserta": 105
   },
   {
@@ -1500,7 +1500,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "MATRAMAN",
     "kelurahan": "UTAN KAYU SELATAN",
-    "lokasi_kegiatan": "PAUD Flamboyan",
+    "lokasi_kegiatan": "PAUD FLAMBOYAN",
     "jumlah_peserta": 25
   },
   {
@@ -1508,7 +1508,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "MATRAMAN",
     "kelurahan": "UTAN KAYU SELATAN",
-    "lokasi_kegiatan": "TK Negeri 1 Matraman",
+    "lokasi_kegiatan": "TK NEGERI 1 MATRAMAN",
     "jumlah_peserta": 144
   },
   {
@@ -1516,7 +1516,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "JATINEGARA",
     "kelurahan": "CIPINANG BESAR SELATAN",
-    "lokasi_kegiatan": "PAUD AL-Fitri",
+    "lokasi_kegiatan": "PAUD AL-FITRI",
     "jumlah_peserta": 29
   },
   {
@@ -1524,7 +1524,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "DUREN SAWIT",
     "kelurahan": "PONDOK BAMBU",
-    "lokasi_kegiatan": "SPS Islam Arifilia",
+    "lokasi_kegiatan": "SPS ISLAM ARIFILIA",
     "jumlah_peserta": 45
   },
   {
@@ -1532,7 +1532,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "CAKUNG",
     "kelurahan": "PENGGILINGAN",
-    "lokasi_kegiatan": "TK Islam Al-Istiqomah",
+    "lokasi_kegiatan": "TK ISLAM AL-ISTIQOMAH",
     "jumlah_peserta": 94
   },
   {
@@ -1540,7 +1540,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "CAKUNG",
     "kelurahan": "PENGGILINGAN",
-    "lokasi_kegiatan": "Pengukuhan Bunda Literasi & Duta Baca : Ruang Pola Kantor Walikota Jakarta Timur",
+    "lokasi_kegiatan": "PENGUKUHAN BUNDA LITERASI & DUTA BACA : RUANG POLA KANTOR WALIKOTA JAKARTA TIMUR",
     "jumlah_peserta": 150
   },
   {
@@ -1548,7 +1548,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "JATINEGARA",
     "kelurahan": "RAWA BUNGA",
-    "lokasi_kegiatan": "Pembukaan HANJABA Jakarta Timur 2025",
+    "lokasi_kegiatan": "PEMBUKAAN HANJABA JAKARTA TIMUR 2025",
     "jumlah_peserta": 146
   },
   {
@@ -1556,7 +1556,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "JATINEGARA",
     "kelurahan": "RAWA BUNGA",
-    "lokasi_kegiatan": "Penutupan HANJABA Jakarta Timur 2025",
+    "lokasi_kegiatan": "PENUTUPAN HANJABA JAKARTA TIMUR 2025",
     "jumlah_peserta": 217
   },
   {
@@ -1564,7 +1564,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "JATINEGARA",
     "kelurahan": "RAWA BUNGA",
-    "lokasi_kegiatan": "Instagram @perpusjkt_timur",
+    "lokasi_kegiatan": "INSTAGRAM @PERPUSJKT_TIMUR",
     "jumlah_peserta": 41950
   },
   {
@@ -1580,7 +1580,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "GAMBIR",
     "kelurahan": "PETOJO SELATAN",
-    "lokasi_kegiatan": "Perpustakaan  Jakarta Pusat",
+    "lokasi_kegiatan": "PERPUSTAKAAN  JAKARTA PUSAT",
     "jumlah_peserta": 392
   },
   {
@@ -1588,7 +1588,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "CIRACAS",
     "kelurahan": "CIRACAS",
-    "lokasi_kegiatan": "SDN Ciracas 10",
+    "lokasi_kegiatan": "SDN CIRACAS 10",
     "jumlah_peserta": 381
   },
   {
@@ -1596,7 +1596,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "JATINEGARA",
     "kelurahan": "RAWA BUNGA",
-    "lokasi_kegiatan": "SDN Rawa Bunga 01",
+    "lokasi_kegiatan": "SDN RAWA BUNGA 01",
     "jumlah_peserta": 338
   },
   {
@@ -1604,7 +1604,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "CIRACAS",
     "kelurahan": "CIRACAS",
-    "lokasi_kegiatan": "SDN Ciracas 05",
+    "lokasi_kegiatan": "SDN CIRACAS 05",
     "jumlah_peserta": 441
   },
   {
@@ -1612,7 +1612,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "CIPAYUNG",
     "kelurahan": "LUBANG BUAYA",
-    "lokasi_kegiatan": "SDN Lubang Buaya 01",
+    "lokasi_kegiatan": "SDN LUBANG BUAYA 01",
     "jumlah_peserta": 360
   },
   {
@@ -1620,7 +1620,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "DUREN SAWIT",
     "kelurahan": "DUREN SAWIT",
-    "lokasi_kegiatan": "SDN Duren Sawit 02 Pagi",
+    "lokasi_kegiatan": "SDN DUREN SAWIT 02 PAGI",
     "jumlah_peserta": 410
   },
   {
@@ -1628,7 +1628,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "DUREN SAWIT",
     "kelurahan": "DUREN SAWIT",
-    "lokasi_kegiatan": "SDN Duren Sawit 05 Pagi",
+    "lokasi_kegiatan": "SDN DUREN SAWIT 05 PAGI",
     "jumlah_peserta": 420
   },
   {
@@ -1636,7 +1636,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "SAWAH BESAR",
     "kelurahan": "PASAR BARU",
-    "lokasi_kegiatan": "Masjid Istiqlal",
+    "lokasi_kegiatan": "MASJID ISTIQLAL",
     "jumlah_peserta": 75
   },
   {
@@ -1644,7 +1644,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "GAMBIR",
     "kelurahan": "PETOJO SELATAN",
-    "lokasi_kegiatan": "Masjid A lFauz",
+    "lokasi_kegiatan": "MASJID A LFAUZ",
     "jumlah_peserta": 26
   },
   {
@@ -1652,7 +1652,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "GAMBIR",
     "kelurahan": "CIDENG",
-    "lokasi_kegiatan": "RPTRA Gempar Gemilang",
+    "lokasi_kegiatan": "RPTRA GEMPAR GEMILANG",
     "jumlah_peserta": 50
   },
   {
@@ -1660,7 +1660,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "SAWAH BESAR",
     "kelurahan": "PASAR BARU",
-    "lokasi_kegiatan": "Taman Lapangan Banteng",
+    "lokasi_kegiatan": "TAMAN LAPANGAN BANTENG",
     "jumlah_peserta": 66
   },
   {
@@ -1668,7 +1668,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "TANAH ABANG",
     "kelurahan": "KEBON MELATI",
-    "lokasi_kegiatan": "RPTRA Jaya Molek",
+    "lokasi_kegiatan": "RPTRA JAYA MOLEK",
     "jumlah_peserta": 63
   },
   {
@@ -1676,7 +1676,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "SETIABUDI",
     "kelurahan": "GUNTUR",
-    "lokasi_kegiatan": "RPTRA Guntur",
+    "lokasi_kegiatan": "RPTRA GUNTUR",
     "jumlah_peserta": 75
   },
   {
@@ -1684,7 +1684,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "TANAH ABANG",
     "kelurahan": "KARET TENGSIN",
-    "lokasi_kegiatan": "SMAN 35 Jakarta",
+    "lokasi_kegiatan": "SMAN 35 JAKARTA",
     "jumlah_peserta": 42
   },
   {
@@ -1692,7 +1692,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "MENTENG",
     "kelurahan": "PEGANGSAAN",
-    "lokasi_kegiatan": "RPTRA Amir Hamzah",
+    "lokasi_kegiatan": "RPTRA AMIR HAMZAH",
     "jumlah_peserta": 70
   },
   {
@@ -1700,7 +1700,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "MENTENG",
     "kelurahan": "MENTENG",
-    "lokasi_kegiatan": "SDN Menteng 03",
+    "lokasi_kegiatan": "SDN MENTENG 03",
     "jumlah_peserta": 25
   },
   {
@@ -1708,7 +1708,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "KEMAYORAN",
     "kelurahan": "HARAPAN MULIA",
-    "lokasi_kegiatan": "SDN Harapan Mulia 01 dan TKN Kemayoran 01",
+    "lokasi_kegiatan": "SDN HARAPAN MULIA 01 DAN TKN KEMAYORAN 01",
     "jumlah_peserta": 175
   },
   {
@@ -1716,7 +1716,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "GAMBIR",
     "kelurahan": "CIDENG",
-    "lokasi_kegiatan": "KB/TK Dzone Preschool Cideng",
+    "lokasi_kegiatan": "KB/TK DZONE PRESCHOOL CIDENG",
     "jumlah_peserta": 80
   },
   {
@@ -1724,7 +1724,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "KEMAYORAN",
     "kelurahan": "SERDANG",
-    "lokasi_kegiatan": "SDN Serdang 05",
+    "lokasi_kegiatan": "SDN SERDANG 05",
     "jumlah_peserta": 228
   },
   {
@@ -1732,7 +1732,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "SENEN",
     "kelurahan": "KENARI",
-    "lokasi_kegiatan": "SDN Kenari 01",
+    "lokasi_kegiatan": "SDN KENARI 01",
     "jumlah_peserta": 147
   },
   {
@@ -1740,7 +1740,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "CEMPAKA PUTIH",
     "kelurahan": "CEMPAKA PUTIH BARAT",
-    "lokasi_kegiatan": "RPTRA Mardani Asri",
+    "lokasi_kegiatan": "RPTRA MARDANI ASRI",
     "jumlah_peserta": 50
   },
   {
@@ -1748,7 +1748,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "KEMAYORAN",
     "kelurahan": "GUNUNG SAHARI SELATAN",
-    "lokasi_kegiatan": "RPTRA Sahara",
+    "lokasi_kegiatan": "RPTRA SAHARA",
     "jumlah_peserta": 40
   },
   {
@@ -1756,7 +1756,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "GAMBIR",
     "kelurahan": "PETOJO SELATAN",
-    "lokasi_kegiatan": "Ruang serbaguna Utama Walikota Jakarta Pusat",
+    "lokasi_kegiatan": "RUANG SERBAGUNA UTAMA WALIKOTA JAKARTA PUSAT",
     "jumlah_peserta": 505
   },
   {
@@ -1764,7 +1764,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "JATINEGARA",
     "kelurahan": "CIPINANG MUARA",
-    "lokasi_kegiatan": "SDN Cipinang Muara 05",
+    "lokasi_kegiatan": "SDN CIPINANG MUARA 05",
     "jumlah_peserta": 352
   },
   {
@@ -1772,7 +1772,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "CAKUNG",
     "kelurahan": "CAKUNG BARAT",
-    "lokasi_kegiatan": "Festival Literasi Rusun di Rusun KM 2 Cakung",
+    "lokasi_kegiatan": "FESTIVAL LITERASI RUSUN DI RUSUN KM 2 CAKUNG",
     "jumlah_peserta": 292
   },
   {
@@ -1788,7 +1788,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "CILINCING",
     "kelurahan": "SEMPER BARAT",
-    "lokasi_kegiatan": "RPTRA Triputra Persada Hijau",
+    "lokasi_kegiatan": "RPTRA TRIPUTRA PERSADA HIJAU",
     "jumlah_peserta": 180
   },
   {
@@ -1796,7 +1796,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "CILINCING",
     "kelurahan": "SUKAPURA",
-    "lokasi_kegiatan": "RPTRA Manunggal Juang",
+    "lokasi_kegiatan": "RPTRA MANUNGGAL JUANG",
     "jumlah_peserta": 180
   },
   {
@@ -1804,7 +1804,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "KOJA",
     "kelurahan": "KOJA",
-    "lokasi_kegiatan": "RPTRA Sindang Raya",
+    "lokasi_kegiatan": "RPTRA SINDANG RAYA",
     "jumlah_peserta": 180
   },
   {
@@ -1812,7 +1812,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "PENJARINGAN",
     "kelurahan": "PENJARINGAN",
-    "lokasi_kegiatan": "RPTRA Penjaringan Indah",
+    "lokasi_kegiatan": "RPTRA PENJARINGAN INDAH",
     "jumlah_peserta": 180
   },
   {
@@ -1820,7 +1820,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "PENJARINGAN",
     "kelurahan": "PEJAGALAN",
-    "lokasi_kegiatan": "RPTRA Angke Interaktif",
+    "lokasi_kegiatan": "RPTRA ANGKE INTERAKTIF",
     "jumlah_peserta": 180
   },
   {
@@ -1828,7 +1828,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "CILINCING",
     "kelurahan": "SEMPER TIMUR",
-    "lokasi_kegiatan": "MI Ar Ridha",
+    "lokasi_kegiatan": "MI AR RIDHA",
     "jumlah_peserta": 300
   },
   {
@@ -1836,7 +1836,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "CILINCING",
     "kelurahan": "CILINCING",
-    "lokasi_kegiatan": "SDN Cilincing 03",
+    "lokasi_kegiatan": "SDN CILINCING 03",
     "jumlah_peserta": 300
   },
   {
@@ -1844,7 +1844,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "KOJA",
     "kelurahan": "TUGU UTARA",
-    "lokasi_kegiatan": "SD Islam Darus Syifa",
+    "lokasi_kegiatan": "SD ISLAM DARUS SYIFA",
     "jumlah_peserta": 300
   },
   {
@@ -1852,7 +1852,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "TANJUNG PRIOK",
     "kelurahan": "KEBON BAWANG",
-    "lokasi_kegiatan": "SMPS Dharma Putra Kebon Bawang",
+    "lokasi_kegiatan": "SMPS DHARMA PUTRA KEBON BAWANG",
     "jumlah_peserta": 80
   },
   {
@@ -1860,7 +1860,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "PENJARINGAN",
     "kelurahan": "PLUIT",
-    "lokasi_kegiatan": "SMPN 261 Jakarta",
+    "lokasi_kegiatan": "SMPN 261 JAKARTA",
     "jumlah_peserta": 80
   },
   {
@@ -1868,7 +1868,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "PENJARINGAN",
     "kelurahan": "PLUIT",
-    "lokasi_kegiatan": "SMKN 56 Jakarta",
+    "lokasi_kegiatan": "SMKN 56 JAKARTA",
     "jumlah_peserta": 80
   },
   {
@@ -1876,7 +1876,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "CILINCING",
     "kelurahan": "SEMPER BARAT",
-    "lokasi_kegiatan": "SMPN 282 Jakarta",
+    "lokasi_kegiatan": "SMPN 282 JAKARTA",
     "jumlah_peserta": 80
   },
   {
@@ -1884,7 +1884,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "PADEMANGAN",
     "kelurahan": "PADEMANGAN TIMUR",
-    "lokasi_kegiatan": "SMPN 23 Jakarta",
+    "lokasi_kegiatan": "SMPN 23 JAKARTA",
     "jumlah_peserta": 80
   },
   {
@@ -1892,7 +1892,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "PADEMANGAN",
     "kelurahan": "ANCOL",
-    "lokasi_kegiatan": "SMAN 40 Jakarta",
+    "lokasi_kegiatan": "SMAN 40 JAKARTA",
     "jumlah_peserta": 80
   },
   {
@@ -1900,7 +1900,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "CILINCING",
     "kelurahan": "SUKAPURA",
-    "lokasi_kegiatan": "SMPS Nurul Huda",
+    "lokasi_kegiatan": "SMPS NURUL HUDA",
     "jumlah_peserta": 80
   },
   {
@@ -1908,7 +1908,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "PADEMANGAN",
     "kelurahan": "PADEMANGAN TIMUR",
-    "lokasi_kegiatan": "SMPN 34 Jakarta",
+    "lokasi_kegiatan": "SMPN 34 JAKARTA",
     "jumlah_peserta": 80
   },
   {
@@ -1916,7 +1916,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "PENJARINGAN",
     "kelurahan": "PEJAGALAN",
-    "lokasi_kegiatan": "SMAN 111 Jakarta",
+    "lokasi_kegiatan": "SMAN 111 JAKARTA",
     "jumlah_peserta": 80
   },
   {
@@ -1924,7 +1924,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "PENJARINGAN",
     "kelurahan": "PEJAGALAN",
-    "lokasi_kegiatan": "SMPn 21 Jakarta",
+    "lokasi_kegiatan": "SMPN 21 JAKARTA",
     "jumlah_peserta": 80
   },
   {
@@ -1932,7 +1932,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "PADEMANGAN",
     "kelurahan": "ANCOL",
-    "lokasi_kegiatan": "SMP Rakyat Ancol",
+    "lokasi_kegiatan": "SMP RAKYAT ANCOL",
     "jumlah_peserta": 80
   },
   {
@@ -1940,7 +1940,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "KOJA",
     "kelurahan": "LAGOA",
-    "lokasi_kegiatan": "SDN Lagoa 11",
+    "lokasi_kegiatan": "SDN LAGOA 11",
     "jumlah_peserta": 200
   },
   {
@@ -1948,7 +1948,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "KELAPA GADING",
     "kelurahan": "PEGANGSAAN DUA",
-    "lokasi_kegiatan": "Preschool Kipina Kelapa Gading",
+    "lokasi_kegiatan": "PRESCHOOL KIPINA KELAPA GADING",
     "jumlah_peserta": 80
   },
   {
@@ -1956,7 +1956,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "TANJUNG PRIOK",
     "kelurahan": "KEBON BAWANG",
-    "lokasi_kegiatan": "Kantor Walikota Jakarta Utara dan Taman Ismail Marzuki",
+    "lokasi_kegiatan": "KANTOR WALIKOTA JAKARTA UTARA DAN TAMAN ISMAIL MARZUKI",
     "jumlah_peserta": 75
   },
   {
@@ -1964,7 +1964,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "CILINCING",
     "kelurahan": "ROROTAN",
-    "lokasi_kegiatan": "SDN Rorotan 03",
+    "lokasi_kegiatan": "SDN ROROTAN 03",
     "jumlah_peserta": 80
   },
   {
@@ -1972,7 +1972,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "CILINCING",
     "kelurahan": "ROROTAN",
-    "lokasi_kegiatan": "SMPN 116 Jakarta",
+    "lokasi_kegiatan": "SMPN 116 JAKARTA",
     "jumlah_peserta": 80
   },
   {
@@ -1980,7 +1980,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "CILINCING",
     "kelurahan": "MARUNDA",
-    "lokasi_kegiatan": "SDN Marunda 02",
+    "lokasi_kegiatan": "SDN MARUNDA 02",
     "jumlah_peserta": 80
   },
   {
@@ -1988,7 +1988,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "JATINEGARA",
     "kelurahan": "RAWA BUNGA",
-    "lokasi_kegiatan": "Konser LiterAsyik 1",
+    "lokasi_kegiatan": "KONSER LITERASYIK 1",
     "jumlah_peserta": 292
   },
   {
@@ -1996,7 +1996,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "PADEMANGAN",
     "kelurahan": "PADEMANGAN TIMUR",
-    "lokasi_kegiatan": "SMPN 42 Jakarta",
+    "lokasi_kegiatan": "SMPN 42 JAKARTA",
     "jumlah_peserta": 80
   },
   {
@@ -2004,7 +2004,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "JATINEGARA",
     "kelurahan": "RAWA BUNGA",
-    "lokasi_kegiatan": "Apresiasi Lomba Perpustakaan SMA/SMK/MA",
+    "lokasi_kegiatan": "APRESIASI LOMBA PERPUSTAKAAN SMA/SMK/MA",
     "jumlah_peserta": 35
   },
   {
@@ -2012,7 +2012,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "CILINCING",
     "kelurahan": "MARUNDA",
-    "lokasi_kegiatan": "MIN 20 Jakarta",
+    "lokasi_kegiatan": "MIN 20 JAKARTA",
     "jumlah_peserta": 80
   },
   {
@@ -2020,7 +2020,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "JATINEGARA",
     "kelurahan": "RAWA BUNGA",
-    "lokasi_kegiatan": "Workshop LiterAsyik : Berkarya dengan Menulis",
+    "lokasi_kegiatan": "WORKSHOP LITERASYIK : BERKARYA DENGAN MENULIS",
     "jumlah_peserta": 65
   },
   {
@@ -2028,7 +2028,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "CILINCING",
     "kelurahan": "CILINCING",
-    "lokasi_kegiatan": "SDN Cilincing 10",
+    "lokasi_kegiatan": "SDN CILINCING 10",
     "jumlah_peserta": 80
   },
   {
@@ -2036,7 +2036,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "KOJA",
     "kelurahan": "TUGU SELATAN",
-    "lokasi_kegiatan": "SDN Tugu Selatan 01",
+    "lokasi_kegiatan": "SDN TUGU SELATAN 01",
     "jumlah_peserta": 80
   },
   {
@@ -2044,7 +2044,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "GAMBIR",
     "kelurahan": "PETOJO SELATAN",
-    "lokasi_kegiatan": "Cideng, Duri Pulo, Kebon Kelapa, Petojo Selatan , Petojo Utara",
+    "lokasi_kegiatan": "CIDENG, DURI PULO, KEBON KELAPA, PETOJO SELATAN , PETOJO UTARA",
     "jumlah_peserta": 2360
   },
   {
@@ -2052,7 +2052,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "GAMBIR",
     "kelurahan": "PETOJO SELATAN",
-    "lokasi_kegiatan": "Online",
+    "lokasi_kegiatan": "ONLINE",
     "jumlah_peserta": 282
   },
   {
@@ -2060,7 +2060,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "KEBAYORAN BARU",
     "kelurahan": "PETOGOGAN",
-    "lokasi_kegiatan": "Ruang Gelatik Kantor Walikota Kota Administrasi Jakarta Selatan",
+    "lokasi_kegiatan": "RUANG GELATIK KANTOR WALIKOTA KOTA ADMINISTRASI JAKARTA SELATAN",
     "jumlah_peserta": 125
   },
   {
@@ -2068,7 +2068,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "PESANGGRAHAN",
     "kelurahan": "BINTARO",
-    "lokasi_kegiatan": "TKN Bintaro",
+    "lokasi_kegiatan": "TKN BINTARO",
     "jumlah_peserta": 60
   },
   {
@@ -2076,7 +2076,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "PULOGADUNG",
     "kelurahan": "RAWAMANGUN",
-    "lokasi_kegiatan": "HBKB Rawamangun",
+    "lokasi_kegiatan": "HBKB RAWAMANGUN",
     "jumlah_peserta": 69
   },
   {
@@ -2084,7 +2084,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "DUREN SAWIT",
     "kelurahan": "PONDOK KOPI",
-    "lokasi_kegiatan": "SDIT Nurul Islam-Pondok Kopi",
+    "lokasi_kegiatan": "SDIT NURUL ISLAM-PONDOK KOPI",
     "jumlah_peserta": 100
   },
   {
@@ -2092,7 +2092,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "KEBAYORAN BARU",
     "kelurahan": "PETOGOGAN",
-    "lokasi_kegiatan": "Ruang Dirgantara Kantor Walikota Kota Administrasi Jakarta Selatan",
+    "lokasi_kegiatan": "RUANG DIRGANTARA KANTOR WALIKOTA KOTA ADMINISTRASI JAKARTA SELATAN",
     "jumlah_peserta": 71
   },
   {
@@ -2108,7 +2108,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "DUREN SAWIT",
     "kelurahan": "KLENDER",
-    "lokasi_kegiatan": "TK Negeri Duren Sawit 02",
+    "lokasi_kegiatan": "TK NEGERI DUREN SAWIT 02",
     "jumlah_peserta": 63
   },
   {
@@ -2116,7 +2116,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "KEBON JERUK",
     "kelurahan": "DURI KEPA",
-    "lokasi_kegiatan": "Kantor Suku Dinas Perpustakaan dan Kearsipan Kota Administrasi Jakarta Barat",
+    "lokasi_kegiatan": "KANTOR SUKU DINAS PERPUSTAKAAN DAN KEARSIPAN KOTA ADMINISTRASI JAKARTA BARAT",
     "jumlah_peserta": 387
   },
   {
@@ -2124,7 +2124,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "KEMBANGAN",
     "kelurahan": "KEMBANGAN SELATAN",
-    "lokasi_kegiatan": "Kantor Walikota Kota Administrasi Jakarta Barat",
+    "lokasi_kegiatan": "KANTOR WALIKOTA KOTA ADMINISTRASI JAKARTA BARAT",
     "jumlah_peserta": 258
   },
   {
@@ -2132,7 +2132,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "TAMAN SARI",
     "kelurahan": "PINANGSIA",
-    "lokasi_kegiatan": "Museum Bank Indonesia",
+    "lokasi_kegiatan": "MUSEUM BANK INDONESIA",
     "jumlah_peserta": 100
   },
   {
@@ -2140,7 +2140,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "KEBON JERUK",
     "kelurahan": "DURI KEPA",
-    "lokasi_kegiatan": "Ruang Aula Lantai 2 Kantor Perpustakaan Jakarta Barat",
+    "lokasi_kegiatan": "RUANG AULA LANTAI 2 KANTOR PERPUSTAKAAN JAKARTA BARAT",
     "jumlah_peserta": 285
   },
   {
@@ -2148,7 +2148,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "TAMAN SARI",
     "kelurahan": "PINANGSIA",
-    "lokasi_kegiatan": "Museum Bank Mandiri",
+    "lokasi_kegiatan": "MUSEUM BANK MANDIRI",
     "jumlah_peserta": 150
   },
   {
@@ -2156,7 +2156,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "KEBON JERUK",
     "kelurahan": "KEBON JERUK",
-    "lokasi_kegiatan": "TKN Kebon Jeruk 01",
+    "lokasi_kegiatan": "TKN KEBON JERUK 01",
     "jumlah_peserta": 75
   },
   {
@@ -2164,7 +2164,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "KEBON JERUK",
     "kelurahan": "DURI KEPA",
-    "lokasi_kegiatan": "Ruang Baca Layanan Anak Lantai 1 Kantor Perpustakaan Jakarta Barat",
+    "lokasi_kegiatan": "RUANG BACA LAYANAN ANAK LANTAI 1 KANTOR PERPUSTAKAAN JAKARTA BARAT",
     "jumlah_peserta": 50
   },
   {
@@ -2172,7 +2172,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "CAKUNG",
     "kelurahan": "CAKUNG BARAT",
-    "lokasi_kegiatan": "MI Umdatur Rasikhien",
+    "lokasi_kegiatan": "MI UMDATUR RASIKHIEN",
     "jumlah_peserta": 442
   },
   {
@@ -2180,7 +2180,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "CAKUNG",
     "kelurahan": "PULO GEBANG",
-    "lokasi_kegiatan": "SDS IT Nurul Yaqin",
+    "lokasi_kegiatan": "SDS IT NURUL YAQIN",
     "jumlah_peserta": 120
   },
   {
@@ -2188,7 +2188,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "DUREN SAWIT",
     "kelurahan": "PONDOK KELAPA",
-    "lokasi_kegiatan": "SDIT Ar-Ridho",
+    "lokasi_kegiatan": "SDIT AR-RIDHO",
     "jumlah_peserta": 180
   },
   {
@@ -2196,7 +2196,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "CENGKARENG",
     "kelurahan": "CENGKARENG TIMUR",
-    "lokasi_kegiatan": "RPTRA Dupa Wangi",
+    "lokasi_kegiatan": "RPTRA DUPA WANGI",
     "jumlah_peserta": 50
   },
   {
@@ -2204,7 +2204,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "CENGKARENG",
     "kelurahan": "CENGKARENG BARAT",
-    "lokasi_kegiatan": "SDN Cengkareng Barat 05",
+    "lokasi_kegiatan": "SDN CENGKARENG BARAT 05",
     "jumlah_peserta": 110
   },
   {
@@ -2212,7 +2212,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "TAMBORA",
     "kelurahan": "ROA MALAKA",
-    "lokasi_kegiatan": "SMP Negeri 22 Jakarta",
+    "lokasi_kegiatan": "SMP NEGERI 22 JAKARTA",
     "jumlah_peserta": 110
   },
   {
@@ -2220,7 +2220,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "KALIDERES",
     "kelurahan": "SEMANAN",
-    "lokasi_kegiatan": "SD Negeri Semanan 01",
+    "lokasi_kegiatan": "SD NEGERI SEMANAN 01",
     "jumlah_peserta": 110
   },
   {
@@ -2228,7 +2228,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "KEMBANGAN",
     "kelurahan": "MERUYA UTARA",
-    "lokasi_kegiatan": "SMP Negeri 134 Jakarta",
+    "lokasi_kegiatan": "SMP NEGERI 134 JAKARTA",
     "jumlah_peserta": 110
   },
   {
@@ -2236,7 +2236,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "KEMBANGAN",
     "kelurahan": "KEMBANGAN UTARA",
-    "lokasi_kegiatan": "SD Negeri Kembangan Utara 04",
+    "lokasi_kegiatan": "SD NEGERI KEMBANGAN UTARA 04",
     "jumlah_peserta": 110
   },
   {
@@ -2244,7 +2244,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "JAGAKARSA",
     "kelurahan": "JAGAKARSA",
-    "lokasi_kegiatan": "SMP Negeri 271 Jakarta",
+    "lokasi_kegiatan": "SMP NEGERI 271 JAKARTA",
     "jumlah_peserta": 110
   },
   {
@@ -2252,7 +2252,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "CIPAYUNG",
     "kelurahan": "CILANGKAP",
-    "lokasi_kegiatan": "SDN Cilangkap 01 Pagi",
+    "lokasi_kegiatan": "SDN CILANGKAP 01 PAGI",
     "jumlah_peserta": 830
   },
   {
@@ -2260,7 +2260,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "GROGOL PETAMBURAN",
     "kelurahan": "JELAMBAR",
-    "lokasi_kegiatan": "RPTRA Satria Jelambar",
+    "lokasi_kegiatan": "RPTRA SATRIA JELAMBAR",
     "jumlah_peserta": 50
   },
   {
@@ -2268,7 +2268,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "CENGKARENG",
     "kelurahan": "DURI KOSAMBI",
-    "lokasi_kegiatan": "RPTRA Mawar Duri Kosambi",
+    "lokasi_kegiatan": "RPTRA MAWAR DURI KOSAMBI",
     "jumlah_peserta": 50
   },
   {
@@ -2276,7 +2276,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "GROGOL PETAMBURAN",
     "kelurahan": "TOMANG",
-    "lokasi_kegiatan": "RPTRA Mandala Kelurahan Tomang",
+    "lokasi_kegiatan": "RPTRA MANDALA KELURAHAN TOMANG",
     "jumlah_peserta": 100
   },
   {
@@ -2284,7 +2284,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "KEMBANGAN",
     "kelurahan": "KEMBANGAN SELATAN",
-    "lokasi_kegiatan": "Walikota Kota Jakarta Barat",
+    "lokasi_kegiatan": "WALIKOTA KOTA JAKARTA BARAT",
     "jumlah_peserta": 200
   },
   {
@@ -2292,7 +2292,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "PULOGADUNG",
     "kelurahan": "KAYU PUTIH",
-    "lokasi_kegiatan": "SDS Islam Tugasku",
+    "lokasi_kegiatan": "SDS ISLAM TUGASKU",
     "jumlah_peserta": 125
   },
   {
@@ -2300,7 +2300,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "KEBON JERUK",
     "kelurahan": "DURI KEPA",
-    "lokasi_kegiatan": "Ruang Layanan Remaja dan Dewasa , Perpustakaan Jakarta Barat",
+    "lokasi_kegiatan": "RUANG LAYANAN REMAJA DAN DEWASA , PERPUSTAKAAN JAKARTA BARAT",
     "jumlah_peserta": 30
   },
   {
@@ -2308,7 +2308,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "PAL MERAH",
     "kelurahan": "JATIPULO",
-    "lokasi_kegiatan": "RPTRA Jati Pulo",
+    "lokasi_kegiatan": "RPTRA JATI PULO",
     "jumlah_peserta": 30
   },
   {
@@ -2316,7 +2316,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "PULOGADUNG",
     "kelurahan": "JATI",
-    "lokasi_kegiatan": "SDN Jati 03",
+    "lokasi_kegiatan": "SDN JATI 03",
     "jumlah_peserta": 503
   },
   {
@@ -2324,7 +2324,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "TAMBORA",
     "kelurahan": "KALI ANYAR",
-    "lokasi_kegiatan": "SD Negeri Kalianyar 01",
+    "lokasi_kegiatan": "SD NEGERI KALIANYAR 01",
     "jumlah_peserta": 400
   },
   {
@@ -2332,7 +2332,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "TAMBORA",
     "kelurahan": "KRENDANG",
-    "lokasi_kegiatan": "RPTRA Krendang",
+    "lokasi_kegiatan": "RPTRA KRENDANG",
     "jumlah_peserta": 30
   },
   {
@@ -2340,7 +2340,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "MAKASAR",
     "kelurahan": "MAKASAR",
-    "lokasi_kegiatan": "SDN Makasar 06",
+    "lokasi_kegiatan": "SDN MAKASAR 06",
     "jumlah_peserta": 358
   },
   {
@@ -2348,7 +2348,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "JATINEGARA",
     "kelurahan": "CIPINANG BESAR UTARA",
-    "lokasi_kegiatan": "SDN Cipinang Besar Utara 08",
+    "lokasi_kegiatan": "SDN CIPINANG BESAR UTARA 08",
     "jumlah_peserta": 536
   },
   {
@@ -2356,7 +2356,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "CIPAYUNG",
     "kelurahan": "CIPAYUNG",
-    "lokasi_kegiatan": "SDIT Buah Hati Islamic School 2",
+    "lokasi_kegiatan": "SDIT BUAH HATI ISLAMIC SCHOOL 2",
     "jumlah_peserta": 220
   },
   {
@@ -2364,7 +2364,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "KALIDERES",
     "kelurahan": "KAMAL",
-    "lokasi_kegiatan": "Kelurahan Kamal",
+    "lokasi_kegiatan": "KELURAHAN KAMAL",
     "jumlah_peserta": 50
   },
   {
@@ -2372,7 +2372,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "CILANDAK",
     "kelurahan": "PONDOK LABU",
-    "lokasi_kegiatan": "RPTRA Pinang Pola",
+    "lokasi_kegiatan": "RPTRA PINANG POLA",
     "jumlah_peserta": 100
   },
   {
@@ -2380,7 +2380,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "KEBAYORAN LAMA",
     "kelurahan": "PONDOK PINANG",
-    "lokasi_kegiatan": "Rumah Penyuluhan Kreatif (Kampung Pemulung)",
+    "lokasi_kegiatan": "RUMAH PENYULUHAN KREATIF (KAMPUNG PEMULUNG)",
     "jumlah_peserta": 50
   },
   {
@@ -2396,7 +2396,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "CIPAYUNG",
     "kelurahan": "CIPAYUNG",
-    "lokasi_kegiatan": "Cerita Akhir Pekan di RPTRA Payung Tunas Teratai",
+    "lokasi_kegiatan": "CERITA AKHIR PEKAN DI RPTRA PAYUNG TUNAS TERATAI",
     "jumlah_peserta": 130
   },
   {
@@ -2404,7 +2404,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "CILINCING",
     "kelurahan": "CILINCING",
-    "lokasi_kegiatan": "MTsN 15 Jakarta",
+    "lokasi_kegiatan": "MTSN 15 JAKARTA",
     "jumlah_peserta": 80
   },
   {
@@ -2412,7 +2412,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "JAGAKARSA",
     "kelurahan": "JAGAKARSA",
-    "lokasi_kegiatan": "SMPN 212 Jakarta",
+    "lokasi_kegiatan": "SMPN 212 JAKARTA",
     "jumlah_peserta": 200
   },
   {
@@ -2420,7 +2420,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "TEBET",
     "kelurahan": "TEBET TIMUR",
-    "lokasi_kegiatan": "SMPN 115 Jakarta",
+    "lokasi_kegiatan": "SMPN 115 JAKARTA",
     "jumlah_peserta": 200
   },
   {
@@ -2428,7 +2428,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "CILANDAK",
     "kelurahan": "GANDARIA SELATAN",
-    "lokasi_kegiatan": "SDI Manaratul Islam",
+    "lokasi_kegiatan": "SDI MANARATUL ISLAM",
     "jumlah_peserta": 200
   },
   {
@@ -2436,7 +2436,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "PULOGADUNG",
     "kelurahan": "KAYU PUTIH",
-    "lokasi_kegiatan": "SDN Kayu Putih 03",
+    "lokasi_kegiatan": "SDN KAYU PUTIH 03",
     "jumlah_peserta": 420
   },
   {
@@ -2444,7 +2444,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "PAL MERAH",
     "kelurahan": "KEMANGGISAN",
-    "lokasi_kegiatan": "Taman Cattleya",
+    "lokasi_kegiatan": "TAMAN CATTLEYA",
     "jumlah_peserta": 70
   },
   {
@@ -2452,7 +2452,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "TAMAN SARI",
     "kelurahan": "PINANGSIA",
-    "lokasi_kegiatan": "Area Kota Tua Jakarta Barat",
+    "lokasi_kegiatan": "AREA KOTA TUA JAKARTA BARAT",
     "jumlah_peserta": 35
   },
   {
@@ -2460,7 +2460,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "KEBON JERUK",
     "kelurahan": "DURI KEPA",
-    "lokasi_kegiatan": "Online dan Ruang Aula Lantai 2 Perpustakaan Jakarta Barat",
+    "lokasi_kegiatan": "ONLINE DAN RUANG AULA LANTAI 2 PERPUSTAKAAN JAKARTA BARAT",
     "jumlah_peserta": 11
   },
   {
@@ -2468,7 +2468,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "KEBON JERUK",
     "kelurahan": "DURI KEPA",
-    "lokasi_kegiatan": "SDN Duri Kepa 17",
+    "lokasi_kegiatan": "SDN DURI KEPA 17",
     "jumlah_peserta": 125
   },
   {
@@ -2476,7 +2476,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "CENGKARENG",
     "kelurahan": "DURI KOSAMBI",
-    "lokasi_kegiatan": "SDN Duri Kosambi 07",
+    "lokasi_kegiatan": "SDN DURI KOSAMBI 07",
     "jumlah_peserta": 125
   },
   {
@@ -2484,7 +2484,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "CENGKARENG",
     "kelurahan": "CENGKARENG BARAT",
-    "lokasi_kegiatan": "SMPN 132 Jakarta",
+    "lokasi_kegiatan": "SMPN 132 JAKARTA",
     "jumlah_peserta": 125
   },
   {
@@ -2492,7 +2492,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "KEBON JERUK",
     "kelurahan": "DURI KEPA",
-    "lokasi_kegiatan": "SDN Duri Kepa 16",
+    "lokasi_kegiatan": "SDN DURI KEPA 16",
     "jumlah_peserta": 125
   },
   {
@@ -2500,7 +2500,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "GROGOL PETAMBURAN",
     "kelurahan": "TANJUNG DUREN UTARA",
-    "lokasi_kegiatan": "SMPN 89 Jakarta",
+    "lokasi_kegiatan": "SMPN 89 JAKARTA",
     "jumlah_peserta": 125
   },
   {
@@ -2508,7 +2508,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "CENGKARENG",
     "kelurahan": "RAWA BUAYA",
-    "lokasi_kegiatan": "SDN Rawa Buaya 01",
+    "lokasi_kegiatan": "SDN RAWA BUAYA 01",
     "jumlah_peserta": 125
   },
   {
@@ -2516,7 +2516,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "TAMAN SARI",
     "kelurahan": "TAMAN SARI",
-    "lokasi_kegiatan": "SMPN 159 Jakarta",
+    "lokasi_kegiatan": "SMPN 159 JAKARTA",
     "jumlah_peserta": 125
   },
   {
@@ -2524,7 +2524,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "CENGKARENG",
     "kelurahan": "RAWA BUAYA",
-    "lokasi_kegiatan": "SDN Rawabuaya 02",
+    "lokasi_kegiatan": "SDN RAWABUAYA 02",
     "jumlah_peserta": 125
   },
   {
@@ -2532,7 +2532,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "PAL MERAH",
     "kelurahan": "PALMERAH",
-    "lokasi_kegiatan": "SDN Palmerah 17",
+    "lokasi_kegiatan": "SDN PALMERAH 17",
     "jumlah_peserta": 125
   },
   {
@@ -2540,7 +2540,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "PAL MERAH",
     "kelurahan": "KEMANGGISAN",
-    "lokasi_kegiatan": "SMPN 83 Jakarta",
+    "lokasi_kegiatan": "SMPN 83 JAKARTA",
     "jumlah_peserta": 125
   },
   {
@@ -2548,7 +2548,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "GROGOL PETAMBURAN",
     "kelurahan": "TANJUNG DUREN UTARA",
-    "lokasi_kegiatan": "SDN Tanjung Duren Utara 02",
+    "lokasi_kegiatan": "SDN TANJUNG DUREN UTARA 02",
     "jumlah_peserta": 125
   },
   {
@@ -2556,7 +2556,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "KEMBANGAN",
     "kelurahan": "MERUYA SELATAN",
-    "lokasi_kegiatan": "SMPN 176 Jakarta",
+    "lokasi_kegiatan": "SMPN 176 JAKARTA",
     "jumlah_peserta": 125
   },
   {
@@ -2564,7 +2564,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "KALIDERES",
     "kelurahan": "TEGAL ALUR",
-    "lokasi_kegiatan": "RPTRA Alur Flamboyan",
+    "lokasi_kegiatan": "RPTRA ALUR FLAMBOYAN",
     "jumlah_peserta": 50
   },
   {
@@ -2572,7 +2572,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "CENGKARENG",
     "kelurahan": "RAWA BUAYA",
-    "lokasi_kegiatan": "RPTRA Sugriwa",
+    "lokasi_kegiatan": "RPTRA SUGRIWA",
     "jumlah_peserta": 50
   },
   {
@@ -2580,7 +2580,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "CENGKARENG",
     "kelurahan": "CENGKARENG BARAT",
-    "lokasi_kegiatan": "RPTRA Bambu Kuning",
+    "lokasi_kegiatan": "RPTRA BAMBU KUNING",
     "jumlah_peserta": 50
   },
   {
@@ -2588,7 +2588,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "KEMBANGAN",
     "kelurahan": "KEMBANGAN SELATAN",
-    "lokasi_kegiatan": "Ruang Ali Sadikin ( Gedung A, Lt 1) Kantor Walikota Kota Administrasi Jakarta Barat",
+    "lokasi_kegiatan": "RUANG ALI SADIKIN ( GEDUNG A, LT 1) KANTOR WALIKOTA KOTA ADMINISTRASI JAKARTA BARAT",
     "jumlah_peserta": 70
   },
   {
@@ -2596,7 +2596,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "KEBON JERUK",
     "kelurahan": "KEBON JERUK",
-    "lokasi_kegiatan": "RPTRA Jeruk Manis",
+    "lokasi_kegiatan": "RPTRA JERUK MANIS",
     "jumlah_peserta": 50
   },
   {
@@ -2604,7 +2604,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "KEMBANGAN",
     "kelurahan": "MERUYA UTARA",
-    "lokasi_kegiatan": "RPTRA Smart Meruya",
+    "lokasi_kegiatan": "RPTRA SMART MERUYA",
     "jumlah_peserta": 50
   },
   {
@@ -2612,7 +2612,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "PASAR MINGGU",
     "kelurahan": "JATI PADANG",
-    "lokasi_kegiatan": "SDN Jatipadang 05",
+    "lokasi_kegiatan": "SDN JATIPADANG 05",
     "jumlah_peserta": 35
   },
   {
@@ -2620,7 +2620,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "JAGAKARSA",
     "kelurahan": "JAGAKARSA",
-    "lokasi_kegiatan": "SekolahTetum Bunaya",
+    "lokasi_kegiatan": "SEKOLAHTETUM BUNAYA",
     "jumlah_peserta": 80
   },
   {
@@ -2628,7 +2628,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "KEBON JERUK",
     "kelurahan": "DURI KEPA",
-    "lokasi_kegiatan": "Ruang Layanan Anak dan Ruang Aula Lt 2 Perpustakaan Jakarta Barat",
+    "lokasi_kegiatan": "RUANG LAYANAN ANAK DAN RUANG AULA LT 2 PERPUSTAKAAN JAKARTA BARAT",
     "jumlah_peserta": 78
   },
   {
@@ -2636,7 +2636,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "TEBET",
     "kelurahan": "KEBON BARU",
-    "lokasi_kegiatan": "RPTRA Kebon Sawo",
+    "lokasi_kegiatan": "RPTRA KEBON SAWO",
     "jumlah_peserta": 75
   },
   {
@@ -2644,7 +2644,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "PASAR MINGGU",
     "kelurahan": "PEJATEN BARAT",
-    "lokasi_kegiatan": "MI Hidayatul Islamiyah",
+    "lokasi_kegiatan": "MI HIDAYATUL ISLAMIYAH",
     "jumlah_peserta": 95
   },
   {
@@ -2652,7 +2652,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "PANCORAN",
     "kelurahan": "RAWAJATI",
-    "lokasi_kegiatan": "SDN Rawajati 07",
+    "lokasi_kegiatan": "SDN RAWAJATI 07",
     "jumlah_peserta": 50
   },
   {
@@ -2748,7 +2748,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "PULOGADUNG",
     "kelurahan": "CIPINANG",
-    "lokasi_kegiatan": "TK Kuntum Suci I",
+    "lokasi_kegiatan": "TK KUNTUM SUCI I",
     "jumlah_peserta": 35
   },
   {
@@ -2756,7 +2756,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "DUREN SAWIT",
     "kelurahan": "MALAKA SARI",
-    "lokasi_kegiatan": "PAUD Delima Malaka Sari",
+    "lokasi_kegiatan": "PAUD DELIMA MALAKA SARI",
     "jumlah_peserta": 35
   },
   {
@@ -2764,7 +2764,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "DUREN SAWIT",
     "kelurahan": "PONDOK KOPI",
-    "lokasi_kegiatan": "RA Al Ihsaniyyah",
+    "lokasi_kegiatan": "RA AL IHSANIYYAH",
     "jumlah_peserta": 20
   },
   {
@@ -2772,7 +2772,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "DUREN SAWIT",
     "kelurahan": "DUREN SAWIT",
-    "lokasi_kegiatan": "SDN Duren Sawit 15 Pagi",
+    "lokasi_kegiatan": "SDN DUREN SAWIT 15 PAGI",
     "jumlah_peserta": 200
   },
   {
@@ -2780,7 +2780,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "KOJA",
     "kelurahan": "KOJA",
-    "lokasi_kegiatan": "SD Strada Santo Petrus",
+    "lokasi_kegiatan": "SD STRADA SANTO PETRUS",
     "jumlah_peserta": 75
   },
   {
@@ -2796,7 +2796,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "DUREN SAWIT",
     "kelurahan": "PONDOK BAMBU",
-    "lokasi_kegiatan": "TPA Tat Twam Asi",
+    "lokasi_kegiatan": "TPA TAT TWAM ASI",
     "jumlah_peserta": 21
   },
   {
@@ -2812,7 +2812,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "JATINEGARA",
     "kelurahan": "CIPINANG CEMPEDAK",
-    "lokasi_kegiatan": "TPA Bale Anwari",
+    "lokasi_kegiatan": "TPA BALE ANWARI",
     "jumlah_peserta": 50
   },
   {
@@ -2820,7 +2820,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "MAKASAR",
     "kelurahan": "KEBON PALA",
-    "lokasi_kegiatan": "Sakinah Daycare",
+    "lokasi_kegiatan": "SAKINAH DAYCARE",
     "jumlah_peserta": 30
   },
   {
@@ -2828,7 +2828,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "KOJA",
     "kelurahan": "TUGU SELATAN",
-    "lokasi_kegiatan": "SDN Tugu Selatan 03",
+    "lokasi_kegiatan": "SDN TUGU SELATAN 03",
     "jumlah_peserta": 80
   },
   {
@@ -2836,7 +2836,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "CILINCING",
     "kelurahan": "SEMPER BARAT",
-    "lokasi_kegiatan": "SDS Thugu Bakhti",
+    "lokasi_kegiatan": "SDS THUGU BAKHTI",
     "jumlah_peserta": 80
   },
   {
@@ -2852,7 +2852,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "GAMBIR",
     "kelurahan": "PETOJO SELATAN",
-    "lokasi_kegiatan": "Virtual",
+    "lokasi_kegiatan": "VIRTUAL",
     "jumlah_peserta": 218
   },
   {
@@ -2860,7 +2860,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "CIRACAS",
     "kelurahan": "SUSUKAN",
-    "lokasi_kegiatan": "SMA Negeri 104",
+    "lokasi_kegiatan": "SMA NEGERI 104",
     "jumlah_peserta": 50
   },
   {
@@ -2868,7 +2868,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "PADEMANGAN",
     "kelurahan": "PADEMANGAN TIMUR",
-    "lokasi_kegiatan": "RPTRA Gabus Pucung",
+    "lokasi_kegiatan": "RPTRA GABUS PUCUNG",
     "jumlah_peserta": 200
   },
   {
@@ -2876,7 +2876,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "CILINCING",
     "kelurahan": "ROROTAN",
-    "lokasi_kegiatan": "TK Islam Al-Hidayah",
+    "lokasi_kegiatan": "TK ISLAM AL-HIDAYAH",
     "jumlah_peserta": 200
   },
   {
@@ -2884,7 +2884,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "PADEMANGAN",
     "kelurahan": "PADEMANGAN BARAT",
-    "lokasi_kegiatan": "TK Negeri Pademangan 01",
+    "lokasi_kegiatan": "TK NEGERI PADEMANGAN 01",
     "jumlah_peserta": 150
   },
   {
@@ -2892,7 +2892,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "KOJA",
     "kelurahan": "RAWA BADAK UTARA",
-    "lokasi_kegiatan": "RPTRA Rawa Badak Utara",
+    "lokasi_kegiatan": "RPTRA RAWA BADAK UTARA",
     "jumlah_peserta": 200
   },
   {
@@ -2900,7 +2900,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "CILINCING",
     "kelurahan": "ROROTAN",
-    "lokasi_kegiatan": "SDN Rorotan 07",
+    "lokasi_kegiatan": "SDN ROROTAN 07",
     "jumlah_peserta": 400
   },
   {
@@ -2908,7 +2908,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "KOJA",
     "kelurahan": "TUGU SELATAN",
-    "lokasi_kegiatan": "Perpustakaan Jakarta Utara",
+    "lokasi_kegiatan": "PERPUSTAKAAN JAKARTA UTARA",
     "jumlah_peserta": 3139
   },
   {
@@ -2916,7 +2916,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "JATINEGARA",
     "kelurahan": "RAWA BUNGA",
-    "lokasi_kegiatan": "Cakung, Duren Sawit, Jatinegara, Matraman, Pulogadung",
+    "lokasi_kegiatan": "CAKUNG, DUREN SAWIT, JATINEGARA, MATRAMAN, PULOGADUNG",
     "jumlah_peserta": 5025
   },
   {
@@ -2924,7 +2924,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "JATINEGARA",
     "kelurahan": "RAWA BUNGA",
-    "lokasi_kegiatan": "SMPN 62 Jakarta",
+    "lokasi_kegiatan": "SMPN 62 JAKARTA",
     "jumlah_peserta": 105
   },
   {
@@ -2948,7 +2948,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "CAKUNG",
     "kelurahan": "CAKUNG TIMUR",
-    "lokasi_kegiatan": "SDN Cakung Timur 04",
+    "lokasi_kegiatan": "SDN CAKUNG TIMUR 04",
     "jumlah_peserta": 150
   },
   {
@@ -2956,7 +2956,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "PASAR REBO",
     "kelurahan": "KALISARI",
-    "lokasi_kegiatan": "SDN Kalisari 02",
+    "lokasi_kegiatan": "SDN KALISARI 02",
     "jumlah_peserta": 120
   },
   {
@@ -2964,7 +2964,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "CIPAYUNG",
     "kelurahan": "LUBANG BUAYA",
-    "lokasi_kegiatan": "SDI Al-Hadiriyah",
+    "lokasi_kegiatan": "SDI AL-HADIRIYAH",
     "jumlah_peserta": 125
   },
   {
@@ -2972,7 +2972,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "CAKUNG",
     "kelurahan": "UJUNG MENTENG",
-    "lokasi_kegiatan": "SDN Ujung Menteng 01",
+    "lokasi_kegiatan": "SDN UJUNG MENTENG 01",
     "jumlah_peserta": 225
   },
   {
@@ -2980,7 +2980,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "MAKASAR",
     "kelurahan": "KEBON PALA",
-    "lokasi_kegiatan": "SDN Kebon Pala 05 Pagi",
+    "lokasi_kegiatan": "SDN KEBON PALA 05 PAGI",
     "jumlah_peserta": 130
   },
   {
@@ -2988,7 +2988,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "CIPAYUNG",
     "kelurahan": "CIPAYUNG",
-    "lokasi_kegiatan": "RPTRA Payung Tunas Teratai",
+    "lokasi_kegiatan": "RPTRA PAYUNG TUNAS TERATAI",
     "jumlah_peserta": 200
   },
   {
@@ -2996,7 +2996,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "CILANDAK",
     "kelurahan": "PONDOK LABU",
-    "lokasi_kegiatan": "SDN Pondok Labu 02",
+    "lokasi_kegiatan": "SDN PONDOK LABU 02",
     "jumlah_peserta": 300
   },
   {
@@ -3004,7 +3004,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "CILANDAK",
     "kelurahan": "CIPETE SELATAN",
-    "lokasi_kegiatan": "SDI Tebuireng Abdul Wahid Hasyim",
+    "lokasi_kegiatan": "SDI TEBUIRENG ABDUL WAHID HASYIM",
     "jumlah_peserta": 200
   },
   {
@@ -3012,7 +3012,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "CILANDAK",
     "kelurahan": "LEBAK BULUS",
-    "lokasi_kegiatan": "SLBN 01 Cilandak",
+    "lokasi_kegiatan": "SLBN 01 CILANDAK",
     "jumlah_peserta": 85
   },
   {
@@ -3020,7 +3020,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "JAGAKARSA",
     "kelurahan": "SRENGSENG SAWAH",
-    "lokasi_kegiatan": "RPTRA Citra Betawi",
+    "lokasi_kegiatan": "RPTRA CITRA BETAWI",
     "jumlah_peserta": 89
   },
   {
@@ -3028,7 +3028,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "CILANDAK",
     "kelurahan": "CIPETE SELATAN",
-    "lokasi_kegiatan": "TK Negeri Cipete",
+    "lokasi_kegiatan": "TK NEGERI CIPETE",
     "jumlah_peserta": 100
   },
   {
@@ -3036,7 +3036,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "JAGAKARSA",
     "kelurahan": "CIPEDAK",
-    "lokasi_kegiatan": "PAUD Alkesa",
+    "lokasi_kegiatan": "PAUD ALKESA",
     "jumlah_peserta": 80
   },
   {
@@ -3044,7 +3044,7 @@
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "KOJA",
     "kelurahan": "TUGU UTARA",
-    "lokasi_kegiatan": "SDN Tugu Utara 14",
+    "lokasi_kegiatan": "SDN TUGU UTARA 14",
     "jumlah_peserta": 80
   },
   {
@@ -3052,7 +3052,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "KOJA",
     "kelurahan": "TUGU UTARA",
-    "lokasi_kegiatan": "Ash-Sholihin",
+    "lokasi_kegiatan": "ASH-SHOLIHIN",
     "jumlah_peserta": 35
   },
   {
@@ -3060,7 +3060,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "KALIDERES",
     "kelurahan": "KAMAL",
-    "lokasi_kegiatan": "Rumah Tahfidz Kampung Qur'an",
+    "lokasi_kegiatan": "RUMAH TAHFIDZ KAMPUNG QUR'AN",
     "jumlah_peserta": 30
   },
   {
@@ -3068,7 +3068,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "KEBON JERUK",
     "kelurahan": "DURI KEPA",
-    "lokasi_kegiatan": "Ruang Aula Lt 2. Perpustakaan Jakarta Barat",
+    "lokasi_kegiatan": "RUANG AULA LT 2. PERPUSTAKAAN JAKARTA BARAT",
     "jumlah_peserta": 40
   },
   {
@@ -3076,7 +3076,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "KEBON JERUK",
     "kelurahan": "DURI KEPA",
-    "lokasi_kegiatan": "Kelurahan Tambora\nKelurahan Kalianyar\nKelurahan Slipi\nKelurahan Kota Bambu Utara\nKelurahan Cengkareng Barat",
+    "lokasi_kegiatan": "KELURAHAN TAMBORA\nKELURAHAN KALIANYAR\nKELURAHAN SLIPI\nKELURAHAN KOTA BAMBU UTARA\nKELURAHAN CENGKARENG BARAT",
     "jumlah_peserta": 7565
   },
   {
@@ -3084,7 +3084,7 @@
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "MENTENG",
     "kelurahan": "CIKINI",
-    "lokasi_kegiatan": "Perpustakaan Jakarta dan Pusat Dokumen Sastra HB Jassin",
+    "lokasi_kegiatan": "PERPUSTAKAAN JAKARTA DAN PUSAT DOKUMEN SASTRA HB JASSIN",
     "jumlah_peserta": 50777
   },
   {
@@ -3092,7 +3092,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "JAGAKARSA",
     "kelurahan": "LENTENG AGUNG",
-    "lokasi_kegiatan": "RPTRA Taman Lenteng Agung",
+    "lokasi_kegiatan": "RPTRA TAMAN LENTENG AGUNG",
     "jumlah_peserta": 40
   },
   {
@@ -3100,7 +3100,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "JAGAKARSA",
     "kelurahan": "CIPEDAK",
-    "lokasi_kegiatan": "SDN Cipedak 03",
+    "lokasi_kegiatan": "SDN CIPEDAK 03",
     "jumlah_peserta": 500
   },
   {
@@ -3108,7 +3108,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "KEBAYORAN BARU",
     "kelurahan": "KRAMAT PELA",
-    "lokasi_kegiatan": "Kelurahan Bukit Duri, Menteng Atas, Mampang Prapatan, Pasar Minggu, dan Pesanggrahan",
+    "lokasi_kegiatan": "KELURAHAN BUKIT DURI, MENTENG ATAS, MAMPANG PRAPATAN, PASAR MINGGU, DAN PESANGGRAHAN",
     "jumlah_peserta": 3624
   },
   {
@@ -3116,7 +3116,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "SETIABUDI",
     "kelurahan": "KARET KUNINGAN",
-    "lokasi_kegiatan": "SAAJA (Sekolah Alternatif Anak Jalanan)",
+    "lokasi_kegiatan": "SAAJA (SEKOLAH ALTERNATIF ANAK JALANAN)",
     "jumlah_peserta": 50
   },
   {
@@ -3124,7 +3124,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "KEBAYORAN BARU",
     "kelurahan": "KRAMAT PELA",
-    "lokasi_kegiatan": "Perpustakaan Jakarta Selatan",
+    "lokasi_kegiatan": "PERPUSTAKAAN JAKARTA SELATAN",
     "jumlah_peserta": 3639
   },
   {
@@ -3132,7 +3132,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "CIPAYUNG",
     "kelurahan": "BAMBU APUS",
-    "lokasi_kegiatan": "RPTRA Tamplas Bambu",
+    "lokasi_kegiatan": "RPTRA TAMPLAS BAMBU",
     "jumlah_peserta": 40
   },
   {
@@ -3140,7 +3140,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "CAKUNG",
     "kelurahan": "PENGGILINGAN",
-    "lokasi_kegiatan": "Rusun Penggilingan",
+    "lokasi_kegiatan": "RUSUN PENGGILINGAN",
     "jumlah_peserta": 215
   },
   {
@@ -3148,7 +3148,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "KEBAYORAN BARU",
     "kelurahan": "KRAMAT PELA",
-    "lokasi_kegiatan": "Cilandak Barat, Gandaria Utara, Jagakarsa, Pancoran, dan Petogogan",
+    "lokasi_kegiatan": "CILANDAK BARAT, GANDARIA UTARA, JAGAKARSA, PANCORAN, DAN PETOGOGAN",
     "jumlah_peserta": 3664
   },
   {
@@ -3164,7 +3164,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "TEBET",
     "kelurahan": "MENTENG DALAM",
-    "lokasi_kegiatan": "SMPN 145 Jakarta",
+    "lokasi_kegiatan": "SMPN 145 JAKARTA",
     "jumlah_peserta": 200
   },
   {
@@ -3172,7 +3172,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "PANCORAN",
     "kelurahan": "RAWAJATI",
-    "lokasi_kegiatan": "SDN Rawajati 06",
+    "lokasi_kegiatan": "SDN RAWAJATI 06",
     "jumlah_peserta": 200
   },
   {
@@ -3180,7 +3180,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "KEBAYORAN LAMA",
     "kelurahan": "KEBAYORAN LAMA SELATAN",
-    "lokasi_kegiatan": "SMPN 11 Jakarta",
+    "lokasi_kegiatan": "SMPN 11 JAKARTA",
     "jumlah_peserta": 200
   },
   {
@@ -3188,7 +3188,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "PESANGGRAHAN",
     "kelurahan": "PESANGGRAHAN",
-    "lokasi_kegiatan": "SDN Pesanggrahan 05",
+    "lokasi_kegiatan": "SDN PESANGGRAHAN 05",
     "jumlah_peserta": 200
   },
   {
@@ -3196,7 +3196,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "CIPAYUNG",
     "kelurahan": "BAMBU APUS",
-    "lokasi_kegiatan": "SMPN 31 Jakarta",
+    "lokasi_kegiatan": "SMPN 31 JAKARTA",
     "jumlah_peserta": 200
   },
   {
@@ -3204,7 +3204,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "KEBAYORAN LAMA",
     "kelurahan": "GROGOL UTARA",
-    "lokasi_kegiatan": "SDN Grogol Utara 16",
+    "lokasi_kegiatan": "SDN GROGOL UTARA 16",
     "jumlah_peserta": 200
   },
   {
@@ -3212,7 +3212,7 @@
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "JAGAKARSA",
     "kelurahan": "SRENGSENG SAWAH",
-    "lokasi_kegiatan": "RPTRA Cendikia",
+    "lokasi_kegiatan": "RPTRA CENDIKIA",
     "jumlah_peserta": 70
   }
 ]
