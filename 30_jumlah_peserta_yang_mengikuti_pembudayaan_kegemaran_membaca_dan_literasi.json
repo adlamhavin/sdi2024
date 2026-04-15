@@ -2130,8 +2130,8 @@
   {
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
-    "kecamatan": "",
-    "kelurahan": "",
+    "kecamatan": "TAMAN SARI",
+    "kelurahan": "PINANGSIA",
     "lokasi_kegiatan": "Museum Bank Indonesia",
     "jumlah_peserta": 100
   },
@@ -2146,16 +2146,16 @@
   {
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
-    "kecamatan": "",
-    "kelurahan": "",
+    "kecamatan": "TAMAN SARI",
+    "kelurahan": "PINANGSIA",
     "lokasi_kegiatan": "Museum Bank Mandiri",
     "jumlah_peserta": 150
   },
   {
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
-    "kecamatan": "",
-    "kelurahan": "",
+    "kecamatan": "KEBON JERUK",
+    "kelurahan": "KEBON JERUK",
     "lokasi_kegiatan": "TKN Kebon Jeruk 01",
     "jumlah_peserta": 75
   },
