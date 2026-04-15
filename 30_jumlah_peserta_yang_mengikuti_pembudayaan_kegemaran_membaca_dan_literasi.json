@@ -403,7 +403,7 @@
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "MAKASAR",
-    "kelurahan": "HALIM PERDANAKUSUMA",
+    "kelurahan": "HALIM PERDANA KUSUMA",
     "lokasi_kegiatan": "SDS Angkasa 7",
     "jumlah_peserta": 30
   },
@@ -579,7 +579,7 @@
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA PUSAT",
     "kecamatan": "JOHAR BARU",
-    "kelurahan": "KRAMAT PULO BUNDAR",
+    "kelurahan": "TANAH TINGGI",
     "lokasi_kegiatan": "SMPN 156",
     "jumlah_peserta": 727
   },
@@ -1283,7 +1283,7 @@
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "KRAMATJATI",
-    "kelurahan": "KRAMAT JATI",
+    "kelurahan": "CAWANG",
     "lokasi_kegiatan": "SMA Muhammadiyah 4 Jakarta",
     "jumlah_peserta": 50
   },
@@ -1291,7 +1291,7 @@
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "MAKASAR",
-    "kelurahan": "PINANG RANTI",
+    "kelurahan": "PINANGRANTI",
     "lokasi_kegiatan": "RPTRA Kampung Pulo Asri",
     "jumlah_peserta": 80
   },
@@ -1859,7 +1859,7 @@
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA UTARA",
     "kecamatan": "PENJARINGAN",
-    "kelurahan": "MUARA BARU",
+    "kelurahan": "PLUIT",
     "lokasi_kegiatan": "SMPN 261 Jakarta",
     "jumlah_peserta": 80
   },
@@ -2323,7 +2323,7 @@
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "TAMBORA",
-    "kelurahan": "KALIANYAR",
+    "kelurahan": "KALI ANYAR",
     "lokasi_kegiatan": "SD Negeri Kalianyar 01",
     "jumlah_peserta": 400
   },
@@ -2611,7 +2611,7 @@
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "PASAR MINGGU",
-    "kelurahan": "JATIPADANG",
+    "kelurahan": "JATI PADANG",
     "lokasi_kegiatan": "SDN Jatipadang 05",
     "jumlah_peserta": 35
   },
@@ -2787,15 +2787,15 @@
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "MAKASAR",
-    "kelurahan": "PINANG RANTI",
+    "kelurahan": "PINANGRANTI",
     "lokasi_kegiatan": "SDN PINANG RANTI 07",
     "jumlah_peserta": 614
   },
   {
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
-    "kecamatan": "PANCORAN",
-    "kelurahan": "KOMPLEK DPR RI",
+    "kecamatan": "DUREN SAWIT",
+    "kelurahan": "PONDOK BAMBU",
     "lokasi_kegiatan": "TPA Tat Twam Asi",
     "jumlah_peserta": 21
   },
