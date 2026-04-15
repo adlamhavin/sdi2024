@@ -122,7 +122,7 @@
   {
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
-    "kecamatan": "KRAMAT JATI",
+    "kecamatan": "KRAMATJATI",
     "kelurahan": "BATU AMPAR",
     "lokasi_kegiatan": "SDN Batu Ampar 12",
     "jumlah_peserta": 340
@@ -138,7 +138,7 @@
   {
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
-    "kecamatan": "PULO GADUNG",
+    "kecamatan": "PULOGADUNG",
     "kelurahan": "RAWAMANGUN",
     "lokasi_kegiatan": "HBKB Rwamangun",
     "jumlah_peserta": 38
@@ -154,7 +154,7 @@
   {
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
-    "kecamatan": "KRAMAT JATI",
+    "kecamatan": "KRAMATJATI",
     "kelurahan": "BATU AMPAR",
     "lokasi_kegiatan": "SDN Batu Ampar 13",
     "jumlah_peserta": 318
@@ -162,7 +162,7 @@
   {
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
-    "kecamatan": "KRAMAT JATI",
+    "kecamatan": "KRAMATJATI",
     "kelurahan": "CILILITAN",
     "lokasi_kegiatan": "SDI Cililitan II",
     "jumlah_peserta": 108
@@ -234,7 +234,7 @@
   {
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
-    "kecamatan": "KRAMAT JATI",
+    "kecamatan": "KRAMATJATI",
     "kelurahan": "DUKUH",
     "lokasi_kegiatan": "SMPN 209 Jakarta",
     "jumlah_peserta": 150
@@ -250,7 +250,7 @@
   {
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
-    "kecamatan": "PULO GADUNG",
+    "kecamatan": "PULOGADUNG",
     "kelurahan": "JATINEGARA KAUM",
     "lokasi_kegiatan": "SDN JATINEGARA KAUM 11",
     "jumlah_peserta": 150
@@ -298,7 +298,7 @@
   {
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
-    "kecamatan": "PULO GADUNG",
+    "kecamatan": "PULOGADUNG",
     "kelurahan": "JATINEGARA",
     "lokasi_kegiatan": "SMPN 275 Jakarta",
     "jumlah_peserta": 150
@@ -330,7 +330,7 @@
   {
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
-    "kecamatan": "KRAMAT JATI",
+    "kecamatan": "KRAMATJATI",
     "kelurahan": "TENGAH",
     "lokasi_kegiatan": "SMPN 257 Jakarta",
     "jumlah_peserta": 150
@@ -930,8 +930,8 @@
   {
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
-    "kecamatan": "LEBAK BULUS",
-    "kelurahan": "CILANDAK",
+    "kecamatan": "CILANDAK",
+    "kelurahan": "LEBAK BULUS",
     "lokasi_kegiatan": "SLBN 02 Jakarta",
     "jumlah_peserta": 300
   },
@@ -994,7 +994,7 @@
   {
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
-    "kecamatan": "PALMERAH",
+    "kecamatan": "PAL MERAH",
     "kelurahan": "PALMERAH",
     "lokasi_kegiatan": "TBM Edelweid",
     "jumlah_peserta": 40
@@ -1114,7 +1114,7 @@
   {
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
-    "kecamatan": "PULO GADUNG",
+    "kecamatan": "PULOGADUNG",
     "kelurahan": "PULO GADUNG",
     "lokasi_kegiatan": "SDN Pulogadung 07",
     "jumlah_peserta": 210
@@ -1250,7 +1250,7 @@
   {
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
-    "kecamatan": "PULO GADUNG",
+    "kecamatan": "PULOGADUNG",
     "kelurahan": "JATI",
     "lokasi_kegiatan": "Taman Nilam Jati, Pulo Gadung",
     "jumlah_peserta": 150
@@ -1282,7 +1282,7 @@
   {
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
-    "kecamatan": "KRAMAT JATI",
+    "kecamatan": "KRAMATJATI",
     "kelurahan": "KRAMAT JATI",
     "lokasi_kegiatan": "SMA Muhammadiyah 4 Jakarta",
     "jumlah_peserta": 50
@@ -1882,7 +1882,7 @@
   {
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA UTARA",
-    "kecamatan": "PADAMANGAN",
+    "kecamatan": "PADEMANGAN",
     "kelurahan": "PADEMANGAN TIMUR",
     "lokasi_kegiatan": "SMPN 23 Jakarta",
     "jumlah_peserta": 80
@@ -2074,7 +2074,7 @@
   {
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
-    "kecamatan": "PULO GADUNG",
+    "kecamatan": "PULOGADUNG",
     "kelurahan": "RAWAMANGUN",
     "lokasi_kegiatan": "HBKB Rawamangun",
     "jumlah_peserta": 69
@@ -2290,7 +2290,7 @@
   {
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
-    "kecamatan": "PULO GADUNG",
+    "kecamatan": "PULOGADUNG",
     "kelurahan": "KAYU PUTIH",
     "lokasi_kegiatan": "SDS Islam Tugasku",
     "jumlah_peserta": 125
@@ -2306,7 +2306,7 @@
   {
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
-    "kecamatan": "PALMERAH",
+    "kecamatan": "PAL MERAH",
     "kelurahan": "JATIPULO",
     "lokasi_kegiatan": "RPTRA Jati Pulo",
     "jumlah_peserta": 30
@@ -2314,7 +2314,7 @@
   {
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
-    "kecamatan": "PULO GADUNG",
+    "kecamatan": "PULOGADUNG",
     "kelurahan": "JATI",
     "lokasi_kegiatan": "SDN Jati 03",
     "jumlah_peserta": 503
@@ -2434,7 +2434,7 @@
   {
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
-    "kecamatan": "PULO GADUNG",
+    "kecamatan": "PULOGADUNG",
     "kelurahan": "KAYU PUTIH",
     "lokasi_kegiatan": "SDN Kayu Putih 03",
     "jumlah_peserta": 420
@@ -2442,7 +2442,7 @@
   {
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
-    "kecamatan": "PALMERAH",
+    "kecamatan": "PAL MERAH",
     "kelurahan": "KEMANGGISAN",
     "lokasi_kegiatan": "Taman Cattleya",
     "jumlah_peserta": 70
@@ -2466,48 +2466,48 @@
   {
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
-    "kecamatan": "DURI KEPA",
-    "kelurahan": "KEBON JERUK",
+    "kecamatan": "KEBON JERUK",
+    "kelurahan": "DURI KEPA",
     "lokasi_kegiatan": "SDN Duri Kepa 17",
     "jumlah_peserta": 125
   },
   {
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
-    "kecamatan": "DURI KOSAMBI",
-    "kelurahan": "CENGKARENG",
+    "kecamatan": "CENGKARENG",
+    "kelurahan": "DURI KOSAMBI",
     "lokasi_kegiatan": "SDN Duri Kosambi 07",
     "jumlah_peserta": 125
   },
   {
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
-    "kecamatan": "CENGKARENG BARAT",
-    "kelurahan": "CENGKARENG",
+    "kecamatan": "CENGKARENG",
+    "kelurahan": "CENGKARENG BARAT",
     "lokasi_kegiatan": "SMPN 132 Jakarta",
     "jumlah_peserta": 125
   },
   {
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
-    "kecamatan": "DURI KEPA",
-    "kelurahan": "KEBON JERUK",
+    "kecamatan": "KEBON JERUK",
+    "kelurahan": "DURI KEPA",
     "lokasi_kegiatan": "SDN Duri Kepa 16",
     "jumlah_peserta": 125
   },
   {
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
-    "kecamatan": "TANJUNG DUREN UTARA",
-    "kelurahan": "GROGOL PETAMBURAN",
+    "kecamatan": "GROGOL PETAMBURAN",
+    "kelurahan": "TANJUNG DUREN UTARA",
     "lokasi_kegiatan": "SMPN 89 Jakarta",
     "jumlah_peserta": 125
   },
   {
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
-    "kecamatan": "RAWA BUAYA",
-    "kelurahan": "CENGKARENG",
+    "kecamatan": "CENGKARENG",
+    "kelurahan": "RAWA BUAYA",
     "lokasi_kegiatan": "SDN Rawa Buaya 01",
     "jumlah_peserta": 125
   },
@@ -2522,15 +2522,15 @@
   {
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
-    "kecamatan": "RAWA BUAYA",
-    "kelurahan": "CENGKARENG",
+    "kecamatan": "CENGKARENG",
+    "kelurahan": "RAWA BUAYA",
     "lokasi_kegiatan": "SDN Rawabuaya 02",
     "jumlah_peserta": 125
   },
   {
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
-    "kecamatan": "PALMERAH",
+    "kecamatan": "PAL MERAH",
     "kelurahan": "PALMERAH",
     "lokasi_kegiatan": "SDN Palmerah 17",
     "jumlah_peserta": 125
@@ -2538,48 +2538,48 @@
   {
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
-    "kecamatan": "KEMANGGISAN",
-    "kelurahan": "PALMERAH",
+    "kecamatan": "PAL MERAH",
+    "kelurahan": "KEMANGGISAN",
     "lokasi_kegiatan": "SMPN 83 Jakarta",
     "jumlah_peserta": 125
   },
   {
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
-    "kecamatan": "TANJUNG DUREN UTARA",
-    "kelurahan": "GROGOL PETAMBURAN",
+    "kecamatan": "GROGOL PETAMBURAN",
+    "kelurahan": "TANJUNG DUREN UTARA",
     "lokasi_kegiatan": "SDN Tanjung Duren Utara 02",
     "jumlah_peserta": 125
   },
   {
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
-    "kecamatan": "MERUYA SELATAN",
-    "kelurahan": "KEMBANGAN",
+    "kecamatan": "KEMBANGAN",
+    "kelurahan": "MERUYA SELATAN",
     "lokasi_kegiatan": "SMPN 176 Jakarta",
     "jumlah_peserta": 125
   },
   {
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
-    "kecamatan": "TEGAL ALUR",
-    "kelurahan": "KALIDERES",
+    "kecamatan": "KALIDERES",
+    "kelurahan": "TEGAL ALUR",
     "lokasi_kegiatan": "RPTRA Alur Flamboyan",
     "jumlah_peserta": 50
   },
   {
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
-    "kecamatan": "RAWA BUAYA",
-    "kelurahan": "CENGKARENG",
+    "kecamatan": "CENGKARENG",
+    "kelurahan": "RAWA BUAYA",
     "lokasi_kegiatan": "RPTRA Sugriwa",
     "jumlah_peserta": 50
   },
   {
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA BARAT",
-    "kecamatan": "CENGKARENG BARAT",
-    "kelurahan": "CENGKARENG",
+    "kecamatan": "CENGKARENG",
+    "kelurahan": "CENGKARENG BARAT",
     "lokasi_kegiatan": "RPTRA Bambu Kuning",
     "jumlah_peserta": 50
   },
@@ -2674,7 +2674,7 @@
   {
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
-    "kecamatan": "PULO GADUNG",
+    "kecamatan": "PULOGADUNG",
     "kelurahan": "KAYU PUTIH",
     "lokasi_kegiatan": "SDN KAYU PUTIH 09",
     "jumlah_peserta": 260
@@ -2682,7 +2682,7 @@
   {
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
-    "kecamatan": "PULO GADUNG",
+    "kecamatan": "PULOGADUNG",
     "kelurahan": "KAYU PUTIH",
     "lokasi_kegiatan": "SDN KAYU PUTIH 07",
     "jumlah_peserta": 282
@@ -2706,7 +2706,7 @@
   {
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
-    "kecamatan": "KRAMAT JATI",
+    "kecamatan": "KRAMATJATI",
     "kelurahan": "BALEKAMBANG",
     "lokasi_kegiatan": "SD ISLAM TELADAN YPKUI",
     "jumlah_peserta": 190
@@ -2746,7 +2746,7 @@
   {
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
-    "kecamatan": "PULO GADUNG",
+    "kecamatan": "PULOGADUNG",
     "kelurahan": "CIPINANG",
     "lokasi_kegiatan": "TK Kuntum Suci I",
     "jumlah_peserta": 35
