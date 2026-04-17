@@ -51,14 +51,6 @@
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "CIRACAS",
-    "kelurahan": "CIBUBUR",
-    "lokasi_kegiatan": "SDN CIBUBUR 04",
-    "jumlah_peserta": 500
-  },
-  {
-    "periode_data": 2025,
-    "wilayah": "KOTA ADM. JAKARTA TIMUR",
-    "kecamatan": "CIRACAS",
     "kelurahan": "CIRACAS",
     "lokasi_kegiatan": "SDN CIRACAS 11",
     "jumlah_peserta": 358
@@ -437,7 +429,7 @@
     "kecamatan": "JATINEGARA",
     "kelurahan": "RAWA BUNGA",
     "lokasi_kegiatan": "MEDIA SOSIAL",
-    "jumlah_peserta": 22490
+    "jumlah_peserta": 64440
   },
   {
     "periode_data": 2025,
@@ -1554,10 +1546,10 @@
   {
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
-    "kecamatan": "JATINEGARA",
-    "kelurahan": "RAWA BUNGA",
-    "lokasi_kegiatan": "MEDIA SOSIAL",
-    "jumlah_peserta": 41950
+    "kecamatan": "CIRACAS",
+    "kelurahan": "CIBUBUR",
+    "lokasi_kegiatan": "SDN CIBUBUR 04",
+    "jumlah_peserta": 500
   },
   {
     "periode_data": 2025,
