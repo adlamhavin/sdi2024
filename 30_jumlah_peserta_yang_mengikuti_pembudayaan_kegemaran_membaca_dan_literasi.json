@@ -410,14 +410,6 @@
   {
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
-    "kecamatan": "CAKUNG",
-    "kelurahan": "UJUNG MENTENG",
-    "lokasi_kegiatan": "SEKOLAH AL-WILDAN ISLAMIC SCHOOL 10 JAKARTA",
-    "jumlah_peserta": 115
-  },
-  {
-    "periode_data": 2025,
-    "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "DUREN SAWIT",
     "kelurahan": "PONDOK KOPI",
     "lokasi_kegiatan": "TK AL ISTIQOMAH",
@@ -436,7 +428,7 @@
     "wilayah": "KOTA ADM. JAKARTA TIMUR",
     "kecamatan": "JATINEGARA",
     "kelurahan": "RAWA BUNGA",
-    "lokasi_kegiatan": "ZOOM MEETING",
+    "lokasi_kegiatan": "DARING",
     "jumlah_peserta": 75
   },
   {
@@ -593,11 +585,11 @@
   },
   {
     "periode_data": 2025,
-    "wilayah": "KOTA ADM. JAKARTA PUSAT",
-    "kecamatan": "GAMBIR",
-    "kelurahan": "PETOJO SELATAN",
-    "lokasi_kegiatan": "ZOOM",
-    "jumlah_peserta": 85
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
+    "kecamatan": "KEBAYORAN LAMA",
+    "kelurahan": "GROGOL UTARA",
+    "lokasi_kegiatan": "SDN GROGOL UTARA 16",
+    "jumlah_peserta": 200
   },
   {
     "periode_data": 2025,
@@ -1573,7 +1565,7 @@
     "kecamatan": "GAMBIR",
     "kelurahan": "PETOJO SELATAN",
     "lokasi_kegiatan": "DARING",
-    "jumlah_peserta": 1667
+    "jumlah_peserta": 2252
   },
   {
     "periode_data": 2025,
@@ -2049,11 +2041,11 @@
   },
   {
     "periode_data": 2025,
-    "wilayah": "KOTA ADM. JAKARTA PUSAT",
-    "kecamatan": "GAMBIR",
-    "kelurahan": "PETOJO SELATAN",
-    "lokasi_kegiatan": "ONLINE",
-    "jumlah_peserta": 282
+    "wilayah": "KOTA ADM. JAKARTA TIMUR",
+    "kecamatan": "CAKUNG",
+    "kelurahan": "UJUNG MENTENG",
+    "lokasi_kegiatan": "SEKOLAH AL-WILDAN ISLAMIC SCHOOL 10 JAKARTA",
+    "jumlah_peserta": 115
   },
   {
     "periode_data": 2025,
@@ -2460,7 +2452,7 @@
     "wilayah": "KOTA ADM. JAKARTA BARAT",
     "kecamatan": "KEBON JERUK",
     "kelurahan": "DURI KEPA",
-    "lokasi_kegiatan": "ONLINE DAN RUANG AULA LANTAI 2 PERPUSTAKAAN JAKARTA BARAT",
+    "lokasi_kegiatan": "DARING DAN RUANG AULA LANTAI 2 PERPUSTAKAAN JAKARTA BARAT",
     "jumlah_peserta": 11
   },
   {
@@ -2849,11 +2841,11 @@
   },
   {
     "periode_data": 2025,
-    "wilayah": "KOTA ADM. JAKARTA PUSAT",
-    "kecamatan": "GAMBIR",
-    "kelurahan": "PETOJO SELATAN",
-    "lokasi_kegiatan": "VIRTUAL",
-    "jumlah_peserta": 218
+    "wilayah": "KOTA ADM. JAKARTA SELATAN",
+    "kecamatan": "TEBET",
+    "kelurahan": "MENTENG DALAM",
+    "lokasi_kegiatan": "SMPN 145 JAKARTA",
+    "jumlah_peserta": 200
   },
   {
     "periode_data": 2025,
@@ -3162,14 +3154,6 @@
   {
     "periode_data": 2025,
     "wilayah": "KOTA ADM. JAKARTA SELATAN",
-    "kecamatan": "TEBET",
-    "kelurahan": "MENTENG DALAM",
-    "lokasi_kegiatan": "SMPN 145 JAKARTA",
-    "jumlah_peserta": 200
-  },
-  {
-    "periode_data": 2025,
-    "wilayah": "KOTA ADM. JAKARTA SELATAN",
     "kecamatan": "PANCORAN",
     "kelurahan": "RAWAJATI",
     "lokasi_kegiatan": "SDN RAWAJATI 06",
@@ -3197,14 +3181,6 @@
     "kecamatan": "CIPAYUNG",
     "kelurahan": "BAMBU APUS",
     "lokasi_kegiatan": "SMPN 31 JAKARTA",
-    "jumlah_peserta": 200
-  },
-  {
-    "periode_data": 2025,
-    "wilayah": "KOTA ADM. JAKARTA SELATAN",
-    "kecamatan": "KEBAYORAN LAMA",
-    "kelurahan": "GROGOL UTARA",
-    "lokasi_kegiatan": "SDN GROGOL UTARA 16",
     "jumlah_peserta": 200
   },
   {
