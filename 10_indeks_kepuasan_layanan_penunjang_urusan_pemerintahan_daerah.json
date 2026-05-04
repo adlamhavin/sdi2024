@@ -1,32 +1,32 @@
 [
   {
-    "periode_data": 202512,
-    "triwulan": 4,
+    "periode_data": 202603,
+    "triwulan": 1,
     "jenis_layanan": "LAYANAN ADMINISTRASI UMUM",
-    "nilai_indeks": "94.267"
+    "nilai_indeks": 93.369
   },
   {
-    "periode_data": 202512,
-    "triwulan": 4,
+    "periode_data": 202603,
+    "triwulan": 1,
     "jenis_layanan": "LAYANAN ADMINISTRASI KEUANGAN",
-    "nilai_indeks": "94.489"
+    "nilai_indeks": 93.1
   },
   {
-    "periode_data": 202512,
-    "triwulan": 4,
+    "periode_data": 202603,
+    "triwulan": 1,
     "jenis_layanan": "LAYANAN PENGADAAN BARANG MILIK DAERAH PENUNJANG URUSAN PEMERINTAHAN DAERAH",
-    "nilai_indeks": "94.111"
+    "nilai_indeks": 93.212
   },
   {
-    "periode_data": 202512,
-    "triwulan": 4,
+    "periode_data": 202603,
+    "triwulan": 1,
     "jenis_layanan": "LAYANAN PENYEDIAAN JASA PENUNJANG URUSAN PEMERINTAHAN DAERAH",
-    "nilai_indeks": "94.378"
+    "nilai_indeks": 92.911
   },
   {
-    "periode_data": 202512,
-    "triwulan": 4,
+    "periode_data": 202603,
+    "triwulan": 1,
     "jenis_layanan": "LAYANAN PEMELIHARAAN BARANG MILIK DAERAH PENUNJANG URUSAN PEMERINTAHAN DAERAH",
-    "nilai_indeks": "94.133"
+    "nilai_indeks": 92.889
   }
 ]
